@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>CLM</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-01-14T00:16:43-06:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Carlos</name>
+   <email>carloslucmat1@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Ideas para recopilar cosas</title>
+   <link href="http://localhost:4000/2022/12/30/ideas-recopilacion"/>
+   <updated>2022-12-30T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/12/30/ideas-recopilacion</id>
+   <content type="html">&lt;h2 id=&quot;palabras-clave-de-raymond-williams&quot;&gt;&lt;em&gt;Palabras clave&lt;/em&gt; de Raymond Williams&lt;/h2&gt;
+&lt;p&gt;Glosario de conceptos de teoría social rastreando su etimología, historia y los diferentes usos que se les ha dado. No solo eso, sino que R. Williams aprovecha para dar su particular posición sobre la definición y uso de los conceptos.&lt;/p&gt;
+
+&lt;h2 id=&quot;theorizing-ritualsannotated-bibliography-of-ritual-theory-19662005-de-kreinath-snoek--stausberg&quot;&gt;&lt;em&gt;Theorizing Rituals:Annotated Bibliography of Ritual Theory, 1966–2005&lt;/em&gt; de Kreinath, Snoek &amp;amp; Stausberg&lt;/h2&gt;
+&lt;p&gt;Es la segunda parte de una serie dedicada a la “teoría del ritual”. El primer volumen es un texto con capítulos sobre temas clásicos sobre el tema. Éstos van desde cuestiones metodológicas, teóricas y conceptuales, tanto clásicas como novedosas. El primer volumen termina con un &lt;em&gt;Index&lt;/em&gt; del libro como ningún otro que haya visto: detallado, preciso, valioso por sí mismo. El segundo volumen es igualmente llamativo. El libro es una bibliografía anotada de más de quinientos ítems sobre el mismo tema. Incluye además apéndices que complementan la imagen esbozada por la bibliografía y sus comentarios.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/theo-bib-rit.png&quot; alt=&quot;hola&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A Short Glossary of Network Analysis Terms by Emirbayer &amp; Goodwin</title>
+   <link href="http://localhost:4000/2022/12/02/network-analysis-terms"/>
+   <updated>2022-12-02T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/12/02/Network-Analysis-Terms</id>
+   <content type="html">&lt;h2 id=&quot;glosario-de-terminos-de-análisis-de-redes-sociales-por-mustafa-emirbayer-y-jeff-goodwin&quot;&gt;Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Emirbayer, M., &amp;amp; Goodwin, J. (1994). Network Analysis, Culture, and the Problem of Agency. American Journal of Sociology, 99(6), 1411–1454.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;[Esta lista tiene errores de origen, mejor ver el artículo original en el apéndice final]&lt;/p&gt;
+
+&lt;p&gt;The following definitions are meant to orient the general reader to the basic terms of network analysis as well as to convey the way in which certain more general sociological concepts have been “translated” into these terms.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Actor&lt;/strong&gt;: A person, group, organization, thing, event, and so on, linked to others in a network. This is sometimes referred to as a “node.”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Asymmetric tie&lt;/strong&gt;: A relation whose form, content, or both is different for the linked actors. See also &lt;em&gt;symmetric tie&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Block&lt;/strong&gt;: A set of structurally equivalent actors in a multiplex network. See also &lt;em&gt;multiplex network&lt;/em&gt; and &lt;em&gt;structural equivalence&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Blockmodeling&lt;/strong&gt;: A technique for finding or “partitioning” (and graphically representing) structurally equivalent actors (or blocks) in a network.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Boundary problem&lt;/strong&gt;: The problem of defining the population of actors to be studied through network analysis in a way which does not depend on a priori categories; in other words, the problem of delimiting the study of social networks which in reality may have no limits.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Catnet (from category and network)&lt;/strong&gt;: A socially cohesive set of structurally equivalent actors hypothesized as more able and likely to share ideas or a common culture and to engage in collective action than other sorts of real or latent groups. See also &lt;em&gt;social cohesion&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Centralit&lt;/strong&gt;y: The number of an actor’s ties to others, weighted by the number of the latter’s ties to others.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Clique&lt;/strong&gt;: A group of actors in which each is directly and strongly linked to all of the others. Compare &lt;em&gt;social circle&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Content&lt;/strong&gt;: The specific nature or type of relation linking actors in a network (e.g., exchange, kinship, communicative, affective, instrumental, or power relations&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Density&lt;/strong&gt;: The ratio of actual relations or ties among a set of actors in a network and the maximum possible number of ties.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Distance&lt;/strong&gt;: A function of the number and strength of social ties separating two actors.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Dualism&lt;/strong&gt;: The idea that the nature of groups is determined by the intersection of the actors within them (i.e., by the actions of their members), and that the nature of actors is determined by the intersection of groups “within” them (i.e., by their group affiliations).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Egocentric network&lt;/strong&gt;: An actor (sometimes called the “anchorage”), the actors with which it has relation, and the relations among those actors. This is sometimes referred to as a “personal network.”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Form&lt;/strong&gt;: The formal properties of the relations among actors in a network (e.g., strength or weakness, density, symmetry or asymmetry).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Multiplex network&lt;/strong&gt;: A network with two or more types of relations linking actors (e.g., exchange and communication in a market or communicative and affective ties in a clique).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Network&lt;/strong&gt;: The set of social relations or social ties among a set of actors (and the actors themselves thus linked).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Network structure&lt;/strong&gt;: The patterning of relations and “holes” among actors in a network. See also &lt;em&gt;structural holes&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Position&lt;/strong&gt;: A set of structurally equivalent actors or nodes (e.g., a block).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Positional approach&lt;/strong&gt;: An analysis that focuses on the patterning of structurally equivalent relations among actors. See also &lt;em&gt;relational approach&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Range&lt;/strong&gt;: The number of an actor’s ties to others. See also &lt;em&gt;centrality&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Relational approach&lt;/strong&gt;: An analysis that focuses on patterning of socially cohesive relations among actors. See also &lt;em&gt;positional approach&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Role&lt;/strong&gt;: The pattern of relations of a set of structurally equivalent actors (i.e., a block) to other blocks.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Simultaneity&lt;/strong&gt;, the principle of. The idea that all positions and roles (see above) are determined relative to one another and thus cannot be assumed or altered independently of one another.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social circle&lt;/strong&gt;: A group in which each actor is directly and strongly linked to most (e.g., 80%), but not necessarily all, others. This is sometimes called a “social cluster.” Compare &lt;em&gt;clique&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social cohesion&lt;/strong&gt;: The presence of a dense network of strong ties among a set of actors. See also &lt;em&gt;clique&lt;/em&gt; and &lt;em&gt;social circle&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social structure&lt;/strong&gt;: The persisting pattern of ties among actors; more specifically, a network (microstructure) or the network of networks (macrostructure).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Strength of ties&lt;/strong&gt;: The relative frequency, duration, emotional intensity, reciprocal exchange, and so on which characterize a given tie or set of ties.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Structural equivalence&lt;/strong&gt;: The sharing, by a set of two or more actors who are not necessarily linked themselves, of equivalent relations to a third actor.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Structural hole&lt;/strong&gt;: The absence of a relation among actors in a network (a crucial element of network structure).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Symmetric tie&lt;/strong&gt;: A relation whose form and/or content is the same for the linked actors. See also &lt;em&gt;asymmetric tie&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Doppelgangers</title>
+   <link href="http://localhost:4000/2022/11/03/doppelgangers"/>
+   <updated>2022-11-03T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2022/11/03/doppelgangers</id>
+   <content type="html">&lt;p&gt;During the process of writing my thesis, I found something weird. When I was doing my literature review about indigenous politics I realize there were two pairs of doppelgangers. The first couple was composed by John Gledhill, a former professor at the University of Manchester, and John Gledhill, a professor at Oxford. It would be enough if their names were the same, but it doesn’t end there. They also shared academic interests!&lt;/p&gt;
+
+&lt;p&gt;The first John Gledhill, the true one for me, is a well-recognized anthropologist. In the nineties, he did fieldwork in Michoacán, the region where I’m interested. He published works on the impacts of neoliberalism and political inestability in México. More recently he has written about indigenous autonomies, their difficulties with the State, and with criminal groups. On the other hand, the younger John Gledhill is an internationalist and professor of Global Governance in the Department of International Development. His research focuses on the topics of conflict, peace, and resistance. He has published about globalization, war, and peace-making. Both share an interest in international politics and difficult settings, and also they both are looking for ways to improve the environments where they work.&lt;/p&gt;
+
+&lt;p&gt;The other pair of doppelgangers are Jeffrey W. Rubin and Jeffrey Z. Rubin. I like how they differentiate from each other only by their middle name initials. “W” Rubin (again, the real one for me) is a professor of history at Boston University. According to his profile on the BU website, “W” Rubin researches “Latin American history with a focus on the historical and cultural origins of grassroots activism and the ways in which social movements contribute to the deepening of democracy in the twentieth and twenty-first centuries”. While “W” research Latin American history of democracies and activisms, “Z” Rubin was a renamed psychologist from Harvard interested in peace, negotiation, and resolution of conflict. Those interests connect him directly with one of the previous Gledhills, the younger one.&lt;/p&gt;
+
+&lt;p&gt;Finally, although I didn’t use the works of internationalist John Gledhill nor the ones by “Z” Rubin, I did use the theoretical works by sociologist Randall Collins about conflict and negotiation. For me, this is enough evidence that the developments in one discipline are parallels to the developments in others. Maybe we’re all working on the same project. Anthropologists, internationalists, historians, sociologists, and who knows who more, are in the same endeavor of understanding the world and making it a better place.  Maybe the only thing we need to do is look out for our doppelgangers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/gledhills.png&quot; alt=&quot;The two Gledhills&quot; /&gt;
+&lt;img src=&quot;/images/rubins.png&quot; alt=&quot;The two Rubins&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Diagramas en antropología</title>
+   <link href="http://localhost:4000/2021/02/18/diagramas"/>
+   <updated>2021-02-18T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/02/18/diagramas</id>
+   <content type="html">&lt;p&gt;Los diagramas, aunque en principio pueden ser tan imaginativos como queramos, vale decir que también existen convenciones gráficas y formales en torno a ellos, sin que eso signifique necesariamente una limitación creativa. Por ejemplo, los diagramas de flujo, aunque son una herramienta principalmente para la representación de procesos informáticos e industriales, su lenguaje visual puede extenderse para explicar teoría antropológica, como lo demostró Alfred Gell en su ensayo &lt;em&gt;Strathernograms&lt;/em&gt; sobre el trabajo de Marilyn Strathern. Algo similar ocurre con los lattices, herramientas matemáticas para representar estructuras algebraicas. Estas visualizaciones han sido utilizadas en antropología por Lévi-Strauss para ilustrar el “operador totémico”, o Marshall Sahlins al proponer una alternativa a la taxonomía ontológica cuatripartita de Philippe Descola. Este mismo juego gráfico entre las convenciones y la innovación está presente en otros trabajos como el de Evans-Pritchard, que logró visualizar las relaciones ecológicas y su influencia en las instituciones sociales nuer a través de una nube de palabras complejizada con la estructura de una tabla y la información de un calendario. Lo mismo se puede decir de las modificaciones realizadas por Edmund Leach a las convenciones de los diagramas de parentesco, integrando así complejidades teóricas sobre la filiación minimizadas por la teoría funcionalista. Lo importante de estos ejemplos es que puedan servirte de inspiración para ampliar las posibilidades de presentar tu información de formas eficaces, coherentes y creativas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/sahlins-lattice.jpg&quot; alt=&quot;Lattice de Sahlins adaptado por Barbosa de Almeida&quot; /&gt;
+&lt;img src=&quot;/images/strath-gell.jpg&quot; alt=&quot;Strathenograms, por Alfred Gell&quot; /&gt;
+&lt;img src=&quot;/images/evans-calendario.jpg&quot; alt=&quot;Tabla-calendario de las relaciones ecológicas-sociales de los Nuer por Evans-Pritchard&quot; /&gt;
+&lt;img src=&quot;/images/godelier-trading.png&quot; alt=&quot;Diagrama de los tipos de intercambio entre los baruya por Maurice Godelier&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;El blog &lt;a href=&quot;https://anthropologyoffthegrid.wordpress.com/ethnograms/diagrams-in-anthropology/&quot;&gt;Life Off The Grid&lt;/a&gt; tiene una entrada sobre los distintos usos de los diagramas en antropología.&lt;/p&gt;
+
+&lt;p&gt;Para mayor información, es posible revisar algunos recursos dedicados a la visualización de datos. Puedes indagar en &lt;a href=&quot;https://datavizcatalogue.com/index.html&quot;&gt;&lt;em&gt;The Data Visualisation Catalogue&lt;/em&gt;&lt;/a&gt; y &lt;a href=&quot;https://datavizcatalogue.com/resources.html&quot;&gt;otros recursos&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Álbumes III: Electrónica ambiental</title>
+   <link href="http://localhost:4000/2021/02/12/albums-ambient"/>
+   <updated>2021-02-12T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/02/12/albums-ambient</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Álbumes II: House 90s</title>
+   <link href="http://localhost:4000/2021/02/10/albumes-house"/>
+   <updated>2021-02-10T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/02/10/albumes-house</id>
+   <content type="html">&lt;h2 id=&quot;bizarre-inc--playing-with-knives--plutonic-1991&quot;&gt;Bizarre Inc – Playing With Knives / Plutonic (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/X0W2nMIC6Izd4FFIFQl-8eN1LxM=/fit-in/526x523/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-33437-1182214455.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;k-klass--rhythm-is-a-mystery-1991&quot;&gt;K-Klass – Rhythm Is A Mystery (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/cF3xInUulpHyLefuFCThxFyqTXg=/fit-in/600x581/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-74490-1427420891-4473.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;bassheads--is-there-anybody-out-there-1991&quot;&gt;Bassheads – Is There Anybody Out There? (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/cTkm5wPPNepaPQbU9mfBYyb7Gms=/fit-in/600x585/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-106796-1594661830-9808.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;shades-of-rhythm--the-sound-of-eden-every-time-i-see-her-1991&quot;&gt;Shades Of Rhythm – The Sound Of Eden (Every Time I See Her) (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/3n9-3ks5Jw4Pj3go0HQ1kNetMiI=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6552-1256911612.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Álbumes I: Techno Clásico</title>
+   <link href="http://localhost:4000/2021/02/08/techno-albums"/>
+   <updated>2021-02-08T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/02/08/techno-albums</id>
+   <content type="html">&lt;h2 id=&quot;cybotron--techno-city-1984&quot;&gt;Cybotron ‎– Techno City (1984)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/v2hynTl1pu_bqhrNcs-zra02F7g=/fit-in/600x599/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-19657-1554754975-9441.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;model-500---night-drive-thru-babylon--time-space-transmat--no-ufos-1985&quot;&gt;Model 500 - Night Drive (Thru-Babylon) / Time Space Transmat / No UFO’s (1985)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/397ae417f6742610d95e5b4addb2ef8f/1755377/model-500-night-drive-thru-babylon-time-space-transmat-no-ufos-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;brazil---spectrum-1990&quot;&gt;Brazil - Spectrum (1990)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/Juhvhe4_hrVbHowhg0EVPN97Z8o=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-6122-1505604845-1869.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;808-state--exel-1991&quot;&gt;808 State ‎– ex:el (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/808ex.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/808ex2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;yuzo-koshiro-古代祐三---bare-knuckle--1991&quot;&gt;Yuzo Koshiro [古代祐三] - Bare Knuckle  (1991)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/b0ac6d3ad8bc077387fb7ac23de1bdad/3009043/%E5%8F%A4%E4%BB%A3%E7%A5%90%E4%B8%89-yuzo-koshiro-bare-knuckle-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;jeff-mills--waveform-transmission-vol-1-1992&quot;&gt;Jeff Mills ‎– Waveform Transmission Vol. 1 (1992)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/J22Qf-IR5VWzTB0XxzRh3IbWBD8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17518-1186913453.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;b12--electro-soma-1993-1991-1992&quot;&gt;B12 ‎– Electro-Soma (1993) [1991-1992]&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/esom1.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/esom2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;drexciya---the-quest-1997-1992-1996&quot;&gt;Drexciya - The Quest (1997) [1992-1996]&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/drexciya_front.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/drexyia_techno_mapa.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;reload---a-collection-of-short-stories-1993&quot;&gt;Reload - A Collection of Short Stories (1993)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/3e3ce9835a7b809905487d65524ed66a/8261240/reload-a-collection-of-short-stories-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;muslimgauze--veiled-sisters-1993&quot;&gt;Muslimgauze ‎– Veiled Sisters (1993)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/28eC8WtUhRHRTufnogvxm0hs2Jk=/fit-in/600x597/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197848-1254097364.jpeg.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://img.discogs.com/TcxrHo6qNugw7prFzdRCWHQkEy8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-197848-1254097441.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;galaxy-2-galaxy--galaxy-2-galaxy-1993&quot;&gt;Galaxy 2 Galaxy ‎– Galaxy 2 Galaxy (1993)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/g2g1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;yuzo-koshiro-古代祐三--bare-knuckle-ii-1993&quot;&gt;Yuzo Koshiro [古代祐三] ‎– Bare Knuckle II (1993)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/zG8NaZpy5A3-MPElMGdqJRJHEpo=/fit-in/600x603/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-884374-1448825856-5151.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;cabaret-voltaire--the-conversation-1994&quot;&gt;Cabaret Voltaire – The Conversation (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/taRkfePqCIYN1Ba4MGbR6uCAVlg=/fit-in/600x590/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-140090-1376783485-1308.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;ø--metri-1994&quot;&gt;Ø ‎– Metri (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ometri1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;artist-the-future-sound-of-london---isdn-1994&quot;&gt;Artist	The Future Sound of London - ISDN (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/d1c6b1c340d7e9365b8b92983b4226ac/1909905/the-future-sound-of-london-isdn-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;leftfield--leftism-1994&quot;&gt;Leftfield ‎– Leftism (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/leftism1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;robert-hood--internal-empire-1994&quot;&gt;Robert Hood ‎– Internal Empire (1994)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/UWynlIY4NI6FVTtk-V1bZmhSrK4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2680499-1407915987-6303.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;basic-channel---bcd-1995&quot;&gt;Basic Channel - BCD (1995)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/basic-channel-1995.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;leo-anibaldi---void-1995&quot;&gt;Leo Anibaldi - Void (1995)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/1813d284a6935ec16ab8c0493dfacf76/2513240/leo-anibaldi-void-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;millsart---humana-1995&quot;&gt;Millsart - Humana (1995)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/fullres/w/0c772455b609d30363cc13c9d52a50cf/1513850&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;maurizio--m4-1995&quot;&gt;Maurizio ‎– M4 (1995)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/maurizio4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;model-500---deep-space-1995&quot;&gt;Model 500 - Deep Space (1995)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/xXaQsRk4-MMb70fQdHNmeyUzacc=/fit-in/600x589/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4677-1315603723.jpeg.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;https://img.discogs.com/v3vE928ldwx0pauCXz6LYpk4EVY=/fit-in/600x592/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-4677-1315603932.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;b12--timetourist-1996&quot;&gt;B12 ‎– TimeTourist (1996)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/IkMFUfVrGKUvQBcg38mVrTx8A1w=/fit-in/600x598/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-3622-1320403974.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;panasonic--kulma-1997&quot;&gt;Panasonic – Kulma (1997)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/P2fjrku-_sYWkDu7uPPrOMh34zI=/fit-in/600x534/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-17297-1331910396.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;電気グルーヴ-denki-groove---a-1997&quot;&gt;電気グルーヴ [Denki Groove] - A (1997)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/Xp0VMlGzXt5NgOE2dcObnrMQXnw=/fit-in/600x595/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-114492-1294021195.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;monolake---hongkong-1997&quot;&gt;Monolake - Hongkong (1997)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/Bz1Qfc1nFjjH4OujdbJmcggPKBk=/fit-in/526x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-652-1233148815.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;plastikman---consumed-1998&quot;&gt;Plastikman - Consumed (1998)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/bUsc4brE0oE3Dq04-Af2qxsVRM8=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-2137-1318849548.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;james-ruskin---further-design-1998&quot;&gt;James Ruskin - Further Design (1998)&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://e.snmc.io/i/600/w/b6aaa0e22970d48ec6cd90cadb04e09f/4291667/james-ruskin-further-design-Cover-Art.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;dopplereffekt--gesamtkunstwerk-1999&quot;&gt;Dopplereffekt ‎– Gesamtkunstwerk (1999)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/doppler-f.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;leftfield--rhythm-and-stealth-1999&quot;&gt;Leftfield ‎– Rhythm And Stealth (1999)&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/leftfieldrythm.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;porter-ricks--techno-animal---symbiotics&quot;&gt;Porter Ricks : Techno Animal - Symbiotics&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.discogs.com/RjC_Odc55MVq8uMAfV2iuYMlp6U=/fit-in/600x587/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-94333-1316867243.jpeg.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Extracto: Las ideologías de la competencia en un complejo industrial de Abidjan</title>
+   <link href="http://localhost:4000/2021/01/29/competence-abidjan-latour"/>
+   <updated>2021-01-29T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/29/competence-abidjan-latour</id>
+   <content type="html">&lt;p&gt;Bruno Latour: Les idéologies de la compétence en milieu industriel à Abidjan (1974, p. 66) en la serie de estudios industriales No. 9.&lt;/p&gt;
+
+&lt;p&gt;Este es, que yo sepa, el primer trabajo etnográfico realizado por Latour después de doctorarse con una disertación sobre la repetición e ilegibilidad de Charles Péguy. Probablemente es uno de los pocos trabajos de campo antropológicos por parte de Latour fuera de Europa, en Abidjan, Costa de Marfil. Aunque en un primer momento puede parecer lejano a los trabajos de Latour (razón por la cual es interesante), el tratamiento es singular. Traduzco parte de sus conclusiones donde define &lt;em&gt;la competencia.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;El texto completo está &lt;a href=&quot;http://www.bruno-latour.fr/sites/default/files/02-IDEOLOGIES-DE-COMPETENCE-FR.pdf&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/latour-abdijan-1974.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;¿Qué es, en efecto, la competencia? Se es competente cuando se dominan todos los elementos de un sistema (máquina, organigrama, circuito documental) desde la entrada de información hasta su salida.  Por lo tanto, es posible calibrar la competencia: cuanta más información tenga sobre el sistema, más capaz y adaptado estará. Pero si, por una u otra razón, la red de información que da cuenta de este sistema se ve perforada, o peor aún, si se reduce a un jirón, uno ya no es capaz de reaccionar de forma adaptada; se tropieza a ciegas; se pone al día con lo que puede.&lt;/p&gt;
+
+&lt;p&gt;Supongamos que esta definición es correcta, admitamos dos premisas. La capacidad de dominar un sistema es universal. La complejidad de los sistemas -en términos de cantidad de información- no es de naturaleza diferente en las empresas modernas y en las sociedades aldeanas, ya que, en todos los casos, la complejidad es sólo la suma de elementos simples.&lt;/p&gt;
+
+&lt;p&gt;Por lo tanto, podemos medir la competencia de los trabajadores, directivos o políticos por la parte de la red que dominan. Cuando se acusa a los marfileños de no dominar la cuestión, creyendo que esto les haría sentirse culpables, se les exonera, ya que es una constatación de hecho: los marfileños, mientras dominan partes del sistema (en particular por el Estado), son dominados por el resto. Cuanto más te dominan, menos competente eres. Esto no significa, por otra parte, que baste con dominar a ser competente.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entrevistas a 'líderes pensadores' de Cambridge</title>
+   <link href="http://localhost:4000/2021/01/28/seleccion-de-videos-leading-thinkers"/>
+   <updated>2021-01-28T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/28/seleccion-de-videos-leading-thinkers</id>
+   <content type="html">&lt;p&gt;La Universidad de Cambridge tiene una colección de entrevistas videograbadas llamada “Film Interviews with Leading Thinkers” realizadas por el Museo de Antropología y Arqueología donde se entrevistan a renombrados antropólogos (mayoritariamente ingleses) sobre su vida, formación, trabajo e investigación. Me gusta que sean acercamientos personales a personalidades icónicas y hasta mistificados. Muchas de las entrevistas no están en YouTube, solo en el servidor de la Universidad, por lo que puede ser fácil perderlas de vista.&lt;/p&gt;
+
+&lt;p&gt;Aquí hago una selección de algunos de mis antropólogxs favs y algunas curiosidades.&lt;/p&gt;
+
+&lt;h2 id=&quot;edmund-leach&quot;&gt;Edmund Leach&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1124291/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;marilyn-strathern&quot;&gt;Marilyn Strathern&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1130673/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;marshall-sahlins-ii&quot;&gt;Marshall Sahlins II&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1638858/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;marshall-sahlins-ii-1&quot;&gt;Marshall Sahlins II&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1510986/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;meyer-fortes&quot;&gt;Meyer Fortes&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1116679/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;raymond-firth&quot;&gt;Raymond Firth&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1116525/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;john-barnes&quot;&gt;John Barnes&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1112295/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;mary-douglas&quot;&gt;Mary Douglas&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1115926/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;eric-hobsbawm&quot;&gt;Eric Hobsbawm&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1121594/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;clifford-geertz&quot;&gt;Clifford Geertz&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1092398/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;owen-lattimore&quot;&gt;Owen Lattimore&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1124271/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sherry-ortner&quot;&gt;Sherry Ortner&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/3237901/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;philippe-descola-i&quot;&gt;Philippe Descola I&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1115696/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;philippe-descola-ii&quot;&gt;Philippe Descola II&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1944481/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;sidney-mintz&quot;&gt;Sidney Mintz&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1130908/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;m-n-srinivas&quot;&gt;M. N. Srinivas&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1130578/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;elizabeth-colson&quot;&gt;Elizabeth Colson&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1114840/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;roy-wagner&quot;&gt;Roy Wagner&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1137886/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;jeremy-boissevain&quot;&gt;Jeremy Boissevain&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1113566/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;jean-and-john-comaroff&quot;&gt;Jean and John Comaroff&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1115539/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;james-c-scott&quot;&gt;James C. Scott&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1130301/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;jack-goody&quot;&gt;Jack Goody&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1117872/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;paul-rabinow&quot;&gt;Paul Rabinow&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1129089/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;maurice-bloch&quot;&gt;Maurice Bloch&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1113489/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;john-beattie&quot;&gt;John Beattie&lt;/h2&gt;
+&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1112793/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Awesome List - Herramientas digitales académicas</title>
+   <link href="http://localhost:4000/awesome-herramientas-digitales-académicas"/>
+   <updated>2021-01-19T00:00:00-06:00</updated>
+   <id>http://localhost:4000/awesome-herramientas-digitales-academicas</id>
+   <content type="html">&lt;h2 id=&quot;intento-de-una-awesome-list-pero-para-antropólogos-y-científicos-sociales-&quot;&gt;Intento de una awesome list, pero para antropólogos y científicos sociales &lt;a href=&quot;https://awesome.re&quot;&gt;&lt;img src=&quot;https://awesome.re/badge-flat2.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Esta lista está inspirada en las listas &lt;a href=&quot;https://github.com/sindresorhus/awesome/blob/main/awesome.md&quot;&gt;Awesome&lt;/a&gt;. Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.&lt;/p&gt;
+
+&lt;h2 id=&quot;software-para-análisis-cualitativo&quot;&gt;Software para análisis cualitativo&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/caqdas.png&quot; alt=&quot;CAQDAS FLOSS&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ccbogel/QualCoder&quot;&gt;QualCoder&lt;/a&gt; - Software de análisis y codificación escrito en Python con soporte para texto, imágenes, audio y video. Libre, abierto y gratuito.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ropenscilabs/qcoder&quot;&gt;QCoder&lt;/a&gt; - Paquete para la codificación de datos en R. Libre, abierto y gratuito.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.taguette.org/&quot;&gt;Taguette&lt;/a&gt; - Software para codificación de datos de texto. Abierto y gratuito con aplicación Web y de escritorio.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;gestores-de-bibliotecas-personales&quot;&gt;Gestores de bibliotecas personales&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/refer22.png&quot; alt=&quot;zot-jab-men&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt; - Gestor de referencias libre, abierto y gratuito.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://retorque.re/zotero-better-bibtex/&quot;&gt;Better BibTex for Zotero&lt;/a&gt; - Integración de BibLaTex para Zotero.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://zotfile.com/&quot;&gt;ZotFile for Zotero&lt;/a&gt; - Gestión de archivos PDF para Zotero.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.zotero.org/support/plugins&quot;&gt;Plugins&lt;/a&gt; desarrollados por la comunidad.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://habr.com/en/post/443798/&quot;&gt;Zotero hacks&lt;/a&gt; - Pequeños trucos para usar Zotero.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jabref.org/&quot;&gt;JabRef&lt;/a&gt; - Gestor de referencias bibliográficas de código abierto.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mendeley.com/download-desktop/&quot;&gt;Mendeley&lt;/a&gt; - Gestor bibliográfico y red social académica de Elsevier.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://calibre-ebook.com/&quot;&gt;Calibre&lt;/a&gt; - Un administrador de libros electrónicos.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;programas-para-tomar-notas&quot;&gt;Programas para tomar notas&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joplinapp.org/&quot;&gt;Joplin&lt;/a&gt; -  Software libre, de código abierto para tomar notas y tareas pendientes en Markdown para escritorio y celular.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/&quot;&gt;Notion&lt;/a&gt; - Aplicación todo-en-uno para tomar notas, planear proyectos, crear tableros, calendarios, recordatorios y manejar información.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://simplenote.com/&quot;&gt;Simplenote&lt;/a&gt; - Aplicación de notas minimalista multiplataforma, con respaldo en la nube, sincronización automática, soporte Markdown y sostenido por el quipo de WordPress y Tumblr.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notable.app/&quot;&gt;Notable&lt;/a&gt; - Aplicación de notas en Markdown basado en VS Code.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://workflowy.com/&quot;&gt;WorkFlowy&lt;/a&gt; - Una aplicación web para la toma de notas en outlines al estilo fractal.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.remnote.io/&quot;&gt;RemNote&lt;/a&gt; - Notas jerárquicas y aprendizaje con repaso espaciado.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://boostnote.io/&quot;&gt;Boostnote&lt;/a&gt; -Espacio de trabajo colaborativo Markdown con herramientas para programadores.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wereturtle.github.io/ghostwriter/&quot;&gt;Ghostwriter&lt;/a&gt; - Editor Markdown limpio y sin distracciones para Linux y Windows.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;editores-de-texto-para-escribir-y-otras-cosas&quot;&gt;Editores de texto para escribir (y otras cosas)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://atom.io/&quot;&gt;Atom&lt;/a&gt; - Un gran editor de texto extensible para programar, escribir, seguir tus proyectos en GitHub y mucho más.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://juancarloscastillo.github.io/jc-castillo/documents/tallerATOM/tallerATOM.html#1&quot;&gt;Atom para el flujo de trabajo académico&lt;/a&gt; - Presentación de Juan Carlos Castillo para iniciados en Atom.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://discuss.atom.io/t/using-atom-for-academic-writing/19222&quot;&gt;Using Atom for academic writing&lt;/a&gt; - Paquetes de Atom para la escritura académica.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://writemonkey.com/&quot;&gt;WriteMonkey&lt;/a&gt; - Una aplicación &lt;em&gt;zenware&lt;/em&gt; para escribir sin distracciones.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hlissner/doom-emacs&quot;&gt;Doom Emacs&lt;/a&gt; - Una configuración para domar al imponente Emacs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.libreoffice.org/&quot;&gt;LibreOffice&lt;/a&gt; - Un reemplazo libre y gratuito de la suite Office.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rstudio/rstudio&quot;&gt;RStudio&lt;/a&gt; - Entorno de desarrollo integrado para el lenguaje de programación R. Aunque generalmente se usa para ciencia de datos y estadística, también tiene otras cosas como R Markdown, Bookdown, RQDA y otros complementos interesantes.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marktext.app/&quot;&gt;Marktext&lt;/a&gt; - Un editor Markdown simple y elegante, centrado en la velocidad y la usabilidad.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zettlr.com/&quot;&gt;Zettlr&lt;/a&gt; - Editor Markdown basado en el sistema Zettelkasten, pensado para académicos y con integración para gestores de referencias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;software-para-la-gestión-de-conocimiento-personal&quot;&gt;Software para la gestión de conocimiento personal&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Ver también software para notas y editores de texto&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709&quot;&gt;Artificial Brain Networked notebook app&lt;/a&gt; - Una lista comparativa, colectiva, comentada y con ejemplos de software para la creación de un &lt;em&gt;segundo cerebro&lt;/em&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zadam/trilium&quot;&gt;Trilium&lt;/a&gt; - Notas jerarquicas, sincronización con servidor propio, visualización de grafo, web-clipper y FOSS.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://foambubble.github.io/foam/&quot;&gt;Foam&lt;/a&gt; - Una versión libre de Roam con Visual Studio Code.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://obsidian.md/&quot;&gt;Obsidian&lt;/a&gt; - Base de conocimiento personal sobre achivos Markdown con visualización de grafo, plugins, backlincks y algunas opciones de pago.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tiddlywiki.com/#TiddlyWiki&quot;&gt;TiddlyWiki&lt;/a&gt; - Un cuaderno digital no-lineal para capturar y organizar información compleja.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://tiddlymap.org/&quot;&gt;TiddlyMap&lt;/a&gt; - Un plugin para visualizar la información de tu wiki.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kebifurai.github.io/TiddlyResearch/&quot;&gt;TiddlyResearch&lt;/a&gt; - Un ambiente de notas basado en TiddlyWiki.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodebook.io/&quot;&gt;Nodebook&lt;/a&gt; - Create beautiful graphs with all your papers, files, notes and links, and always have an easy overview of your own thoughts and ideas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mindforger.com/#personal&quot;&gt;MindForger&lt;/a&gt; is human mind inspired personal knowledge management tool.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/brettkromkamp/awesome-knowledge-management&quot;&gt;Awesome Knowledge Management&lt;/a&gt; - Una lista seleccionada de artículos, personas, aplicaciones, bibliotecas de software y proyectos relacionados con la gestión del conocimiento. ^be20dd&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;markdown&quot;&gt;Markdown&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.markdowntutorial.com/&quot;&gt;Markdown Tutorial&lt;/a&gt; - Un tutorial interactivo para aprender Markdown en pocos minutos.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/getting-started-with-markdown&quot;&gt;Getting Started with Markdown&lt;/a&gt; - Una lección de Sarah Simpkin sobre Markdown académico.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&quot;&gt;Markdown Cheatsheet&lt;/a&gt; - Hoja para recordar la sitaxis.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mundimark/awesome-markdown#commonmark&quot;&gt;Awesome Markdown&lt;/a&gt; - Una lista seleccionada sobre Markdown.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JensErat/scientific-markdown/#readme&quot;&gt;Markdown for Scientific Publications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pandoc&quot;&gt;Pandoc&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pandoc.org/&quot;&gt;Pandoc&lt;/a&gt; - La navaja suiza para la conversión de documentos creada por el filósofo John MacFarlane.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jez/pandoc-starter&quot;&gt;Pandoc Starter&lt;/a&gt; - Un repositorio con varios archivos para comenzar con Pandoc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kbroman.org/minimal_make/&quot;&gt;minimal make&lt;/a&gt; - Un mínimo tutorial sobre los &lt;code&gt;makefiles&lt;/code&gt; para automatizar los procesos de Pandoc y utilizar plantillas LaTeX.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/maehr/academic-pandoc-template&quot;&gt;Academic Pandoc Template&lt;/a&gt; - Una sencilla plantilla académica para artículos académicos.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pandoc-scholar/pandoc-scholar&quot;&gt;Pandoc Scholar&lt;/a&gt; - Plantilla académica completa con metadatos mejorados.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/periodicpoint/arabica&quot;&gt;Arabica&lt;/a&gt; - Plantilla para libros académicos con Pandoc y LaTeX.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jgm/pandoc/wiki/User-contributed-templates&quot;&gt;Plantillas pandoc&lt;/a&gt; aportadas por usuarios.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Wandmalfarbe/pandoc-latex-template&quot;&gt;Eisvogel&lt;/a&gt; - Una plantilla académica sencilla de pandoc LaTeX.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;escritura-académica-con-markdown--pandoc&quot;&gt;Escritura académica con Markdown + Pandoc&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://plain-text.co/figures/workflow-wide.png&quot; alt=&quot;A plain-text document toolchain en el libro de Kieran Healey.&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown&quot;&gt;Sustainable Authorship in Plain Text using Pandoc and Markdown&lt;/a&gt; - Un tutorial con lo que tienes que saber sobre la escritura en texto plano con Markdown y Pandoc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jaantollander.com/post/scientific-writing-with-markdown/&quot;&gt;Escritura científica con Markdown&lt;/a&gt; - Una guía de Jaan Tollander de Balsch.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arthurcgusmao.com/academia/2018/01/27/markdown-pandoc.html&quot;&gt;Markdown and Pandoc for academic writing&lt;/a&gt; - Una pequeña introducción a las ventajas de Markdown y Pandoc en el trabajo académico. Incluye una plantilla YAML.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html&quot;&gt;The YAML Fieldguide&lt;/a&gt; - Una útil guía sobre YAML para tus documentos.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://u.arizona.edu/~selisker/post/workflow/&quot;&gt;A Plain Text Workflow for Academic Writing with Atom&lt;/a&gt; - Un flujo de trabajo que puede ayudarte a hacer el tuyo.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://juancarloscastillo.github.io/jc-castillo/citando-plano.html&quot;&gt;Citando en texto plano&lt;/a&gt; - Tuturial de Juan Carlos Castillo.&lt;/li&gt;
+  &lt;li&gt;Acerca de escribir y &lt;a href=&quot;https://ontheline.trincoll.edu/bookdown.html&quot;&gt;publicar un libro con Bookdown, GitHub y Zotero&lt;/a&gt; por Jack Dougherty y compañía.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JensErat/scientific-markdown/#readme&quot;&gt;scientific-markdown&lt;/a&gt; - Example for use of Markdown for scientific publications using Pandoc and &lt;code&gt;latexmk&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tompollard/phd_thesis_markdown#readme&quot;&gt;Template for writing a PhD thesis in Markdown&lt;/a&gt; - Clean organization of files to provide a framework for writing a PhD thesis in mostly Markdown with a little bit of LaTeX, and compiled with Pandoc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ismayc/thesisdown&quot;&gt;thesisdown&lt;/a&gt; - Un proyecto inspirado en bookdown para hacer tu tesis con R Markdown. Incluye plantillas de distintas Universidades.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ilustración-y-visualización&quot;&gt;Ilustración y visualización&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://inkscape.org/&quot;&gt;Inkscape&lt;/a&gt; Programa de vectores gráficos para diseño y arte digital.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mermaid-js.github.io/mermaid/#/&quot;&gt;Mermaid&lt;/a&gt; - Sencilla herramienta de código para diagramar y graficar por medio de texto.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://mermaid-js.github.io/mermaid-live-editor/&quot;&gt;Mermaid Live Editor&lt;/a&gt; - Define simple diagrams instead of drawing them.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.diagrams.net/&quot;&gt;diagrams.net&lt;/a&gt; - Open source, online, desktop and container deployable diagramming software.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphviz.org/&quot;&gt;graphviz&lt;/a&gt; - Visualization software for graphs and networks which uses a domain-specific DOT language.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plantuml.com/&quot;&gt;PlantUML&lt;/a&gt; - Define UML diagrams instead of drawing them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git-y-github&quot;&gt;Git y GitHub&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV&quot;&gt;Git and GitHub for Poets&lt;/a&gt; - Una serie de videos introductorios para no-programadores.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scholarslab.lib.virginia.edu/blog/github-jekyll-glossary/&quot;&gt;Running a collaborative blog: A glossary for GitHub &amp;amp; Jekyll&lt;/a&gt; - Un glosario de términos frecuentes en GitHub y Jekyll.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;recursos&quot;&gt;Recursos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plain-text.co/&quot;&gt;The Plain Person’s Guide to Plain Text Social Science&lt;/a&gt; - Pequeña guía de Kieran Healy sobre el flujo de trabajo académico en texto plano para ciencias sociales. Contenido sobre R Markdown, editores de texto y hasta una una introducción a Emacs.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/&quot;&gt;The Programming Historian&lt;/a&gt; - Revista de historia y humanidades digitales con lecciones como:
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/preserving-your-research-data&quot;&gt;Preserving Your Research Data&lt;/a&gt; - Para mantener consultables tus datos en el tiempo.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine&quot;&gt;Fetching and Parsing Data from the Web with OpenRefine&lt;/a&gt; - Para explorar, limpiar y transformar datos de la Web.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github&quot;&gt;Running a Collaborative Research Website and Blog with Jekyll and GitHub&lt;/a&gt; - Para construir tu página colaborativa de investigación.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://juancarloscastillo.github.io/in-socabi/&quot;&gt;Investigación Social Abierta: Herramientas para la reproducibilidad, colaboración y comunicación académica_&lt;/a&gt; Libro digital de Juan Carlos Castillo.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://maehr.github.io/awesome-academic-writing/&quot;&gt;Awesome Academic Writing&lt;/a&gt; “&lt;em&gt;Una lista seleccionada de cosas increibles relacionadas con la escritura académica&lt;/em&gt;”.
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dx.plos.org/10.1371/journal.pcbi.1006379&quot;&gt;Ten simple rules for scientists: Improving your writing productivity&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips&quot;&gt;Writing for an academic journal: 10 tips&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/&quot;&gt;How to write a scientific abstract in six easy steps&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://writingcenter.fas.harvard.edu/pages/resources&quot;&gt;Harvard Writing Resources&lt;/a&gt;.&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://cmu-lib.github.io/dhlg/topics/&quot;&gt;Digital Humanities Literacy Guidebook&lt;/a&gt; - Overview on the field of Digital History and Digital Humanities.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Los videos de Nicholas Cifuentes-Goodbody &lt;a href=&quot;https://youtu.be/hpAJMSS8pvs&quot;&gt;sobre Markdown&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/N31E_NZYQQY&quot;&gt;Pandoc&lt;/a&gt; o sobre &lt;a href=&quot;https://www.youtube.com/playlist?list=PLXt-tu7G1H3vlRXLmGyOzeAp7ZKDK0pty&quot;&gt;Zotero&lt;/a&gt;, &lt;a href=&quot;https://youtu.be/GAVXVkcpbG0&quot;&gt;Bib(La)TeX&lt;/a&gt;, entre otros.&lt;/li&gt;
+  &lt;li&gt;Algunos flujos de trabajo con Zotero y otras herramientas como el de &lt;a href=&quot;https://www.youtube.com/watch?v=RU9lzlBnGdA&quot;&gt;explauramay&lt;/a&gt; o el de &lt;a href=&quot;https://www.youtube.com/watch?v=sZP6X7EIN6g&quot;&gt;Robert Karl para historiadores&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/J86Pm62XM_Q&quot;&gt;Un ambiente de escritura académica con VSCodium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/m5D-yoH416Y&quot;&gt;How to create a bookdown book in 5 minutes&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Brian Jenks sobre &lt;a href=&quot;https://youtu.be/Mz21UNoLNu4&quot;&gt;OrcID, Zotero, Mendeley y más&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;awesome-awesome-lists&quot;&gt;Awesome awesome lists&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/writing-resources/awesome-scientific-writing#readme&quot;&gt;Scientific Writing&lt;/a&gt; - Para la escritura académica.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/emptymalei/awesome-research#readme&quot;&gt;Research Tools&lt;/a&gt; - Herramientas para la investigación.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dylanrees/citizen-science#readme&quot;&gt;Citizen Science&lt;/a&gt; - Para hacer ciencia sin instituciones.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/drewrwilson/toolsforactivism#readme&quot;&gt;Tools for Activism&lt;/a&gt; - Herramientas digitales para el activismo.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/folkswhocode/awesome-diversity#readme&quot;&gt;Diversity&lt;/a&gt; - Creating a more inclusive and diverse tech community.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/johnjago/awesome-free-software#readme&quot;&gt;Free Software&lt;/a&gt; - Free as in freedom.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fasouto/awesome-dataviz#readme&quot;&gt;Data Visualization&lt;/a&gt; - Para la visualización de datos.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/humanetech-community/awesome-humane-tech#readme&quot;&gt;Humane Technology&lt;/a&gt; - Open source projects that help improve society.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/maehr/awesome-digital-history#readme&quot;&gt;Digital History&lt;/a&gt; - Computer-aided scientific investigation of history.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Singeli frenético de Tanzania</title>
+   <link href="http://localhost:4000/2021/01/12/singeli-tanz"/>
+   <updated>2021-01-12T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/12/singeli-tanz</id>
+   <content type="html">&lt;p&gt;Tuve una obsesión con el sigeli tanzano.&lt;/p&gt;
+
+&lt;p&gt;Igual debería hablar de Nyege Nyege Tapes. ¿Oneothrix Point Never étnico?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RELLENO&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Daar es Salam y Dodoma&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Tonm1HYRxHk&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/F_A6kmF0IwE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Las estrellas de Nyege&lt;/p&gt;
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=4027928840/size=large/bgcol=ffffff/linkcol=63b2cc/tracklist=false/artwork=small/track=2414592509/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://nyegenyegetapes.bandcamp.com/album/tatizo-pesa&quot;&gt;Tatizo Pesa by Jay Mitta&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=1483155390/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=1042097228/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://nyegenyegetapes.bandcamp.com/album/sounds-of-sisso&quot;&gt;Sounds of Sisso by Csso&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;El master Bamba Pana&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/flZRBe3p6t0?start=15&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Saddy&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/325056053&amp;amp;color=%23b08fd4&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/saddy-boy&quot; title=&quot;saddy boy&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;saddy boy&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/saddy-boy/dj-saddy-singeli-beat-biti&quot; title=&quot;Dj saddy Singeli beat biti zuri sana&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Dj saddy Singeli beat biti zuri sana&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;MC Dulla&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/315358118&amp;amp;color=%23ff0815&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/wasafidjstz&quot; title=&quot;Baloziwasafidjstz&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Baloziwasafidjstz&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/wasafidjstz/mc-dulla-makabila-hujaulamba-utatoa-hutoi-singeli&quot; title=&quot;MC Dulla (Makabila) - Hujaulamba (Utatoa Hutoi ) SINGELI&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MC Dulla (Makabila) - Hujaulamba (Utatoa Hutoi ) SINGELI&lt;/a&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XItERSnkcxs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>MTGs de BH: Funk Carioca de Belo Horizonte</title>
+   <link href="http://localhost:4000/mtg-funk-play"/>
+   <updated>2021-01-11T00:00:00-06:00</updated>
+   <id>http://localhost:4000/mtg-funk</id>
+   <content type="html">&lt;p&gt;El funk carioca lo conocí con la oleada de KondZilla, así que más bien conocí el funk ostentação de MCs bien conocidos. Cuando me metí al funk carioca de SoundCloud y leía ‘MGTs’, ‘BH’, ‘baile de inestan’, ‘credo’, ‘malado’, ‘queredao’, no entendía nada. Ya después de leer algunas cosas capté los montagems y la variante de Belo Horizonte del funk carioca. Aunque comparten cierto estilo con el funk de MC Bin Laden o MC Fioti la variante de Belo Horizonte se diferencia estilísticamente. Evidentemente en temas tratados, pero también en producción.&lt;/p&gt;
+
+&lt;p&gt;En el 2017 GG Albuquerque se preguntaba si el Funk de BH &lt;a href=&quot;http://volumemorto.com.br/funk-de-bh-o-surgimento-de-um-ambient-space-funk/&quot;&gt;era el surgimiento de un ‘funk ambiental espacial’&lt;/a&gt; con tendencia a los sonidos ambientales, al reverb, que ponía las agudos sobre los bajos y más cercano al R&amp;amp;B que al trap. En lo personal creo que se sobreestimó eso del &lt;em&gt;space&lt;/em&gt; y &lt;em&gt;ambient&lt;/em&gt;, pero en lo demás igual sí.&lt;/p&gt;
+
+&lt;p&gt;Ya no hay cajas de ritmo noventeras, a veces ni siquiera hay kicks y mucho menos snares o por lo menos su importancia es mínima. Lo que sí es curioso es el reemplazo de las cajas de ritmo por otro tipo de percusiones más incisivas, como samplear cristales o campanas y marcar el ritmo con birimbao. También está la mayor importancia de la voz en el funk de BH, con tracks casi completamente a capela o el sampleo recurrente de los versos y coros entre MCs y DJs. La voz de uno era la base de otro, el mix del otro era la base de otro más a veces reemplazando completamente el uso de percusiones como cajas de ritmo. Además, ese sampleo hacía que el género diera ese sentimiento de integración y que hubiera motivos recurrentes entre DJs y MCs de Belo Horizonte.&lt;/p&gt;
+
+&lt;p&gt;Probablemente el género no se consolidó como parecía en 2017 aunque se mantuvieron algunos motivos, sobre todo esa inclinación a cierto minimalismo (que llama la atención en un funk carioca proveniente del miami bass), el origen provinciano mucho más barrio, la escena más alejada de discográficas, producción casera, publicado en SoundCloud y YouTube, mezclado en vivo en montagems para los bailes en Inestam o en Subaco da Cobra.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/700763506&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djraylais&quot; title=&quot;DJ RAY LAIS&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ RAY LAIS&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djraylais/mc-dricka-de-38-carregado-dj-ray-lais&quot; title=&quot;MC DRICKA - DE 38 CARREGADO - DJ RAY LAIS&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MC DRICKA - DE 38 CARREGADO - DJ RAY LAIS&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/509503149&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djandersondoparaiso&quot; title=&quot;DJ ANDERSON DO PARAÍSO&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ ANDERSON DO PARAÍSO&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djandersondoparaiso/mtg-ela-gosta-que-bota-ela-quer-que-atravessa-dj-anderson-do-paraiso-taliban&quot; title=&quot;MTG = = ELA GOSTA QUE BOTA, ELA  QUER QUE ATRAVESSA [[DJ ANDERSON DO PARAÍSO]] #TALIBAN&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MTG = = ELA GOSTA QUE BOTA, ELA  QUER QUE ATRAVESSA [[DJ ANDERSON DO PARAÍSO]] #TALIBAN&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/592263480&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djvitindopc2&quot; title=&quot;DJ VITIN DO PC&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ VITIN DO PC&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djvitindopc2/mc-saci-ta-carente-ta-na-bad-djs-vitin-do-pc-dg-do-rb-2k19-fooodinhaaaaa&quot; title=&quot;MC SACI - TÁ CARENTE ? TÁ NA BAD ? = DJ&amp;#x27;S VITIN DO PC &amp;amp; DG DO RB = 2K19 = #LENDARIAAAA&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MC SACI - TÁ CARENTE ? TÁ NA BAD ? = DJ&amp;#x27;S VITIN DO PC &amp;amp; DG DO RB = 2K19 = #LENDARIAAAA&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/793527892&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djtgdainestan&quot; title=&quot;DJ TG DA INESTAN&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ TG DA INESTAN&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djtgdainestan/mtg-djs-tg-da-inestan-ph-da-serra-wesley-gonzaga-luizin-joao-da-inestan&quot; title=&quot;MTG-MEU COTIDIANO(DJ&amp;#x27;S TG DA INESTAN-PH DA SERRA- WESLEY GONZAGA-NATTAN- LUIZIN- JOAO DA INESTAN)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MTG-MEU COTIDIANO(DJ&amp;#x27;S TG DA INESTAN-PH DA SERRA- WESLEY GONZAGA-NATTAN- LUIZIN- JOAO DA INESTAN)&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/955689463&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djguimarques&quot; title=&quot;GUI MARQUES CANALHÃO&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;GUI MARQUES CANALHÃO&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djguimarques/uniao-dos-djs-4-gui-marques-canalhao-ph-da-serra-sammer-tg-da-inestan-joao-da-inestan&quot; title=&quot;UNIÃO DOS DJS 4 - GUI MARQUES CANALHÃO - PH DA SERRA - SAMMER - TG DA INESTAN &amp;amp; JOÃO DA INESTAN&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;UNIÃO DOS DJS 4 - GUI MARQUES CANALHÃO - PH DA SERRA - SAMMER - TG DA INESTAN &amp;amp; JOÃO DA INESTAN&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300949538&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/deejaycaaio-doog&quot; title=&quot;DJ Caaio Doog ✪&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ Caaio Doog ✪&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/deejaycaaio-doog/mc-lekao-esse-filho-nao-e-meu-e-teu-djcaaio-doog-lancamento-2017&quot; title=&quot;Mc Lekão - Esse Filho Não É Meu, É Teu ( DJCaaio Doog )( Lançamento 2017 )&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Mc Lekão - Esse Filho Não É Meu, É Teu ( DJCaaio Doog )( Lançamento 2017 )&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/320187673&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/fontedofunkoficial&quot; title=&quot;FONTE DO FUNK OFICIAL&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;FONTE DO FUNK OFICIAL&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/fontedofunkoficial/mcs-kaio-e-danone-voltou-machucada-pra-casa-tira-catuca-djs-marcus-vinicius-jr-2b-fellipe&quot; title=&quot;MCs Kaio e Danone - Voltou Machucada Pra Casa - Tira Catuca (DJ&amp;#x27;S Marcus Vinicius, 2B &amp;amp; Fellipe)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MCs Kaio e Danone - Voltou Machucada Pra Casa - Tira Catuca (DJ&amp;#x27;S Marcus Vinicius, 2B &amp;amp; Fellipe)&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301914833&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djvitinmpc&quot; title=&quot;DJ VITIN MPC&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ VITIN MPC&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djvitinmpc/mc-kisk-joga-pros-vagabundo-djs-vtin-mpc-gui-mrques-deluc-fiuz-2017&quot; title=&quot;# MC KISK = JOGA PROS VAGABUNDO [DJS V!TIN MPC &amp;amp; GUI M@RQUES, DELUC@ &amp;amp; FIUZ@ ] 2017&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;# MC KISK = JOGA PROS VAGABUNDO [DJS V!TIN MPC &amp;amp; GUI M@RQUES, DELUC@ &amp;amp; FIUZ@ ] 2017&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/290876732&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/robertjgs&quot; title=&quot;DJ SWAT 02&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DJ SWAT 02&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/robertjgs/mtg-visao-do-crime-dj-swat-odj-tropa-do-swat&quot; title=&quot;MTG _ VISAO DO CRIME _ (( DJ SWAT Odj )) Tropa Do Swat&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;MTG _ VISAO DO CRIME _ (( DJ SWAT Odj )) Tropa Do Swat&lt;/a&gt;&lt;/div&gt;
+
+&lt;hr /&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;450&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1166641057&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/c-lucmat&quot; title=&quot;LMC&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;LMC&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/c-lucmat/sets/ondas&quot; title=&quot;~ maladeza ~&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;~ maladeza ~&lt;/a&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Profanaciones del remix y blasfemias del mashup</title>
+   <link href="http://localhost:4000/2021/01/10/profanaciones-rmx"/>
+   <updated>2021-01-10T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/10/profanaciones-rmx</id>
+   <content type="html">&lt;p&gt;MMMM, ALGÚN DÍA ESCRIBIRÉ SOBRE ESTO.&lt;/p&gt;
+
+&lt;p&gt;Mientras tanto una playlist. Ya después lo divido por cumbia, dembow, pop taquicardio +150 BPMs, Donks; mexas, latinos, brasileros, tanzanos, sudafricanos, nigerianos, etc, etc.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Místico perreo de primavera&lt;/p&gt;
+&lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=1768573741/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/track=2252984623/tranysparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://keiska.bandcamp.com/album/edits-for-home&quot;&gt;Edits For Home by Keiska&lt;/a&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Enya New Age&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/738121240&amp;amp;color=%232a312b&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/ojosfinos&quot; title=&quot;ojosfinos&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;ojosfinos&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/ojosfinos/5-enya-only-time-cumbita-remix&quot; title=&quot;Enya - Only Time (ojosfinos cumbiiita remix)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Enya - Only Time (ojosfinos cumbiiita remix)&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Bitter Symphony&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/713460169&amp;amp;color=%232a312b&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/pobvio&quot; title=&quot;POBVIO&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;POBVIO&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/pobvio/symphony-dembow-pobvio-flip-1&quot; title=&quot;SYMPHONY DEMBOW (POBVIO FLIP)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;SYMPHONY DEMBOW (POBVIO FLIP)&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Vengaboys en lean&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/673220615&amp;amp;color=%23cf17e0&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/neanatrax&quot; title=&quot;Neana on the Trak&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Neana on the Trak&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/neanatrax/in-my-room-vengaboys&quot; title=&quot;In My Room (Vengaboys)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;In My Room (Vengaboys)&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;I Praise - &lt;em&gt;Mejor que la versión original, la neta.&lt;/em&gt;&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/606875979&amp;amp;color=%232a312b&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/putivuelta&quot; title=&quot;⛓️ Putivuelta ⛓️&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;⛓️ Putivuelta ⛓️&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/putivuelta/chico-sonido-i-praise&quot; title=&quot;Chico Sonido - I Praise Reggaeton&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Chico Sonido - I Praise Reggaeton&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Toxic perreo avanzado&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330866921&amp;amp;color=%23c9aeca&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/young_vibez&quot; title=&quot;YOUNG VIBEZ&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;YOUNG VIBEZ&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/young_vibez/toxic-jevo-vision-bellaka&quot; title=&quot;Toxic (Jevo Vision Bellaka) - Britney Spears&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Toxic (Jevo Vision Bellaka) - Britney Spears&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Miranda en esteroides 4AM&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/862097779&amp;amp;color=%23da289f&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/t-i-u-h&quot; title=&quot;T-U&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;T-U&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/t-i-u-h/miranda-perfecta-happy-hardcore-bootleg&quot; title=&quot;Miranda - Perfecta (Happy Hardcore bootleg)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Miranda - Perfecta (Happy Hardcore bootleg)&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Shakira emo noventera&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/919373170&amp;amp;color=%23cf17e0&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/brvtus&quot; title=&quot;Brvtus&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Brvtus&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/brvtus/shakira-pienso-en-ti-brvtus-rough-flip&quot; title=&quot;Shakira - Pienso En Ti (Brvtus Rough Flip)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Shakira - Pienso En Ti (Brvtus Rough Flip)&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Crystal Castro&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/808685362&amp;amp;color=%232a312b&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/n-t-f-l&quot; title=&quot;N-T-F-L&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;N-T-F-L&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/n-t-f-l/crystal-castles-vanished-dembow-edit-ntfl&quot; title=&quot;Crystal Castles- Vanished /// Dembow Edit /// NTFL&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Crystal Castles- Vanished /// Dembow Edit /// NTFL&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Alacranes Musical 2069&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/782660302&amp;amp;color=%23e603d8&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/t-i-u-h&quot; title=&quot;T-U&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;T-U&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/t-i-u-h/holocrones-musical&quot; title=&quot;Holocrones Musical&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Holocrones Musical&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;Bachata Y2K&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/851837212&amp;amp;color=%23925c3d&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/t-i-u-h&quot; title=&quot;T-U&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;T-U&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/t-i-u-h/donks-locos&quot; title=&quot;Do(nk)s Locos&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Do(nk)s Locos&lt;/a&gt;&lt;/div&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771620716&amp;amp;color=%232a312b&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/kkingdomm&quot; title=&quot;kkingdomm&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;kkingdomm&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/kkingdomm/gasolina-chant&quot; title=&quot;GASOLINA CHANT&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;GASOLINA CHANT&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;MTG de las nubes&lt;/p&gt;
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/923992543&amp;amp;color=%2379eefb&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/djcl0pe&quot; title=&quot;clope dj&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;clope dj&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/djcl0pe/baile-in-the-clouds-dj-tool&quot; title=&quot;baile in the clouds (dj tool)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;baile in the clouds (dj tool)&lt;/a&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Carl Lumholtz en Michoacán</title>
+   <link href="http://localhost:4000/unk-lumholtz-mich"/>
+   <updated>2021-01-09T00:00:00-06:00</updated>
+   <id>http://localhost:4000/unk-tarascan</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/lumholtz-chihuahua.png&quot; alt=&quot;Carl Lumholtz en la Sierra Madre en Chihuahua, 1892&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Se me consideraba la causa de todas las desgracias que ocurrían: tormentas de granizo, lluvias inusualmente fuertes, abortos en mujeres, etc. El jefe de policía de un pueblo vecino declaró a Don Sebastián: “El Anticristo está ahora en Cherán. No podemos venderle nada, y vigilamos cuidadosamente la puerta de la iglesia, por miedo a que pueda entrar.” Unas semanas antes de mi llegada un individuo imaginativo había visto a un hombre de un solo ojo cortar la cabeza de los indios; y ahora se pensaba que yo era ese personaje. Las madres evitaban que sus bebés lloraran mencionando mi nombre, y un borracho aseguró el perdón de su esposa amenazando con entregarse a mí. Algunos sabios incluso preguntaron al cura si no era para quitarles todo el pueblo que yo quería comprar tantas cosas. (Lumholtz, 1902: 397)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;policía-de-tangancícuaro&quot;&gt;Policía de Tangancícuaro&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/policeman-lumholtz.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;La paz del pueblo estaba custodiada por un solo policía, nativo del lugar, hijo de un sacerdote y una mujer india. Tenía muy poco que hacer excepto arrestar de vez en cuando a alguien por embriaguez, una debilidad que él mismo padecía. El presidente apenas le daba dinero para comprar su comida, por miedo a que la convirtiera en bebida. No llevaba un llamativo uniforme para imponer su autoridad a la multitud, sino que su apariencia era más bien la de un bandido, envuelto hasta las orejas en una manta harapienta que escondía también el único emblema de su distinción, un viejo sable, del que el portador parecía avergonzarse. Un sombrero de paja destartalado no dejaba ver nada en la cara oscura, excepto un par de ojos que se asomaban por debajo del borde roto. Caminaba a pasos agigantados, como si estuviera vestido con el traje de un peligroso villano que iba a sentir el fuerte brazo de la ley y la justicia. Como no tenía casa, solía dormir frente a la puerta de la cárcel. (Lumholtz, 1902: 366)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;cherán&quot;&gt;Cherán&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/street-cheran.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;acumulación-y-riqueza&quot;&gt;Acumulación y riqueza&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Todos tienen suficiente para comer y tiempo libre porque todos han logrado mantener sus tierras en forma indiscutible. Algunos plantan mucho maíz y acumulan dinero; pero no les gustan los productos de la vida civilizada. No tienen ninguna ambición de ser nada más que indios. En el momento de mi visita el hombre más rico de la ciudad era un indio de pura cepa, que probablemente valía $100.000. Cultivaba maíz por valor de $2.000 cada año, mientras que sus gastos de subsistencia apenas podían superar los $150 ó $200 en un período de doce meses. Era el alcalde, pero analfabeto; sus media docena de hijos habían ido a la escuela y le ayudaban en su negocio. (Lumholtz, 1902: 391)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;lumholtz-queriendo-comprar-un-cuerpo&quot;&gt;Lumholtz queriendo comprar un cuerpo&lt;/h3&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Encontré el cuerpo extendido en el medio de la habitación, rodeado, a la manera católica, por velas encendidas. Era un espléndido ejemplar de su raza. Pero ni el dinero ni ningún otro argumento sirvió de nada. […] “Este hombre quiere comprar el cuerpo de su hermano, pero supongo que usted no lo venderá…” […] Si el presidente hubiera sido tan iluminado y valiente como el cura, se habría ganado mucho para la ciencia ese día. […] unos días más tarde obtuve permiso del presidente y del cura para excavar en el cementerio. Este último incluso me ofreció los servicios de su peón para desenterrar a un hombre que había muerto hace unos nueve años a la edad de cien años. Había sido un típico tarasco, miembro de una de las antiguas familias y un hombre de tal fuerza física que, como el propio sacerdote había notado, le estaba creciendo el pelo en su vejez, y estaba poco calvo delante y sólo ligeramente canoso. (Lumholtz, 1902: 293-95)&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;cerámica-purépecha&quot;&gt;Cerámica purépecha&lt;/h2&gt;
+&lt;h4 id=&quot;zacapu-cherán-arantepacua-tzintzuntzan-entre-otros&quot;&gt;Zacapu, Cherán, Arantepacua, Tzintzuntzan, entre otros&lt;/h4&gt;
+&lt;p&gt;&lt;img src=&quot;/images/unknownmexicorec02lumh_0457.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0452.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/terracota-bowl.png&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0447.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0482.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0484.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;sonajas-de-naranja&quot;&gt;Sonajas de Naranja&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/images/unknownmexicorec02lumh_0466.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;uruapan-y-pátzcuaro&quot;&gt;Uruapan y Pátzcuaro&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/unknownmexicorec02lumh_0494.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0495.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0497.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0463.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0496.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/unknownmexicorec02lumh_0503.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lumholtz, Carl. 1902. Unknown Mexico; a Record of Five Years’ Exploration among the Tribes of the Western Sierra Madre; in the Tierra Caliente of Tepic and Jalisco; and among the Tarascos of Michoacan. New York: C. Scribner’s sons. http://archive.org/details/unknownmexicorec02lumh.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sobre cultura del remix</title>
+   <link href="http://localhost:4000/2021/01/09/sobre-remix"/>
+   <updated>2021-01-09T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2021/01/09/sobre-remix</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/abs/10.1080/03007760802053211&quot;&gt;Rethinking the Digital Remix: Mash‐ups and the Metaphysics of Sound Recording&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://d1wqtxts1xzle7.cloudfront.net/7496667/audible_transgression_preprint.pdf?1325980615=&amp;amp;response-content-disposition=inline%3B+filename%3DAudible_Transgressions_Art_and_Aesthetic.pdf&amp;amp;Expires=1611185153&amp;amp;Signature=BNd6qLoJq96yqjv0b7LEl9JAF4hAgXMPEYtMLz5dDm1as135uOq0E93es4Rn8tP8dQmYUFW39AP7K2B6RazDbuuyAC6Cx6hRFU8zh2fYObXuAuGME88UmjVNdejtpZNQ155fOq4iVGw5K8nfE0If9GFMDC~xyxluz3mMVjJ24gzqjNiFvKwR8H21~RA1lM0Jl2LPZfRd9GJCgjJi2ZcRvqImUhS-ase2~-kiJ5HWLFFzh2vUXCwavz9F51M98p-o678KVuDeUV07hvP3MGjZI2Ija~wRWKSJ02GW0VbrMrI9JneKc2d7MJDMpcmFihKxKpxZbbrbDKP3s4vvWeFdAA__&amp;amp;Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA&quot;&gt;Audible Transgressions: Art and Aesthetics after the Mashup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tandfonline.com/doi/abs/10.1080/10588160802570375&quot;&gt;Mashups, Sampling, and Authorship: A Mashupsampliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.researchgate.net/publication/333970632_Criar_novas_ideias_a_partir_de_musicas_prontas_reflexoes_experiencias_e_aprendizagens_na_producao_de_mashup&quot;&gt;“Criar novas ideias a partir de músicas prontas”: reflexões, experiências e aprendizagens na produção de mashup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.compos.org.br/data/biblioteca_864.pdf&quot;&gt;As Composições Remix na Rede: a escuta como máquina de sensação&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Entorno de trabajo con Atom, Obsidian, Zotero, Markdown y Pandoc</title>
+   <link href="http://localhost:4000/entorno-aozmp"/>
+   <updated>2021-01-04T00:00:00-06:00</updated>
+   <id>http://localhost:4000/entorno1</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;DEPRECATED&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Tengo que actualizar esto.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Este es el flujo de trabajo que he estado usando en los últimos meses. Todavía estoy en camino de perfeccionarlo, pero hasta ahora me sirve. Lo uso para escribir ensayos, dar formato final, hacer presentaciones, construir mi página web estática, actualizar mis entradas de blog, utilizar Git y GitHub, darle seguimiento a mis proyectos, formatear y modificar HTML sin saber casi nada y otras cosas. No soy un experto, pero estoy contento con lo que sé y puedo hacer.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Esto aún está incompleto pero es un prueba de publicación&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;escribiendo-y-anotando&quot;&gt;Escribiendo y anotando&lt;/h1&gt;
+&lt;h2 id=&quot;editor-de-texto&quot;&gt;Editor de texto&lt;/h2&gt;
+&lt;p&gt;Yo uso &lt;a href=&quot;https://atom.io&quot;&gt;Atom&lt;/a&gt;. Es potente, tiene integración con Git y GitHub, cuenta con una comunidad cada vez más grade, pero es un poco pesado y no es el más rápido. Las opiniones son encontradas, pero a mi me ha servido lo suficientemente bien como para quedarme con él un rato. Supongo que si eres programador tendrás distintas necesidades, pero para escribir y hacer cosas de pocos requerimientos está muy bien.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mi visualizador de Markdown en Atom es &lt;a href=&quot;https://shd101wyy.github.io/markdown-preview-enhanced/#/&quot;&gt;markdown-preview-enhanced&lt;/a&gt;. Tiene todo lo que necesito. Lo puedes personalizar y ajustar según tus necesidades. Además, puedes exportar con Pandoc fácilmente con un clic derecho. Esa integración con Pandoc me gusta mucho. Tiene distintos temas para elegir la visualización y también puedes exportar el Markdown a archivos HTML o e-books.&lt;/li&gt;
+  &lt;li&gt;Para citar tengo &lt;a href=&quot;https://atom.io/packages/zotero-citations&quot;&gt;zotero-citations&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Para hacer consultas en internet sin distraerme uso &lt;a href=&quot;https://atom.io/packages/browser-plus&quot;&gt;browser-plus&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;También seguí los consejos de aquí: &lt;a href=&quot;https://discuss.atom.io/t/using-atom-for-academic-writing/19222&quot;&gt;Using Atom for academic writing&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;notas&quot;&gt;Notas&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Para tomar notas uso &lt;a href=&quot;https://obsidian.md&quot;&gt;Obsidian&lt;/a&gt;. No es abierto, pero es simple, muy cómodo, corre localmente con archivos Markdown y es bastante transparente con lo que hace. Cuenta con API pública para que la comunidad haga sus propios plugins y temas, tiene un foro muy activo y un chat de Discord muy amigable.&lt;/li&gt;
+  &lt;li&gt;También tengo Notion, pero sólo es mi bookmark para guardar cosas que veo en internet. Hasta no tener algo mejor, eso es lo que uso para guardar cosas con el web clipper.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;moviendome-de-atom-a-obsidian&quot;&gt;Moviendome de Atom a Obsidian&lt;/h2&gt;
+&lt;p&gt;Obsidian lo suo para tomar notas de literatura, anotar artículos, hacer pequeñas reseñas, anotar ideas y borradores. Me gusta el Markdown Flavor que usa y estoy contento con sus plugins, como la visualización de grafo, backlinks, CSS personalizables, plantillas, y otras. La cuestión es que no todo lo puedo hacer en Obsidian porque no es un entorno de trabajo total. Un editor de texto como Atom (u otro) es mucho más potente para trabajar con ayuda de complementos como Pandoc y LaTeX. Hay demasiados plugins útiles que ayudan a administrar tu trabajo.&lt;/p&gt;
+
+&lt;p&gt;Lo que yo hago es tener  en mis proyectos mi carpeta de Obsidian y de ahí checar algunas cosas para darles formato para tener un producto final.&lt;/p&gt;
+
+&lt;p&gt;En Atom uso el flavor de Pandoc para Markdown para que tenga citas y todos los retoques de LaTeX. Para eso es también importante un YAML front matter que le diga a Pandoc que hacer con tu archivo Markdown. El mío es el siguiente:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-yaml&quot;&gt;---
+title: &quot;Título del trabajo&quot;
+subtitle: &quot;Subtítulo del trabajo&quot;
+author: Nombre
+date: &quot;Enero 2021&quot;
+lang: es # Para que Pandoc haga modificaciones en español y no en inglés
+bibliography: &quot;C:/Users/RUTA AL ARCHIVO BIBTEX&quot;
+csl: &quot;C:/Users/RUTA AL ARCHIVO CSL&quot;
+fontsize: &quot;12pt&quot;
+link-citations: true
+output: pdf_document
+#### Estos son opcionales cuando quiero otra específicación
+geometry: &quot;margin=3cm&quot; # Margenes
+linestretch: &quot;1.25&quot; # Espaciado
+papersize: letter # Tamaño de hoja
+---
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Si quieres armar tu propio front matter te recomiendo &lt;a href=&quot;https://cran.r-project.org/web/packages/ymlthis/vignettes/yaml-fieldguide.html&quot;&gt;The YAML Fieldguide&lt;/a&gt; para ver las opciones que puede agregar en distintos flavors.&lt;/p&gt;
+
+&lt;h1 id=&quot;biblioteca-personal-digital&quot;&gt;Biblioteca personal digital&lt;/h1&gt;
+&lt;h2 id=&quot;gestor-de-referencias&quot;&gt;Gestor de referencias&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.zotero.org/&quot;&gt;Zotero&lt;/a&gt;&lt;/strong&gt; es mi elección para guardar mis referencias. Es FOSS, lo que lo hace multiplataforma y compatible con distintos flujos de trabajo con ayuda de plugins. Se puede integrar Zotero en prácticamente cualquier editor de texto.&lt;/p&gt;
+
+&lt;p&gt;Los plugins esenciales para Zotero son &lt;a href=&quot;https://retorque.re/zotero-better-bibtex/&quot;&gt;Better BibTex&lt;/a&gt; y &lt;a href=&quot;http://zotfile.com/&quot;&gt;ZotFile&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Better BibTeX&lt;/strong&gt; facilita el manejo de bibliografía en texto plano para LaTeX, Pandoc y Markdown. Es esencial para el flujo de trabajo académico en texto plano.
+    &lt;ul&gt;
+      &lt;li&gt;Hay que hacer algunas modificaciones a las configuraciones para que tu base de datos &lt;code&gt;.bib&lt;/code&gt; se actualice a la par de tus cambios en Zotero y cambiar el formato de la Key Citations para que sea más cómodo. &lt;a href=&quot;#key&quot;&gt;Abajo más sobre eso&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Con &lt;strong&gt;ZotFile&lt;/strong&gt; aministró los archivos adjuntos de mis referencias, extraigo citas subrayadas y anotaciones de mis PDFs.
+    &lt;ul&gt;
+      &lt;li&gt;Por defecto Zotero guarda los archivos PDF en carpetas que en tu vida vas a encontrar. Con ZotFile mejor las guardo en una carpeta de lecturas y la respaldo con Google Drive. Mato dos pájaros de un tiro. Administro mis PDFs y los tengo disponibles en la nube.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;citando-en-texto-plano&quot;&gt;Citando en texto plano&lt;/h2&gt;
+
+&lt;h3 id=&quot;key&quot;&gt;Cite Keys en Zotero BibTeX&lt;/h3&gt;
+&lt;p&gt;Primero tienes que tener BibTex, un plugin para Zotero que exporta tu base de citas a un archivo de texto plano para citar cómodamente. Este archivo lo lee Pandoc y ya está. A cada referencia se le asigna un &lt;em&gt;Citation Key&lt;/em&gt; y con ese citas en lo que sea que escribas.&lt;/p&gt;
+
+&lt;p&gt;Cada &lt;em&gt;Key&lt;/em&gt; es único y por default la configuración es&lt;code&gt;[auth:lower][year]&lt;/code&gt; poniendo el apellido del primer autor/a y el año de publicación. A mi no me gusta mucho y lo modifiqué.&lt;/p&gt;
+
+&lt;p&gt;Mi &lt;em&gt;Citation Key Format&lt;/em&gt; es &lt;code&gt;[auth.etal:lower][year]&lt;/code&gt;
+Así el &lt;em&gt;key&lt;/em&gt; reconocerá si hay uno, dos o más autores, pondrá su primer apellido con minúsculas y el año.
+Los &lt;em&gt;keys&lt;/em&gt; se ven así:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Un autor: &lt;code&gt;kapferer2014a&lt;/code&gt; (la ‘a’ final indica que hay otra publicación el mismo año del mismo autor).&lt;/li&gt;
+  &lt;li&gt;Dos autores: &lt;code&gt;graeber.sahlins2017&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Más de dos autores: &lt;code&gt;white.etal1976&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Además de estético, ese &lt;code&gt;.etal&lt;/code&gt; es importante para mí porque Pandoc en español tiene algunos errores (que espero que solucionen pronto), particularmente con Babel de LaTeX. La cuestión es que en lugar de poner (White &lt;em&gt;et al.&lt;/em&gt;, 1976), el documento después de pasarlo por Pandoc será (White &lt;strong&gt;etal.&lt;/strong&gt;, 1976). Es una cosa mínima, pero frustrante si trabajas en español, al menos hasta que lo resuelvan.&lt;/p&gt;
+
+&lt;p&gt;Lo que yo hago es escribir y citar tranquilamente y ya que todo está listo invoco el comando ‘Find and Replace’ para buscar los keys con &lt;code&gt;.etal&lt;/code&gt; y hacer las pequeñas modificaciones.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;En lugar de &lt;code&gt;@fine.etal2020&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Ponemos manualmente &lt;code&gt;[Fine et al., -@fine.etal2020]&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;En realidad es bastante simple. Los prefijos y sufijos citando en texto plano salvan vidas.&lt;/p&gt;
+
+&lt;h3 id=&quot;referencias-con-formato-de-fecha-extendido&quot;&gt;Referencias con formato de fecha extendido&lt;/h3&gt;
+&lt;p&gt;Otro problema con Pandoc. En realidad creo que son los únicos dos que me he encontrado y seguramente alguien ya tuvo la suerte de resolverlos con algunas actualizaciones, paquetes y demás. Yo no. La cuestión aquí es que cuando quieres citar un texto con día y mes (como un artículo de periódico, p.e. ‘4 de diciembre, 2010’), el archivo output sólo formateara el año como cualquier artículo o libro académico.&lt;/p&gt;
+
+&lt;p&gt;Hasta que tenga una solución adecuada lo que hago es:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ver el texto final texto en la visualización markdown pasada por Pandoc con referencias al final.&lt;/li&gt;
+  &lt;li&gt;Copiar manualmente las referencias en el archivo de texto.&lt;/li&gt;
+  &lt;li&gt;Hacer las modificaciones en las referencias correspondientes.&lt;/li&gt;
+  &lt;li&gt;Usar &lt;code&gt;suppress_bibliography: true&lt;/code&gt; en el YAML.&lt;/li&gt;
+  &lt;li&gt;Exportar.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Herramientas digitales para hacer etnografía</title>
+   <link href="http://localhost:4000/herram-digi"/>
+   <updated>2021-01-02T00:00:00-06:00</updated>
+   <id>http://localhost:4000/herram-etnog</id>
+   <content type="html">&lt;p&gt;Originalmente el texto se llama &lt;em&gt;Herramientas no etnográficas para hacer etnografía&lt;/em&gt; y va sobre consejos prácticos para hacer antropología con herramientas digitales. Lo he estado escribiendo en Markdown y después lo pase a un formato de Bookdown en R. Todavía no está completo, sólo lo estoy probando. Ya lo iré actualizando.&lt;/p&gt;
+
+&lt;p&gt;El texto se puede consultar en este &lt;a href=&quot;https://carloslucmat.github.io/herramientas-etno/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Estaba pensando mucho en el formato. Me gusta la tabla de contenidos, pero no me termina de convencer tener pies de página hasta el final, me gusta más el formato Tufte, pero no tiene lo demás. El tema &lt;a href=&quot;https://github.com/cotes2020/jekyll-theme-chirpy&quot;&gt;chirpy&lt;/a&gt; para Github parece buena opción, pero eso actualizar a cada rato la rama para que se muestre la página está horrible. Agh. Ni modo. Voy a ver que más puedo hacer.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Introducción</title>
+   <link href="http://localhost:4000/intro2021"/>
+   <updated>2021-01-01T00:00:00-06:00</updated>
+   <id>http://localhost:4000/intro</id>
+   <content type="html">&lt;p&gt;Esta es una introducción de prueba. Este post está escrito localmente en &lt;strong&gt;Markdown&lt;/strong&gt; con ayuda de &lt;strong&gt;Atom&lt;/strong&gt; y alojado &lt;strong&gt;Github&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Próximamente más publicaciones.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Mientras tanto esta imagen genérica:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/galaxy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
