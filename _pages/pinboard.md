@@ -3,4 +3,4 @@ layout: page
 title: Pinboard
 ---
 
-{% include image-gallery.html folder="/images/pinboard/" %}
+{% include image-gallery.html folder="/images/pinboard" %}
