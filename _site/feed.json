@@ -41,6 +41,30 @@
         },
     
         {
+            "id": "http://localhost:4000/2023/01/01/lista-1",
+            "title": "Lista",
+            "summary": null,
+            "content_text": "  La lista de Verso Books de los mejores libros sobre Marx: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!  Digital Economy Models: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.  Barricelli’s Computable Creatures: Como parte de su registro para la escritura de su libro Uncomputable, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los 50 para representar la evolución de creaturas digitales.  Four historico-ideological theories about the origin of the current war in Ukraine: Branko Milanovik escribe sobre algunos puntos teóricos generales que se usan a menudo para entender la actual guerra en Ucrania. Sin entrar en detalles geopolíticos, Milanovik historiza los diferentes marcos de referencia que se usan para entender este conflicto. Hay una primera parte.  Politigram &amp; the Post-left: El ensayo de Joshua Citarella sobre las subculturas políticas gringas que surgieron en los últimos años. Un texto ya de culto para entender cómo se están formando las ideologías políticas más allá de las categorías y grupos tradicionales.  The Art of Sketching: Strategies for Getting Started: Una entrada de Lani Bangley sobre como acpturar momentos musicales para después desarrollarlos en un DAW, etc.",
+            "content_html": "<ul>  <li><a href=\"https://www.versobooks.com/blogs/3759-the-best-books-on-marx?\"><strong>La lista de Verso Books de los mejores libros sobre Marx</strong></a>: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!</li>  <li><a href=\"https://donotresearch.net/posts/digital-economy-models\"><strong>Digital Economy Models</strong></a>: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.</li>  <li><a href=\"http://cultureandcommunication.org/galloway/ephemera-pt-3-barricelli?\">Barricelli’s Computable Creatures</a>: Como parte de su registro para la escritura de su libro <em>Uncomputable</em>, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los 50 para representar la evolución de creaturas digitales.</li>  <li><a href=\"https://branko2f7.substack.com/p/four-historico-ideological-theories-628?\">Four historico-ideological theories about the origin of the current war in Ukraine</a>: Branko Milanovik escribe sobre algunos puntos teóricos generales que se usan a menudo para entender la actual guerra en Ucrania. Sin entrar en detalles geopolíticos, Milanovik historiza los diferentes marcos de referencia que se usan para entender este conflicto. Hay una primera parte.</li>  <li><a href=\"https://joshuacitarella.substack.com/p/politigram-and-the-post-left?\">Politigram &amp; the Post-left</a>: El ensayo de Joshua Citarella sobre las subculturas políticas gringas que surgieron en los últimos años. Un texto ya de culto para entender cómo se están formando las ideologías políticas más allá de las categorías y grupos tradicionales.</li>  <li><a href=\"https://www.ableton.com/en/blog/the-art-of-sketching-strategies-for-getting-started/\">The Art of Sketching: Strategies for Getting Started</a>: Una entrada de Lani Bangley sobre como acpturar momentos musicales para después desarrollarlos en un DAW, etc.</li></ul>",
+            "url": "http://localhost:4000/2023/01/01/lista-1",
+            
+            
+            
+            
+            
+            "date_published": "2023-01-01T00:00:00-06:00",
+            "date_modified": "2023-01-01T00:00:00-06:00",
+            
+                "author":  {
+                "name": "Carlos",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2022/12/30/ideas-recopilacion",
             "title": "Ideas para recopilar cosas",
             "summary": null,

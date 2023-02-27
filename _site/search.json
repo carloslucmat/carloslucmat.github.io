@@ -13,6 +13,17 @@
   
     {
 
+      "title"    : "Lista",
+      "url"      : "/2023/01/01/lista-1",
+      "category" : "",
+      "tags"     : "lista",
+      "date"     : "2023-01-01 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Ideas para recopilar cosas",
       "url"      : "/2022/12/30/ideas-recopilacion",
       "category" : "",
