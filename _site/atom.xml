@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-02-26T21:29:33-06:00</updated>
+ <updated>2023-02-26T21:35:13-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -31,7 +31,7 @@
   &lt;li&gt;&lt;strong&gt;Fotos&lt;/strong&gt;: Tomar fotografías también depende de los permisos y políticas de cada archivo. En general, yo no tuve restricciones para hacerlo. Incluso hay archivos que ya tienen digitalizado parte de su acervo. Si es así, puedes ahorrarte mucho tiempo. Si no, hay una serie de recomendaciones que puedo hacer a la hora de tomar fotos de documentos.
     &lt;ul&gt;
       &lt;li&gt;Algunas personas profesionales del oficio usan cámaras profesionales y un tripode. Si este no es tu caso, tu celular pude ser más que suficiente. Solo procura tomar imágenes de forma paralela al documento y no generar mucha sombra. Esto después ayudará en la digitalización y edición.&lt;/li&gt;
-      &lt;li&gt;Hay aplicaciones que son más utiles que la propia cámara del celular. Yo en particular uso &lt;a href=&quot;https://liliandroid.com/inventory-photos-plus/&quot;&gt;IPPK: Inventory Photos Plus K&lt;/a&gt; para Android. Es una herramienta para hacer inventarios, y para trabajo de archivo viene perfecta. Si solo tomas fotos, perderás la información del documento que estás consultando. Con IPPK puedes añadir campos personalizados de acuerdo a la información del documento (volumen, expediente, fojas, etc.) y nombrará el archivo de acuerdo a esos campos de información. Pasarás de una imagen nombrada ´IMG_20230214_17123´ a algo así: ´[124][4145][41 245-246][Estudios y exploraciones del INAH 1941-1942]1´ Así será más fácil consultar las fotos más adelante y citarlas. Antes de usarla explora cómo funciona.&lt;/li&gt;
+      &lt;li&gt;Hay aplicaciones que son más utiles que la propia cámara del celular. Yo en particular uso &lt;a href=&quot;https://liliandroid.com/inventory-photos-plus/&quot;&gt;IPPK: Inventory Photos Plus K&lt;/a&gt; para Android. Es una herramienta para hacer inventarios, y para trabajo de archivo viene perfecta. Si solo tomas fotos, perderás la información del documento que estás consultando. Con IPPK puedes añadir campos personalizados de acuerdo a la información del documento (volumen, expediente, fojas, etc.) y nombrará el archivo de acuerdo a esos campos de información. Pasarás de una imagen nombrada &lt;code&gt;IMG_20230214_17123&lt;/code&gt; a algo así: &lt;code&gt;[124][4145][41 245-246][Estudios y exploraciones del INAH 1941-1942]&lt;/code&gt; Así será más fácil consultar las fotos más adelante y citarlas. Antes de usarla explora cómo funciona.&lt;/li&gt;
       &lt;li&gt;Baja la resolución de tu celular. No necesitas mucho pixelaje para que se vean bien los documentos.&lt;/li&gt;
       &lt;li&gt;Es incómodo pulsar el botón de obturación en la pantalla de forma repetida, en su lugar configura el botón de volumen con un temporizador de 2 segundos. Esto al final te hace ahorrar tiempo y tu muñeca te lo agradecerá.&lt;/li&gt;
       &lt;li&gt;En mi experiencia, algunos documentos son de un papel muy fino, lo que hace que se transparente el texto de las hojas que están debajo. Para evitar esto es útil poner debajo una hoja blanca común y después tomar la foto. Así logras fotos más limpias.&lt;/li&gt;
