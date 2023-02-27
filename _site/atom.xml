@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-01-14T23:44:29-06:00</updated>
+ <updated>2023-02-26T20:08:16-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -364,7 +364,7 @@
  </entry>
  
  <entry>
-   <title>Entrevistas a 'líderes pensadores' de Cambridge</title>
+   <title>Entrevistas a &apos;líderes pensadores&apos; de Cambridge</title>
    <link href="http://localhost:4000/2021/01/28/seleccion-de-videos-leading-thinkers"/>
    <updated>2021-01-28T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/01/28/seleccion-de-videos-leading-thinkers</id>
