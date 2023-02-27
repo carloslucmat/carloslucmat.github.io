@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-02-26T22:01:09-06:00</updated>
+ <updated>2023-02-26T22:03:10-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -51,13 +51,13 @@
  </entry>
  
  <entry>
-   <title>Lista</title>
+   <title>Lista #1</title>
    <link href="http://localhost:4000/2023/01/01/lista-1"/>
    <updated>2023-01-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/01/01/lista-1</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3759-the-best-books-on-marx?&quot;&gt;&lt;strong&gt;La lista de Verso Books de los mejores libros sobre Marx&lt;/strong&gt;&lt;/a&gt;: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;&lt;strong&gt;Digital Economy Models&lt;/strong&gt;&lt;/a&gt;: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3759-the-best-books-on-marx?&quot;&gt;La lista de Verso Books de los mejores libros sobre Marx**&lt;/a&gt;: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;Digital Economy Models&lt;/a&gt;: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://cultureandcommunication.org/galloway/ephemera-pt-3-barricelli?&quot;&gt;Barricelli’s Computable Creatures&lt;/a&gt;: Como parte de su registro para la escritura de su libro &lt;em&gt;Uncomputable&lt;/em&gt;, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los 50 para representar la evolución de creaturas digitales.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://branko2f7.substack.com/p/four-historico-ideological-theories-628?&quot;&gt;Four historico-ideological theories about the origin of the current war in Ukraine
 &lt;/a&gt;: Branko Milanovik escribe sobre algunos puntos teóricos generales que se usan a menudo para entender la actual guerra en Ucrania. Sin entrar en detalles geopolíticos, Milanovik historiza los diferentes marcos de referencia que se usan para entender este conflicto. Hay una primera parte.&lt;/li&gt;
