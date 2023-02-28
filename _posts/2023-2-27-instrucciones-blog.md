@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Instrucciones para el blog"
+title: "Comandos para blog"
 ---
 
 Este blog es un sitio estático creado con Jekyll y alojado en Github Pages. Hacerlo fue sencillo, pero un poco tedioso. Hay que saber usar comandos básicos en la consola para generar la página localmente, hacer cambios con Git y después subirla al repositorio de Github. Algunos pasos y comandos básicos para hacerlo son:

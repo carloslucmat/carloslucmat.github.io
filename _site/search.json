@@ -2,33 +2,22 @@
   
     {
 
+      "title"    : "Comandos para blog",
+      "url"      : "/2023/02/27/instrucciones-blog",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2023-02-27 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Consejos para hacer trabajo de archivo",
       "url"      : "/trabajo-de-archivo-tips",
       "category" : "",
       "tags"     : "archivo, consejos, tips, cool tools, humanidades digitales",
       "date"     : "2023-02-26 00:00:00 -0600",
-      "description" : ""
-
-    } ,
-  
-    {
-
-      "title"    : "Instrucciones para el blog",
-      "url"      : "/2023/01/27/blog-instrucciones",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "2023-01-27 00:00:00 -0600",
-      "description" : ""
-
-    } ,
-  
-    {
-
-      "title"    : "Blog Instrucc",
-      "url"      : "/2023/01/27/blog-instrucc",
-      "category" : "",
-      "tags"     : "",
-      "date"     : "2023-01-27 00:00:00 -0600",
       "description" : ""
 
     } ,
