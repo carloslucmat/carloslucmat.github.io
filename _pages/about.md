@@ -3,6 +3,9 @@ layout: page
 title: Info
 ---
 
-Hola, soy Carlos Lucas Mateo. Antropólogo de la UNAM interesado por los problemas del Occidente de México en particular, del Sur Global en general y de América Latina entre ambos. 
+Antropólogo / México / Michoacán
 
-Este es un blog personal.
+mail: <carloslucmat@politicas.unam.mx>
+tw: [@SanLucasMateo](https://twitter.com/SanLucasMateo)
+ig: [@caaaarlos_lm](https://www.instagram.com/caaaarlos_lm/)
+sc: [@c-lucmat](https://soundcloud.com/c-lucmat)

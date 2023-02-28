@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-02-26T22:03:10-06:00</updated>
+ <updated>2023-02-27T23:14:48-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -51,19 +51,566 @@
  </entry>
  
  <entry>
+   <title>Instrucciones para el blog</title>
+   <link href="http://localhost:4000/2023/01/27/blog-instrucciones"/>
+   <updated>2023-01-27T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/01/27/blog-instrucciones</id>
+   <content type="html">&lt;p&gt;Este blog es un sitio estático creado con Jekyll y alojado en Github Pages. Hacerlo fue sencillo, pero un poco tedioso. Hay que saber usar comandos básicos en la consola para generar la página localmente, hacer cambios con Git y después subirla al repositorio de Github. Algunos pasos y comandos básicos para hacerlo son:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Asegurarse de estar en el directorio del blog local con &lt;code&gt;cd&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Después de cada cambio hecho en los archivos del blog hay que ejecutar &lt;code&gt;exec bundle jekyll serve&lt;/code&gt; para generar la página localmente. Esto hace que los posts escritos en formato Markdown se rendericen en HTML. Si esto no se hace no se despliegan los cambios depsués.&lt;/li&gt;
+  &lt;li&gt;Úsar comandos de Git para vincular los archivos locales con el repositorio en GH. Se usa &lt;code&gt;git add .&lt;/code&gt; para añadir todos los cambios hechos en la carpeta. Se usa &lt;code&gt;git commit -m &quot;comentario&quot;&lt;/code&gt; para realizar los cambios. Finalmente se usa &lt;code&gt;git push github gh-pages&lt;/code&gt; o &lt;code&gt;git push origin gh-pages&lt;/code&gt; para realizar los cambios en el repositorio remoto en Github que hace de servidor.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;em&gt;Notas&lt;/em&gt;: Hay algunos conflictos con diferentes versiones de software que se utiliza para hacer funcionar el blog. Esto hace que salten varias “deprecaciones”. Aún así funciona. Según la teoría, el comando de &lt;code&gt;exec bundle jekyll serve&lt;/code&gt; solo debería usarse la primera vez que se genera la página y después usar solo &lt;code&gt;jekyll serve&lt;/code&gt;. En la práctica esto no me funciona por alguna razón que todavía no entiendo. También, la primera vez que hice el blog en mi vieja laptop el comando de git que usaba para hacer &lt;code&gt;push&lt;/code&gt; contenía el campo &lt;code&gt;origin&lt;/code&gt;, pero ahora esto no funciona desde la nueva laptop porque el repositorio ya no reconoce esta laptop como el origen. Ahora hay que reemplazarlo por &lt;code&gt;origin&lt;/code&gt; por &lt;code&gt;github&lt;/code&gt; y hacer una verificación de identidad.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Blog Instrucc</title>
+   <link href="http://localhost:4000/2023/01/27/blog-instrucc"/>
+   <updated>2023-01-27T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/01/27/blog-instrucc</id>
+   <content type="html">{
+	&quot;auto_complete&quot;:
+	{
+		&quot;selected_items&quot;:
+		[
+		]
+	},
+	&quot;buffers&quot;:
+	[
+		{
+			&quot;file&quot;: &quot;2023-1-01-lista-1.md&quot;,
+			&quot;settings&quot;:
+			{
+				&quot;buffer_size&quot;: 1811,
+				&quot;encoding&quot;: &quot;UTF-8&quot;,
+				&quot;line_ending&quot;: &quot;Windows&quot;
+			},
+			&quot;undo_stack&quot;:
+			[
+				[
+					9,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;capturar&quot;
+					},
+					&quot;CQAAAMsGAAAAAAAAzAYAAAAAAAAAAAAAzAYAAAAAAADMBgAAAAAAAAgAAABhY3B0dXJhcswGAAAAAAAAzQYAAAAAAAAAAAAAzQYAAAAAAADOBgAAAAAAAAAAAADOBgAAAAAAAM8GAAAAAAAAAAAAAM8GAAAAAAAA0AYAAAAAAAAAAAAA0AYAAAAAAADRBgAAAAAAAAAAAADRBgAAAAAAANIGAAAAAAAAAAAAANIGAAAAAAAA0wYAAAAAAAAAAAAA&quot;,
+					&quot;AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBgAAAAAAANMGAAAAAAAAAAAAAAAA8L8&quot;
+				]
+			]
+		},
+		{
+			&quot;contents&quot;: &quot;---\nlayout: post\ntitle: Instrucciones para el blog\n---&quot;,
+			&quot;file&quot;: &quot;2023-01-27-blog-instrucc&quot;,
+			&quot;file_size&quot;: 24,
+			&quot;file_write_time&quot;: 133220332419118933,
+			&quot;settings&quot;:
+			{
+				&quot;buffer_size&quot;: 54,
+				&quot;encoding&quot;: &quot;UTF-8&quot;,
+				&quot;line_ending&quot;: &quot;Windows&quot;,
+				&quot;name&quot;: &quot;2023-01-27-blog-instrucc&quot;
+			},
+			&quot;undo_stack&quot;:
+			[
+				[
+					1,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;2022&quot;
+					},
+					&quot;BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					2,
+					1,
+					&quot;left_delete&quot;,
+					null,
+					&quot;AQAAAAMAAAAAAAAAAwAAAAAAAAABAAAAMg&quot;,
+					&quot;AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					3,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;3-01-&quot;
+					},
+					&quot;BQAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					4,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;27-&quot;
+					},
+					&quot;AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					5,
+					1,
+					&quot;left_delete&quot;,
+					null,
+					&quot;AQAAAAoAAAAAAAAACgAAAAAAAAABAAAALQ&quot;,
+					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					6,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;-&quot;
+					},
+					&quot;AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					7,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;blog-&quot;
+					},
+					&quot;BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					8,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;instrucc&quot;
+					},
+					&quot;CAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					9,
+					10,
+					&quot;delete_word&quot;,
+					{
+						&quot;forward&quot;: false
+					},
+					&quot;CQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAaW5zdHJ1Y2MPAAAAAAAAAA8AAAAAAAAAAQAAAC0LAAAAAAAAAAsAAAAAAAAABAAAAGJsb2cKAAAAAAAAAAoAAAAAAAAAAQAAAC0IAAAAAAAAAAgAAAAAAAAAAgAAADI3BwAAAAAAAAAHAAAAAAAAAAEAAAAtBQAAAAAAAAAFAAAAAAAAAAIAAAAwMQQAAAAAAAAABAAAAAAAAAABAAAALQAAAAAAAAAAAAAAAAAAAAAEAAAAMjAyMw&quot;,
+					&quot;AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					10,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;---&quot;
+					},
+					&quot;AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					11,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;\n---&quot;
+					},
+					&quot;BAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					13,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;\nlayout:&quot;
+					},
+					&quot;CAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAADpA&quot;
+				],
+				[
+					14,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot; post&quot;
+					},
+					&quot;BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					15,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;\n&quot;
+					},
+					&quot;AQAAABAAAAAAAAAAEQAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					16,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;title:&quot;
+					},
+					&quot;BgAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					17,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot; Instr&quot;
+					},
+					&quot;BgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					18,
+					1,
+					&quot;delete_word&quot;,
+					{
+						&quot;forward&quot;: false
+					},
+					&quot;AQAAABgAAAAAAAAAGAAAAAAAAAAFAAAASW5zdHI&quot;,
+					&quot;AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					19,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;Instrucciones&quot;
+					},
+					&quot;DQAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					20,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot; para&quot;
+					},
+					&quot;BQAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					21,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot; el&quot;
+					},
+					&quot;AwAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					22,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot; blog&quot;
+					},
+					&quot;BQAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					23,
+					1,
+					&quot;insert&quot;,
+					{
+						&quot;characters&quot;: &quot;\n&quot;
+					},
+					&quot;AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA&quot;,
+					&quot;AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/&quot;
+				],
+				[
+					24,
+					1,
+					&quot;left_delete&quot;,
+					null,
+					&quot;AQAAADIAAAAAAAAAMgAAAAAAAAABAAAACg&quot;,
+					&quot;AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/&quot;
+				]
+			]
+		}
+	],
+	&quot;build_system&quot;: &quot;&quot;,
+	&quot;build_system_choices&quot;:
+	[
+	],
+	&quot;build_varint&quot;: &quot;&quot;,
+	&quot;command_palette&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;last_filter&quot;: &quot;&quot;,
+		&quot;selected_items&quot;:
+		[
+			[
+				&quot;save&quot;,
+				&quot;Project: Save As&quot;
+			],
+			[
+				&quot;rena&quot;,
+				&quot;Rename File&quot;
+			],
+			[
+				&quot;r&quot;,
+				&quot;Rename File&quot;
+			],
+			[
+				&quot;re&quot;,
+				&quot;Rename File&quot;
+			],
+			[
+				&quot;ren&quot;,
+				&quot;Rename File&quot;
+			]
+		],
+		&quot;width&quot;: 0.0
+	},
+	&quot;console&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;history&quot;:
+		[
+		]
+	},
+	&quot;distraction_free&quot;:
+	{
+		&quot;menu_visible&quot;: true,
+		&quot;show_minimap&quot;: false,
+		&quot;show_open_files&quot;: false,
+		&quot;show_tabs&quot;: false,
+		&quot;side_bar_visible&quot;: false,
+		&quot;status_bar_visible&quot;: false
+	},
+	&quot;expanded_folders&quot;:
+	[
+		&quot;/C/Users/ThinkPad/Documents/blog_clm&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_data&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_includes&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_layouts&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_pages&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/images&quot;
+	],
+	&quot;file_history&quot;:
+	[
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_pages/about.md&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-1-01-lista-1.md&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-02-26-tips-trabajo-de-archivo.md&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/Consejos para hacer trabajo de archivo.md&quot;
+	],
+	&quot;find&quot;:
+	{
+		&quot;height&quot;: 0.0
+	},
+	&quot;find_in_files&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;where_history&quot;:
+		[
+		]
+	},
+	&quot;find_state&quot;:
+	{
+		&quot;case_sensitive&quot;: false,
+		&quot;find_history&quot;:
+		[
+		],
+		&quot;highlight&quot;: true,
+		&quot;in_selection&quot;: false,
+		&quot;preserve_case&quot;: false,
+		&quot;regex&quot;: false,
+		&quot;replace_history&quot;:
+		[
+		],
+		&quot;reverse&quot;: false,
+		&quot;scrollbar_highlights&quot;: true,
+		&quot;show_context&quot;: true,
+		&quot;use_buffer2&quot;: true,
+		&quot;use_gitignore&quot;: true,
+		&quot;whole_word&quot;: false,
+		&quot;wrap&quot;: true
+	},
+	&quot;groups&quot;:
+	[
+		{
+			&quot;sheets&quot;:
+			[
+				{
+					&quot;buffer&quot;: 0,
+					&quot;file&quot;: &quot;2023-1-01-lista-1.md&quot;,
+					&quot;semi_transient&quot;: false,
+					&quot;settings&quot;:
+					{
+						&quot;buffer_size&quot;: 1811,
+						&quot;regions&quot;:
+						{
+						},
+						&quot;selection&quot;:
+						[
+							[
+								1811,
+								1811
+							]
+						],
+						&quot;settings&quot;:
+						{
+							&quot;syntax&quot;: &quot;Packages/Markdown/Markdown.sublime-syntax&quot;
+						},
+						&quot;translation.x&quot;: 0.0,
+						&quot;translation.y&quot;: 0.0,
+						&quot;zoom_level&quot;: 1.0
+					},
+					&quot;stack_index&quot;: 1,
+					&quot;stack_multiselect&quot;: false,
+					&quot;type&quot;: &quot;text&quot;
+				},
+				{
+					&quot;buffer&quot;: 1,
+					&quot;file&quot;: &quot;2023-01-27-blog-instrucc&quot;,
+					&quot;selected&quot;: true,
+					&quot;semi_transient&quot;: false,
+					&quot;settings&quot;:
+					{
+						&quot;buffer_size&quot;: 54,
+						&quot;regions&quot;:
+						{
+						},
+						&quot;selection&quot;:
+						[
+							[
+								54,
+								54
+							]
+						],
+						&quot;settings&quot;:
+						{
+							&quot;auto_name&quot;: &quot;2023-01-27-blog-instrucc&quot;,
+							&quot;syntax&quot;: &quot;Packages/Text/Plain text.tmLanguage&quot;
+						},
+						&quot;translation.x&quot;: 0.0,
+						&quot;translation.y&quot;: 0.0,
+						&quot;zoom_level&quot;: 1.0
+					},
+					&quot;stack_index&quot;: 0,
+					&quot;stack_multiselect&quot;: false,
+					&quot;type&quot;: &quot;text&quot;
+				}
+			]
+		}
+	],
+	&quot;incremental_find&quot;:
+	{
+		&quot;height&quot;: 0.0
+	},
+	&quot;input&quot;:
+	{
+		&quot;height&quot;: 0.0
+	},
+	&quot;layout&quot;:
+	{
+		&quot;cells&quot;:
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		&quot;cols&quot;:
+		[
+			0.0,
+			1.0
+		],
+		&quot;rows&quot;:
+		[
+			0.0,
+			1.0
+		]
+	},
+	&quot;menu_visible&quot;: true,
+	&quot;output.find_results&quot;:
+	{
+		&quot;height&quot;: 0.0
+	},
+	&quot;pinned_build_system&quot;: &quot;&quot;,
+	&quot;project&quot;: &quot;2023-01-27-blog-instrucc.md&quot;,
+	&quot;replace&quot;:
+	{
+		&quot;height&quot;: 0.0
+	},
+	&quot;save_all_on_build&quot;: true,
+	&quot;select_file&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;last_filter&quot;: &quot;&quot;,
+		&quot;selected_items&quot;:
+		[
+		],
+		&quot;width&quot;: 0.0
+	},
+	&quot;select_project&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;last_filter&quot;: &quot;&quot;,
+		&quot;selected_items&quot;:
+		[
+		],
+		&quot;width&quot;: 0.0
+	},
+	&quot;select_symbol&quot;:
+	{
+		&quot;height&quot;: 0.0,
+		&quot;last_filter&quot;: &quot;&quot;,
+		&quot;selected_items&quot;:
+		[
+		],
+		&quot;width&quot;: 0.0
+	},
+	&quot;selected_group&quot;: 0,
+	&quot;settings&quot;:
+	{
+	},
+	&quot;show_minimap&quot;: true,
+	&quot;show_open_files&quot;: false,
+	&quot;show_tabs&quot;: true,
+	&quot;side_bar_visible&quot;: true,
+	&quot;side_bar_width&quot;: 240.0,
+	&quot;status_bar_visible&quot;: true,
+	&quot;template_settings&quot;:
+	{
+	}
+}
+</content>
+ </entry>
+ 
+ <entry>
    <title>Lista #1</title>
    <link href="http://localhost:4000/2023/01/01/lista-1"/>
    <updated>2023-01-01T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/01/01/lista-1</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3759-the-best-books-on-marx?&quot;&gt;La lista de Verso Books de los mejores libros sobre Marx**&lt;/a&gt;: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3759-the-best-books-on-marx?&quot;&gt;La lista de Verso Books de los mejores libros sobre Marx&lt;/a&gt;: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;Digital Economy Models&lt;/a&gt;: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://cultureandcommunication.org/galloway/ephemera-pt-3-barricelli?&quot;&gt;Barricelli’s Computable Creatures&lt;/a&gt;: Como parte de su registro para la escritura de su libro &lt;em&gt;Uncomputable&lt;/em&gt;, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los 50 para representar la evolución de creaturas digitales.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://branko2f7.substack.com/p/four-historico-ideological-theories-628?&quot;&gt;Four historico-ideological theories about the origin of the current war in Ukraine
-&lt;/a&gt;: Branko Milanovik escribe sobre algunos puntos teóricos generales que se usan a menudo para entender la actual guerra en Ucrania. Sin entrar en detalles geopolíticos, Milanovik historiza los diferentes marcos de referencia que se usan para entender este conflicto. Hay una primera parte.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://joshuacitarella.substack.com/p/politigram-and-the-post-left?&quot;&gt;Politigram &amp;amp; the Post-left
-&lt;/a&gt;: El ensayo de Joshua Citarella sobre las subculturas políticas gringas que surgieron en los últimos años. Un texto ya de culto para entender cómo se están formando las ideologías políticas más allá de las categorías y grupos tradicionales.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.ableton.com/en/blog/the-art-of-sketching-strategies-for-getting-started/&quot;&gt;The Art of Sketching: Strategies for Getting Started&lt;/a&gt;: Una entrada de Lani Bangley sobre como acpturar momentos musicales para después desarrollarlos en un DAW, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cultureandcommunication.org/galloway/ephemera-pt-3-barricelli?&quot;&gt;Barricelli’s Computable Creatures&lt;/a&gt;: Como parte de su registro para la escritura de su libro &lt;em&gt;Uncomputable&lt;/em&gt;, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los años 50 para representar la evolución de creaturas digitales.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://branko2f7.substack.com/p/four-historico-ideological-theories-628?&quot;&gt;Four historico-ideological theories about the origin of the current war in Ukraine&lt;/a&gt;: Sin entrar en detalles geopolíticos, Branko Milanovik historiza los diferentes marcos de referencia que se usan para entender  la guerra en Ucrania. Hay una primera parte.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://joshuacitarella.substack.com/p/politigram-and-the-post-left?&quot;&gt;Politigram &amp;amp; the Post-left&lt;/a&gt;: El ensayo de Joshua Citarella sobre las subculturas políticas gringas que surgieron en los últimos años. Un texto ya de culto para entender cómo se están formando las ideologías políticas más allá de las categorías y grupos tradicionales.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ableton.com/en/blog/the-art-of-sketching-strategies-for-getting-started/&quot;&gt;The Art of Sketching: Strategies for Getting Started&lt;/a&gt;: Una entrada de Lani Bangley sobre como capturar momentos musicales para después desarrollarlos en un DAW, etc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://autechre.mixlr.com/recordings/1977679&quot;&gt;Autechre, Artificial Intelligence - 1992 Contextual Mix&lt;/a&gt;: Un mixtape de cinco horas a cargo de Autechre celebrando 30 años de la salida del influyente compilado de &lt;em&gt;Warp Records&lt;/em&gt;. &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1Fy1mZkeMTI1CvLWmPy7NOAwFkFu-a6FHrx2EMgt4_3w/edit#gid=0&quot;&gt;lista de tracks&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atom-tm.com/blog/2022/07/29/entry-2/&quot;&gt;Dystropicalía, A Tapeless Mixtape by Normal Ones&lt;/a&gt;. Un mixtape de Normal Ones recapitulando las composiciones de infuencia latina de AtomTM. Sonidos glitch tropicales.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>

@@ -13,6 +13,28 @@
   
     {
 
+      "title"    : "Instrucciones para el blog",
+      "url"      : "/2023/01/27/blog-instrucciones",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2023-01-27 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
+      "title"    : "Blog Instrucc",
+      "url"      : "/2023/01/27/blog-instrucc",
+      "category" : "",
+      "tags"     : "",
+      "date"     : "2023-01-27 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Lista #1",
       "url"      : "/2023/01/01/lista-1",
       "category" : "",
