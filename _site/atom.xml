@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-02-27T23:14:48-06:00</updated>
+ <updated>2023-02-27T23:20:48-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -81,268 +81,6 @@
 	},
 	&quot;buffers&quot;:
 	[
-		{
-			&quot;file&quot;: &quot;2023-1-01-lista-1.md&quot;,
-			&quot;settings&quot;:
-			{
-				&quot;buffer_size&quot;: 1811,
-				&quot;encoding&quot;: &quot;UTF-8&quot;,
-				&quot;line_ending&quot;: &quot;Windows&quot;
-			},
-			&quot;undo_stack&quot;:
-			[
-				[
-					9,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;capturar&quot;
-					},
-					&quot;CQAAAMsGAAAAAAAAzAYAAAAAAAAAAAAAzAYAAAAAAADMBgAAAAAAAAgAAABhY3B0dXJhcswGAAAAAAAAzQYAAAAAAAAAAAAAzQYAAAAAAADOBgAAAAAAAAAAAADOBgAAAAAAAM8GAAAAAAAAAAAAAM8GAAAAAAAA0AYAAAAAAAAAAAAA0AYAAAAAAADRBgAAAAAAAAAAAADRBgAAAAAAANIGAAAAAAAAAAAAANIGAAAAAAAA0wYAAAAAAAAAAAAA&quot;,
-					&quot;AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADLBgAAAAAAANMGAAAAAAAAAAAAAAAA8L8&quot;
-				]
-			]
-		},
-		{
-			&quot;contents&quot;: &quot;---\nlayout: post\ntitle: Instrucciones para el blog\n---&quot;,
-			&quot;file&quot;: &quot;2023-01-27-blog-instrucc&quot;,
-			&quot;file_size&quot;: 24,
-			&quot;file_write_time&quot;: 133220332419118933,
-			&quot;settings&quot;:
-			{
-				&quot;buffer_size&quot;: 54,
-				&quot;encoding&quot;: &quot;UTF-8&quot;,
-				&quot;line_ending&quot;: &quot;Windows&quot;,
-				&quot;name&quot;: &quot;2023-01-27-blog-instrucc&quot;
-			},
-			&quot;undo_stack&quot;:
-			[
-				[
-					1,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;2022&quot;
-					},
-					&quot;BAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					2,
-					1,
-					&quot;left_delete&quot;,
-					null,
-					&quot;AQAAAAMAAAAAAAAAAwAAAAAAAAABAAAAMg&quot;,
-					&quot;AQAAAAAAAAABAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					3,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;3-01-&quot;
-					},
-					&quot;BQAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					4,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;27-&quot;
-					},
-					&quot;AwAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					5,
-					1,
-					&quot;left_delete&quot;,
-					null,
-					&quot;AQAAAAoAAAAAAAAACgAAAAAAAAABAAAALQ&quot;,
-					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					6,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;-&quot;
-					},
-					&quot;AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					7,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;blog-&quot;
-					},
-					&quot;BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					8,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;instrucc&quot;
-					},
-					&quot;CAAAABAAAAAAAAAAEQAAAAAAAAAAAAAAEQAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAVAAAAAAAAAAAAAAAVAAAAAAAAABYAAAAAAAAAAAAAABYAAAAAAAAAFwAAAAAAAAAAAAAAFwAAAAAAAAAYAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					9,
-					10,
-					&quot;delete_word&quot;,
-					{
-						&quot;forward&quot;: false
-					},
-					&quot;CQAAABAAAAAAAAAAEAAAAAAAAAAIAAAAaW5zdHJ1Y2MPAAAAAAAAAA8AAAAAAAAAAQAAAC0LAAAAAAAAAAsAAAAAAAAABAAAAGJsb2cKAAAAAAAAAAoAAAAAAAAAAQAAAC0IAAAAAAAAAAgAAAAAAAAAAgAAADI3BwAAAAAAAAAHAAAAAAAAAAEAAAAtBQAAAAAAAAAFAAAAAAAAAAIAAAAwMQQAAAAAAAAABAAAAAAAAAABAAAALQAAAAAAAAAAAAAAAAAAAAAEAAAAMjAyMw&quot;,
-					&quot;AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					10,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;---&quot;
-					},
-					&quot;AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					11,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;\n---&quot;
-					},
-					&quot;BAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					13,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;\nlayout:&quot;
-					},
-					&quot;CAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAADpA&quot;
-				],
-				[
-					14,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot; post&quot;
-					},
-					&quot;BQAAAAsAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA4AAAAAAAAADwAAAAAAAAAAAAAADwAAAAAAAAAQAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					15,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;\n&quot;
-					},
-					&quot;AQAAABAAAAAAAAAAEQAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					16,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;title:&quot;
-					},
-					&quot;BgAAABEAAAAAAAAAEgAAAAAAAAAAAAAAEgAAAAAAAAATAAAAAAAAAAAAAAATAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAWAAAAAAAAAAAAAAAWAAAAAAAAABcAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAEQAAAAAAAAARAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					17,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot; Instr&quot;
-					},
-					&quot;BgAAABcAAAAAAAAAGAAAAAAAAAAAAAAAGAAAAAAAAAAZAAAAAAAAAAAAAAAZAAAAAAAAABoAAAAAAAAAAAAAABoAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAAB0AAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAFwAAAAAAAAAXAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					18,
-					1,
-					&quot;delete_word&quot;,
-					{
-						&quot;forward&quot;: false
-					},
-					&quot;AQAAABgAAAAAAAAAGAAAAAAAAAAFAAAASW5zdHI&quot;,
-					&quot;AQAAAAAAAAABAAAAHQAAAAAAAAAdAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					19,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;Instrucciones&quot;
-					},
-					&quot;DQAAABgAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAaAAAAAAAAAAAAAAAaAAAAAAAAABsAAAAAAAAAAAAAABsAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAdAAAAAAAAAAAAAAAdAAAAAAAAAB4AAAAAAAAAAAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAjAAAAAAAAAAAAAAAjAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAJQAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAGAAAAAAAAAAYAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					20,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot; para&quot;
-					},
-					&quot;BQAAACUAAAAAAAAAJgAAAAAAAAAAAAAAJgAAAAAAAAAnAAAAAAAAAAAAAAAnAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAJQAAAAAAAAAlAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					21,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot; el&quot;
-					},
-					&quot;AwAAACoAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAAC0AAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAKgAAAAAAAAAqAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					22,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot; blog&quot;
-					},
-					&quot;BQAAAC0AAAAAAAAALgAAAAAAAAAAAAAALgAAAAAAAAAvAAAAAAAAAAAAAAAvAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMQAAAAAAAAAAAAAAMQAAAAAAAAAyAAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAALQAAAAAAAAAtAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					23,
-					1,
-					&quot;insert&quot;,
-					{
-						&quot;characters&quot;: &quot;\n&quot;
-					},
-					&quot;AQAAADIAAAAAAAAAMwAAAAAAAAAAAAAA&quot;,
-					&quot;AQAAAAAAAAABAAAAMgAAAAAAAAAyAAAAAAAAAAAAAAAAAPC/&quot;
-				],
-				[
-					24,
-					1,
-					&quot;left_delete&quot;,
-					null,
-					&quot;AQAAADIAAAAAAAAAMgAAAAAAAAABAAAACg&quot;,
-					&quot;AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/&quot;
-				]
-			]
-		}
 	],
 	&quot;build_system&quot;: &quot;&quot;,
 	&quot;build_system_choices&quot;:
@@ -355,6 +93,18 @@
 		&quot;last_filter&quot;: &quot;&quot;,
 		&quot;selected_items&quot;:
 		[
+			[
+				&quot;marg&quot;,
+				&quot;Trim Trailing White Space&quot;
+			],
+			[
+				&quot;type&quot;,
+				&quot;Typewriter: Typing Mode (Toggle)&quot;
+			],
+			[
+				&quot;pack&quot;,
+				&quot;Package Control: Install Package&quot;
+			],
 			[
 				&quot;save&quot;,
 				&quot;Project: Save As&quot;
@@ -394,20 +144,12 @@
 		&quot;side_bar_visible&quot;: false,
 		&quot;status_bar_visible&quot;: false
 	},
-	&quot;expanded_folders&quot;:
-	[
-		&quot;/C/Users/ThinkPad/Documents/blog_clm&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_data&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_includes&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_layouts&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_pages&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts&quot;,
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/images&quot;
-	],
 	&quot;file_history&quot;:
 	[
-		&quot;/C/Users/ThinkPad/Documents/blog_clm/_pages/about.md&quot;,
 		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-1-01-lista-1.md&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-01-27-blog-instrucc.md&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-01-27-blog-instrucc&quot;,
+		&quot;/C/Users/ThinkPad/Documents/blog_clm/_pages/about.md&quot;,
 		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/2023-02-26-tips-trabajo-de-archivo.md&quot;,
 		&quot;/C/Users/ThinkPad/Documents/blog_clm/_posts/Consejos para hacer trabajo de archivo.md&quot;
 	],
@@ -448,72 +190,12 @@
 		{
 			&quot;sheets&quot;:
 			[
-				{
-					&quot;buffer&quot;: 0,
-					&quot;file&quot;: &quot;2023-1-01-lista-1.md&quot;,
-					&quot;semi_transient&quot;: false,
-					&quot;settings&quot;:
-					{
-						&quot;buffer_size&quot;: 1811,
-						&quot;regions&quot;:
-						{
-						},
-						&quot;selection&quot;:
-						[
-							[
-								1811,
-								1811
-							]
-						],
-						&quot;settings&quot;:
-						{
-							&quot;syntax&quot;: &quot;Packages/Markdown/Markdown.sublime-syntax&quot;
-						},
-						&quot;translation.x&quot;: 0.0,
-						&quot;translation.y&quot;: 0.0,
-						&quot;zoom_level&quot;: 1.0
-					},
-					&quot;stack_index&quot;: 1,
-					&quot;stack_multiselect&quot;: false,
-					&quot;type&quot;: &quot;text&quot;
-				},
-				{
-					&quot;buffer&quot;: 1,
-					&quot;file&quot;: &quot;2023-01-27-blog-instrucc&quot;,
-					&quot;selected&quot;: true,
-					&quot;semi_transient&quot;: false,
-					&quot;settings&quot;:
-					{
-						&quot;buffer_size&quot;: 54,
-						&quot;regions&quot;:
-						{
-						},
-						&quot;selection&quot;:
-						[
-							[
-								54,
-								54
-							]
-						],
-						&quot;settings&quot;:
-						{
-							&quot;auto_name&quot;: &quot;2023-01-27-blog-instrucc&quot;,
-							&quot;syntax&quot;: &quot;Packages/Text/Plain text.tmLanguage&quot;
-						},
-						&quot;translation.x&quot;: 0.0,
-						&quot;translation.y&quot;: 0.0,
-						&quot;zoom_level&quot;: 1.0
-					},
-					&quot;stack_index&quot;: 0,
-					&quot;stack_multiselect&quot;: false,
-					&quot;type&quot;: &quot;text&quot;
-				}
 			]
 		}
 	],
 	&quot;incremental_find&quot;:
 	{
-		&quot;height&quot;: 0.0
+		&quot;height&quot;: 51.2
 	},
 	&quot;input&quot;:
 	{
