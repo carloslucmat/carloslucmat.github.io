@@ -1,10 +1,8 @@
 ---
 layout: post
-title: "A Short Glossary of Network Analysis Terms by Emirbayer & Goodwin"
+title: "Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin"
 tags: [network analysis, ARS, SNA, glosario, conceptos, teoría de redes, network theory, sociology]
 ---
-
-## Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin
 
 >Emirbayer, M., & Goodwin, J. (1994). Network Analysis, Culture, and the Problem of Agency. American Journal of Sociology, 99(6), 1411–1454.
 

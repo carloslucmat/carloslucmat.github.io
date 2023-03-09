@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-02-27T23:34:44-06:00</updated>
+ <updated>2023-03-08T23:11:21-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -39,19 +39,19 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;strong&gt;Contacta a la gente del archivo&lt;/strong&gt;: Antes de ir a cualquier archivo vale la pena revisar si tienen directorio o alguna forma de contacto. Generalmente en sus páginas de internet (del museo, de la institución, etc.) vienen correos electrónicos a los que puedes acudir para preguntar sobre horarios, especificaciones y demás información. Igualmente ahí puedes agendar tu visita.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Busca los catálogos&lt;/strong&gt;: Algunos archivos cuentan con catálogos hechos por las y los trabajadores de la institución. Estos catálogos recopilan los documentos con los que cuentan para consulta. En lugar de ir directamente al archivo en busca de documentos que no sabes siquiera si existen, es mejor revisar los catálogos y hacer una lista con los documentos que quieres consultar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Familiarízate con la organización de los documentos&lt;/strong&gt;: Para revisar documentos los archivos siguen una serie de convenciones de catalogación. Es común referirse a campos como &lt;em&gt;fondo&lt;/em&gt;, &lt;em&gt;número de caja&lt;/em&gt;, &lt;em&gt;volumen&lt;/em&gt;, &lt;em&gt;expediente&lt;/em&gt;, &lt;em&gt;fojas&lt;/em&gt;, &lt;em&gt;número de documento&lt;/em&gt;, etc. En realidad no es tan complejo como parece, solo es la jerarquía de organización para hacer más fácil encontrar (y referir o citar) los documentos. Si tienes dudas puedes preguntar a los trabajadores/as del archivo, generalmente están abiertos a ayudar.
+  &lt;li&gt;&lt;strong&gt;Familiarízate con la organización de los documentos&lt;/strong&gt;: Para revisar documentos los archivos siguen una serie de convenciones de catalogación. Es común referirse a campos como &lt;em&gt;fondo&lt;/em&gt;, &lt;em&gt;número de caja&lt;/em&gt;, &lt;em&gt;volumen&lt;/em&gt;, &lt;em&gt;expediente&lt;/em&gt;, &lt;em&gt;fojas&lt;/em&gt;, &lt;em&gt;número de documento&lt;/em&gt;, etc. En realidad solo se trata de la jerarquía de organización para encontrar (y referir o citar) los documentos. Si tienes dudas puedes preguntar a los trabajadores/as del archivo, generalmente están abiertos a ayudar.
     &lt;ul&gt;
       &lt;li&gt;Haz una lista de los documentos del acervo que quieres consultar. En lugar de revisar continuamente el catálogo o tu celular, mejor imprímelo. Ahí puedes hacer anotaciones de cada documento y tachar los que ya hayas revisado.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Manejo de documentos&lt;/strong&gt;: Dependiendo de qué tan antiguos sean los documentos que consultes, se piden distintas instrucciones para su manejo. Algunos piden el uso de guantes y cubrebocas, pero otros (los que yo consulté) con un poco de gel antibacterial y el uso de una almohadilla debajo de los libros es más que suficiente. Pregunta si hay indicaciones específicas para los documentos que necesites.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Manejo de documentos&lt;/strong&gt;: Dependiendo de qué tan antiguos sean los documentos que consultes, se piden distintas instrucciones para su manejo. Algunos piden el uso de guantes y cubrebocas, pero otros (los que yo consulté) con un poco de gel antibacterial y el uso de una almohadilla debajo de los libros fue más que suficiente. Pregunta si hay indicaciones específicas para los documentos que necesites.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Fotos&lt;/strong&gt;: Tomar fotografías también depende de los permisos y políticas de cada archivo. En general, yo no tuve restricciones para hacerlo. Incluso hay archivos que ya tienen digitalizado parte de su acervo. Si es así, puedes ahorrarte mucho tiempo. Si no, hay una serie de recomendaciones que puedo hacer a la hora de tomar fotos de documentos.
     &lt;ul&gt;
       &lt;li&gt;Algunas personas profesionales del oficio usan cámaras profesionales y un tripode. Si este no es tu caso, tu celular pude ser más que suficiente. Solo procura tomar imágenes de forma paralela al documento y no generar mucha sombra. Esto después ayudará en la digitalización y edición.&lt;/li&gt;
       &lt;li&gt;Hay aplicaciones que son más utiles que la propia cámara del celular. Yo en particular uso &lt;a href=&quot;https://liliandroid.com/inventory-photos-plus/&quot;&gt;IPPK: Inventory Photos Plus K&lt;/a&gt; para Android. Es una herramienta para hacer inventarios, y para trabajo de archivo viene perfecta. Si solo tomas fotos, perderás la información del documento que estás consultando. Con IPPK puedes añadir campos personalizados de acuerdo a la información del documento (volumen, expediente, fojas, etc.) y nombrará el archivo de acuerdo a esos campos de información. Pasarás de una imagen nombrada &lt;code&gt;IMG_20230214_17123&lt;/code&gt; a algo así: &lt;code&gt;[124][4145][41 245-246][Estudios y exploraciones del INAH 1941-1942]&lt;/code&gt; Así será más fácil consultar las fotos más adelante y citarlas. Antes de usarla explora cómo funciona.&lt;/li&gt;
-      &lt;li&gt;Baja la resolución de tu celular. No necesitas mucho pixelaje para que se vean bien los documentos.&lt;/li&gt;
+      &lt;li&gt;Baja la resolución de tu celular. No necesitas mucho pixelaje para que se vean bien los documentos y ahorras espacio.&lt;/li&gt;
       &lt;li&gt;Es incómodo pulsar el botón de obturación en la pantalla de forma repetida, en su lugar configura el botón de volumen con un temporizador de 2 segundos. Esto al final te hace ahorrar tiempo y tu muñeca te lo agradecerá.&lt;/li&gt;
-      &lt;li&gt;En mi experiencia, algunos documentos son de un papel muy fino, lo que hace que se transparente el texto de las hojas que están debajo. Para evitar esto es útil poner debajo una hoja blanca común y después tomar la foto. Así logras fotos más limpias.&lt;/li&gt;
+      &lt;li&gt;En mi experiencia, algunos documentos son de un papel muy fino, lo que hace que se transparente el texto de las hojas que están debajo. Para evitarlo es útil poner debajo una hoja blanca común y después tomar la foto. Así logras fotos limpias.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;Digitalización&lt;/strong&gt;: Este es un proceso tedioso que aun no logro perfeccionar. Aún así hay algunas cosas que pueden ayudar.
@@ -101,13 +101,11 @@
  </entry>
  
  <entry>
-   <title>A Short Glossary of Network Analysis Terms by Emirbayer &amp; Goodwin</title>
+   <title>Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin</title>
    <link href="http://localhost:4000/2022/12/02/network-analysis-terms"/>
    <updated>2022-12-02T00:00:00-06:00</updated>
    <id>http://localhost:4000/2022/12/02/Network-Analysis-Terms</id>
-   <content type="html">&lt;h2 id=&quot;glosario-de-terminos-de-análisis-de-redes-sociales-por-mustafa-emirbayer-y-jeff-goodwin&quot;&gt;Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin&lt;/h2&gt;
-
-&lt;blockquote&gt;
+   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;Emirbayer, M., &amp;amp; Goodwin, J. (1994). Network Analysis, Culture, and the Problem of Agency. American Journal of Sociology, 99(6), 1411–1454.&lt;/p&gt;
 &lt;/blockquote&gt;
 
