@@ -4,13 +4,36 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-08T23:21:43-06:00</updated>
+ <updated>2023-03-12T20:02:19-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
    <email>carloslucmat1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lista #2</title>
+   <link href="http://localhost:4000/2023/03/03/lista-2"/>
+   <updated>2023-03-03T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/03/03/lista-2</id>
+   <content type="html">&lt;ul&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;抖音拓扑：网关、筛子、圆顶&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;http://paranom.asia/2021/06/a-topology-of-tiktok-gateway-sieve-dome/&quot;&gt;A topology of TikTok: Gateway, sieve, dome&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;Digital Economy Models&lt;/a&gt; por Jak Ritger&lt;/li&gt;
+  &lt;li&gt;Coloquio internacional La Etnografía y los desafíos del México contemporáneo del INAH, Mesa 3: &lt;a href=&quot;https://www.youtube.com/watch?v=TU7kbxxlDk8&quot;&gt;Movimientos sociales y perspectivas locales&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Comandos para blog</title>
