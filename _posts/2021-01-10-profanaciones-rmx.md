@@ -1,16 +1,10 @@
 ---
 layout: post
-title: Profanaciones del remix y blasfemias del mashup
+title: Profanaciones del mashup
 tags: [música, playlist, remix, bootleg, soundcloud]
 ---
 
-MMMM, ALGÚN DÍA ESCRIBIRÉ SOBRE ESTO.
-
-Mientras tanto una playlist. Ya después lo divido por cumbia, dembow, pop taquicardio +150 BPMs, Donks; mexas, latinos, brasileros, tanzanos, sudafricanos, nigerianos, etc, etc.
-
----
-
-Místico perreo de primavera
+Perreo de primavera
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1768573741/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/track=2252984623/tranysparent=true/" seamless><a href="https://keiska.bandcamp.com/album/edits-for-home">Edits For Home by Keiska</a></iframe>
 
 Enya New Age

@@ -1,16 +1,11 @@
 ---
 layout: post
-title: Singeli frenético de Tanzania
+title: Singeli de Tanzania
 tags: [singeli, tanzania, áfrica, electrónica, baile, rave, techno, playlist]
 ---
 
-Tuve una obsesión con el sigeli tanzano.
+El singeli de Tanzania recibió bastante atención después de que el sello _Nyege Nyege Tapes_ (perteneciente a unos entusiastas alemanes) grabara y produjera varios discos de artistas principalmente de Dar es Salaam. NTS le dedicó un pequeño documental titulado _Singeli Sound: High Speed_.
 
-Igual debería hablar de Nyege Nyege Tapes. ¿Oneothrix Point Never étnico?
-
-**RELLENO**
-
-Daar es Salam y Dodoma
 
 ---
 

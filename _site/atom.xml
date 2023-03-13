@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-12T20:34:57-06:00</updated>
+ <updated>2023-03-13T00:28:17-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -18,19 +18,28 @@
    <updated>2023-03-03T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/03/03/lista-2</id>
    <content type="html">&lt;ul&gt;
-  &lt;li&gt;抖音拓扑：网关、筛子、圆顶 &lt;a href=&quot;http://paranom.asia/2021/06/a-topology-of-tiktok-gateway-sieve-dome/&quot;&gt;&lt;em&gt;A topology of TikTok: Gateway, sieve, dome&lt;/em&gt;&lt;/a&gt;: Entrada en el blog de Gabriele de Seta&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;&lt;em&gt;Digital Economy Models&lt;/em&gt;&lt;/a&gt; por Jak Ritger&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;抖音拓扑：网关、筛子、圆顶&lt;/td&gt;
+          &lt;td&gt;&lt;a href=&quot;http://paranom.asia/2021/06/a-topology-of-tiktok-gateway-sieve-dome/&quot;&gt;&lt;em&gt;A topology of TikTok: Gateway, sieve, dome&lt;/em&gt;&lt;/a&gt; del blog de Gabriele de Seta.&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;&lt;em&gt;Digital Economy Models&lt;/em&gt;&lt;/a&gt;, ensayo por Jak Ritger.&lt;/li&gt;
   &lt;li&gt;Coloquio internacional La Etnografía y los desafíos del México contemporáneo del INAH - Mesa 3: &lt;a href=&quot;https://www.youtube.com/watch?v=TU7kbxxlDk8&quot;&gt;&lt;em&gt;Movimientos sociales y perspectivas locales&lt;/em&gt;&lt;/a&gt;: Conferencias sobre los retos de proyectos de desarrollo local indígenas dadas por Pierre Beaucage y Eckart Boege Schmidt.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/0094306113499533&quot;&gt;What is Critical Realism? And Why Should You Care?,&lt;/a&gt;: Special Essay de Philip S. Gorski publicado en  &lt;em&gt;Contemporary Sociology&lt;/em&gt; sobre el trabajo de Roy Bhaskar.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://journals.sagepub.com/doi/10.1177/0094306113499533&quot;&gt;What is Critical Realism? And Why Should You Care?&lt;/a&gt;: Special Essay de Philip S. Gorski publicado en  &lt;em&gt;Contemporary Sociology&lt;/em&gt; sobre el trabajo de Roy Bhaskar.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/pinboard/tiktok topologies.jpg&quot; alt=&quot;&quot; /&gt;
-&lt;img src=&quot;/images/pinboard/sticky v friction model models of digital economy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/pinboard/sticky v friction model models of digital economy.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;img src=&quot;/images/pinboard/tiktok topologies.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Comandos para blog</title>
+   <title>Comandos de consola para el blog</title>
    <link href="http://localhost:4000/2023/02/27/instrucciones-blog"/>
    <updated>2023-02-27T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/02/27/instrucciones-blog</id>
@@ -39,10 +48,10 @@
 &lt;ol&gt;
   &lt;li&gt;Asegurarse de estar en el directorio del blog local con &lt;code&gt;cd&lt;/code&gt;&lt;/li&gt;
   &lt;li&gt;Después de cada cambio hecho en los archivos del blog hay que ejecutar &lt;code&gt;exec bundle jekyll serve&lt;/code&gt; para generar la página localmente. Esto hace que los posts escritos en formato Markdown se rendericen en HTML. Si esto no se hace no se despliegan los cambios depsués.&lt;/li&gt;
-  &lt;li&gt;Úsar comandos de Git para vincular los archivos locales con el repositorio en GH. Se usa &lt;code&gt;git add .&lt;/code&gt; para añadir todos los cambios hechos en la carpeta. Se usa &lt;code&gt;git commit -m &quot;comentario&quot;&lt;/code&gt; para realizar los cambios. Finalmente se usa &lt;code&gt;git push github gh-pages&lt;/code&gt; o &lt;code&gt;git push origin gh-pages&lt;/code&gt; para realizar los cambios en el repositorio remoto en Github que hace de servidor.&lt;/li&gt;
+  &lt;li&gt;Usar comandos de Git para vincular los archivos locales con el repositorio en GH. Se usa &lt;code&gt;git add .&lt;/code&gt; para añadir todos los cambios hechos en la carpeta. Se usa &lt;code&gt;git commit -m &quot;comentario&quot;&lt;/code&gt; para realizar los cambios. Finalmente se usa &lt;code&gt;git push github gh-pages&lt;/code&gt; o &lt;code&gt;git push origin gh-pages&lt;/code&gt; para realizar los cambios en el repositorio remoto en Github que hace de servidor.&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;em&gt;Notas&lt;/em&gt;: Hay algunos conflictos con diferentes versiones de software que se utiliza para hacer funcionar el blog. Esto hace que salten varias “deprecaciones”. Aún así funciona. Según la teoría, el comando de &lt;code&gt;exec bundle jekyll serve&lt;/code&gt; solo debería usarse la primera vez que se genera la página y después usar solo &lt;code&gt;jekyll serve&lt;/code&gt;. En la práctica esto no me funciona por alguna razón que todavía no entiendo. También, la primera vez que hice el blog en mi vieja laptop el comando de git que usaba para hacer &lt;code&gt;push&lt;/code&gt; contenía el campo &lt;code&gt;origin&lt;/code&gt;, pero ahora esto no funciona desde la nueva laptop porque el repositorio ya no reconoce esta laptop como el origen. Ahora hay que reemplazarlo por &lt;code&gt;origin&lt;/code&gt; por &lt;code&gt;github&lt;/code&gt; y hacer una verificación de identidad.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Notas&lt;/em&gt;: Hay algunos conflictos con diferentes versiones de software que se utiliza para hacer funcionar el blog. Esto hace que salten varias “deprecaciones”. Aún así funciona. Según la teoría, el comando de &lt;code&gt;exec bundle jekyll serve&lt;/code&gt; solo debería usarse la primera vez que se genera la página y después usar solo &lt;code&gt;jekyll serve&lt;/code&gt;. En la práctica esto no me funciona por alguna razón que no entiendo. También. La primera vez que hice el blog en mi vieja laptop el comando de git que usaba para hacer &lt;code&gt;push&lt;/code&gt; contenía el campo &lt;code&gt;origin&lt;/code&gt;, pero ahora esto no funciona porque ya no se reconoce esta laptop como el origen. Ahora hay que reemplazar &lt;code&gt;origin&lt;/code&gt; por &lt;code&gt;github&lt;/code&gt; y hacer una verificación de identidad.&lt;/p&gt;
 </content>
  </entry>
  
@@ -91,7 +100,6 @@
    <id>http://localhost:4000/2023/01/01/lista-1</id>
    <content type="html">&lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.versobooks.com/blogs/3759-the-best-books-on-marx?&quot;&gt;La lista de Verso Books de los mejores libros sobre Marx&lt;/a&gt;: To mark the bicentenary of the birth of Karl Marx, a range of Marxists choose their favourite book by and about the great man. With contributions from China Miéville, Sara Farris, Mike Davis, Esther Leslie and more!&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://donotresearch.net/posts/digital-economy-models&quot;&gt;Digital Economy Models&lt;/a&gt;: Jak Ritger especula sobre modelos de la economía digital. Incluye diagramas.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://cultureandcommunication.org/galloway/ephemera-pt-3-barricelli?&quot;&gt;Barricelli’s Computable Creatures&lt;/a&gt;: Como parte de su registro para la escritura de su libro &lt;em&gt;Uncomputable&lt;/em&gt;, Alexander Galloway habla sobre los bellos algoritmos de Nils Aall Barricelli en los años 50 para representar la evolución de creaturas digitales.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://branko2f7.substack.com/p/four-historico-ideological-theories-628?&quot;&gt;Four historico-ideological theories about the origin of the current war in Ukraine&lt;/a&gt;: Sin entrar en detalles geopolíticos, Branko Milanovik historiza los diferentes marcos de referencia que se usan para entender  la guerra en Ucrania. Hay una primera parte.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://joshuacitarella.substack.com/p/politigram-and-the-post-left?&quot;&gt;Politigram &amp;amp; the Post-left&lt;/a&gt;: El ensayo de Joshua Citarella sobre las subculturas políticas gringas que surgieron en los últimos años. Un texto ya de culto para entender cómo se están formando las ideologías políticas más allá de las categorías y grupos tradicionales.&lt;/li&gt;
@@ -112,6 +120,9 @@
 
 &lt;h2 id=&quot;theorizing-ritualsannotated-bibliography-of-ritual-theory-19662005-de-kreinath-snoek--stausberg&quot;&gt;&lt;em&gt;Theorizing Rituals:Annotated Bibliography of Ritual Theory, 1966–2005&lt;/em&gt; de Kreinath, Snoek &amp;amp; Stausberg&lt;/h2&gt;
 &lt;p&gt;Es la segunda parte de una serie dedicada a la “teoría del ritual”. El primer volumen es un texto con capítulos sobre temas clásicos sobre el tema. Éstos van desde cuestiones metodológicas, teóricas y conceptuales, tanto clásicas como novedosas. El primer volumen termina con un &lt;em&gt;Index&lt;/em&gt; del libro como ningún otro que haya visto: detallado, preciso, valioso por sí mismo. El segundo volumen es igualmente llamativo. El libro es una bibliografía anotada de más de quinientos ítems sobre el mismo tema. Incluye además apéndices que complementan la imagen esbozada por la bibliografía y sus comentarios.&lt;/p&gt;
+
+&lt;h2 id=&quot;los-ensayos-de-valerio-valeri&quot;&gt;Los ensayos de Valerio Valeri&lt;/h2&gt;
+&lt;p&gt;HAU Book editó el libro &lt;em&gt;Classic Concepts in Anthropology&lt;/em&gt; que reúne los ensayos comparativos y conceptuales del académico italiano.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/theo-bib-rit.png&quot; alt=&quot;hola&quot; /&gt;&lt;/p&gt;
 </content>
@@ -188,16 +199,15 @@
    <link href="http://localhost:4000/2021/02/18/diagramas"/>
    <updated>2021-02-18T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/02/18/diagramas</id>
-   <content type="html">&lt;p&gt;Los diagramas, aunque en principio pueden ser tan imaginativos como queramos, vale decir que también existen convenciones gráficas y formales en torno a ellos, sin que eso signifique necesariamente una limitación creativa. Por ejemplo, los diagramas de flujo, aunque son una herramienta principalmente para la representación de procesos informáticos e industriales, su lenguaje visual puede extenderse para explicar teoría antropológica, como lo demostró Alfred Gell en su ensayo &lt;em&gt;Strathernograms&lt;/em&gt; sobre el trabajo de Marilyn Strathern. Algo similar ocurre con los lattices, herramientas matemáticas para representar estructuras algebraicas. Estas visualizaciones han sido utilizadas en antropología por Lévi-Strauss para ilustrar el “operador totémico”, o Marshall Sahlins al proponer una alternativa a la taxonomía ontológica cuatripartita de Philippe Descola. Este mismo juego gráfico entre las convenciones y la innovación está presente en otros trabajos como el de Evans-Pritchard, que logró visualizar las relaciones ecológicas y su influencia en las instituciones sociales nuer a través de una nube de palabras complejizada con la estructura de una tabla y la información de un calendario. Lo mismo se puede decir de las modificaciones realizadas por Edmund Leach a las convenciones de los diagramas de parentesco, integrando así complejidades teóricas sobre la filiación minimizadas por la teoría funcionalista. Lo importante de estos ejemplos es que puedan servirte de inspiración para ampliar las posibilidades de presentar tu información de formas eficaces, coherentes y creativas.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/sahlins-lattice.jpg&quot; alt=&quot;Lattice de Sahlins adaptado por Barbosa de Almeida&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/sahlins-lattice.jpg&quot; alt=&quot;Lattice de Sahlins adaptado por Barbosa de Almeida&quot; /&gt;
-&lt;img src=&quot;/images/strath-gell.jpg&quot; alt=&quot;Strathenograms, por Alfred Gell&quot; /&gt;
-&lt;img src=&quot;/images/evans-calendario.jpg&quot; alt=&quot;Tabla-calendario de las relaciones ecológicas-sociales de los Nuer por Evans-Pritchard&quot; /&gt;
-&lt;img src=&quot;/images/godelier-trading.png&quot; alt=&quot;Diagrama de los tipos de intercambio entre los baruya por Maurice Godelier&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/strath-gell.jpg&quot; alt=&quot;Strathenograms, por Alfred Gell&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/evans-calendario.jpg&quot; alt=&quot;Tabla-calendario de las relaciones ecológicas-sociales de los Nuer por Evans-Pritchard&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/godelier-trading.png&quot; alt=&quot;Diagrama de los tipos de intercambio entre los baruya por Maurice Godelier&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;El blog &lt;a href=&quot;https://anthropologyoffthegrid.wordpress.com/ethnograms/diagrams-in-anthropology/&quot;&gt;Life Off The Grid&lt;/a&gt; tiene una entrada sobre los distintos usos de los diagramas en antropología.&lt;/p&gt;
-
-&lt;p&gt;Para mayor información, es posible revisar algunos recursos dedicados a la visualización de datos. Puedes indagar en &lt;a href=&quot;https://datavizcatalogue.com/index.html&quot;&gt;&lt;em&gt;The Data Visualisation Catalogue&lt;/em&gt;&lt;/a&gt; y &lt;a href=&quot;https://datavizcatalogue.com/resources.html&quot;&gt;otros recursos&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
@@ -457,8 +467,6 @@
    <updated>2021-01-28T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/01/28/seleccion-de-videos-leading-thinkers</id>
    <content type="html">&lt;p&gt;La Universidad de Cambridge tiene una colección de entrevistas videograbadas llamada “Film Interviews with Leading Thinkers” realizadas por el Museo de Antropología y Arqueología donde se entrevistan a renombrados antropólogos (mayoritariamente ingleses) sobre su vida, formación, trabajo e investigación. Me gusta que sean acercamientos personales a personalidades icónicas y hasta mistificados. Muchas de las entrevistas no están en YouTube, solo en el servidor de la Universidad, por lo que puede ser fácil perderlas de vista.&lt;/p&gt;
-
-&lt;p&gt;Aquí hago una selección de algunos de mis antropólogxs favs y algunas curiosidades.&lt;/p&gt;
 
 &lt;h2 id=&quot;edmund-leach&quot;&gt;Edmund Leach&lt;/h2&gt;
 &lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;https://sms.cam.ac.uk/media/1124291/embed&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -732,17 +740,11 @@
  </entry>
  
  <entry>
-   <title>Singeli frenético de Tanzania</title>
+   <title>Singeli de Tanzania</title>
    <link href="http://localhost:4000/2021/01/12/singeli-tanz"/>
    <updated>2021-01-12T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/01/12/singeli-tanz</id>
-   <content type="html">&lt;p&gt;Tuve una obsesión con el sigeli tanzano.&lt;/p&gt;
-
-&lt;p&gt;Igual debería hablar de Nyege Nyege Tapes. ¿Oneothrix Point Never étnico?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;RELLENO&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Daar es Salam y Dodoma&lt;/p&gt;
+   <content type="html">&lt;p&gt;El singeli de Tanzania recibió bastante atención después de que el sello &lt;em&gt;Nyege Nyege Tapes&lt;/em&gt; (perteneciente a unos entusiastas alemanes) grabara y produjera varios discos de artistas principalmente de Dar es Salaam. NTS le dedicó un pequeño documental titulado &lt;em&gt;Singeli Sound: High Speed&lt;/em&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -779,17 +781,17 @@
  </entry>
  
  <entry>
-   <title>MTGs de BH: Funk Carioca de Belo Horizonte</title>
+   <title>Minimalismo barulhento de Belo Horizonte</title>
    <link href="http://localhost:4000/mtg-funk-play"/>
    <updated>2021-01-11T00:00:00-06:00</updated>
    <id>http://localhost:4000/mtg-funk</id>
-   <content type="html">&lt;p&gt;El funk carioca lo conocí con la oleada de KondZilla, así que más bien conocí el funk ostentação de MCs bien conocidos. Cuando me metí al funk carioca de SoundCloud y leía ‘MGTs’, ‘BH’, ‘baile de inestan’, ‘credo’, ‘malado’, ‘queredao’, no entendía nada. Ya después de leer algunas cosas capté los montagems y la variante de Belo Horizonte del funk carioca. Aunque comparten cierto estilo con el funk de MC Bin Laden o MC Fioti la variante de Belo Horizonte se diferencia estilísticamente. Evidentemente en temas tratados, pero también en producción.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Cuando entré al mundo del funk carioca en SoundCloud leía etiquetas como ‘MGTs’, ‘BH’, ‘baile de inestan’, ‘credo’, ‘malado’, ‘queredao’. No entendía de que iba. Después de leer algunas cosas supe de la exitencia de los montagems (abreviados como MTG) y la variante de Belo Horizonte del funk carioca (BH). Cierto que, aunque comparten cierto estilo con el funk más difundido de MC Bin Laden o MC Fioti, la variante de Belo Horizonte se diferencia estilísticamente.&lt;/p&gt;
 
-&lt;p&gt;En el 2017 GG Albuquerque se preguntaba si el Funk de BH &lt;a href=&quot;http://volumemorto.com.br/funk-de-bh-o-surgimento-de-um-ambient-space-funk/&quot;&gt;era el surgimiento de un ‘funk ambiental espacial’&lt;/a&gt; con tendencia a los sonidos ambientales, al reverb, que ponía las agudos sobre los bajos y más cercano al R&amp;amp;B que al trap. En lo personal creo que se sobreestimó eso del &lt;em&gt;space&lt;/em&gt; y &lt;em&gt;ambient&lt;/em&gt;, pero en lo demás igual sí.&lt;/p&gt;
+&lt;p&gt;Muchos rastrean el origen del &lt;em&gt;funk&lt;/em&gt; brasilero en el miami bass de los noventa, pero sus recientes ramificaciones se han alejado de ese sonido. En algunos subgéneros ya no hay cajas de ritmo noventeras, a veces ni siquiera hay kicks y mucho menos snares o su importancia es menor. Bajo ese entendido, GG Albuquerque se preguntaba si en el &lt;em&gt;Funk de BH&lt;/em&gt; &lt;a href=&quot;http://volumemorto.com.br/funk-de-bh-o-surgimento-de-um-ambient-space-funk/&quot;&gt;podiamos ver el surgimiento de un ‘funk ambiental espacial’&lt;/a&gt; con tendencia a los sonidos ambientales y al reverb, y más cercano al R&amp;amp;B que al trap.&lt;/p&gt;
 
-&lt;p&gt;Ya no hay cajas de ritmo noventeras, a veces ni siquiera hay kicks y mucho menos snares o por lo menos su importancia es mínima. Lo que sí es curioso es el reemplazo de las cajas de ritmo por otro tipo de percusiones más incisivas, como samplear cristales o campanas y marcar el ritmo con birimbao. También está la mayor importancia de la voz en el funk de BH, con tracks casi completamente a capela o el sampleo recurrente de los versos y coros entre MCs y DJs. La voz de uno era la base de otro, el mix del otro era la base de otro más a veces reemplazando completamente el uso de percusiones como cajas de ritmo. Además, ese sampleo hacía que el género diera ese sentimiento de integración y que hubiera motivos recurrentes entre DJs y MCs de Belo Horizonte.&lt;/p&gt;
+&lt;p&gt;No sé hasta que punto coincido con la sugerencia del &lt;em&gt;ambient space funk&lt;/em&gt;. Lo que sí me parece curioso es el reemplazo de las cajas de ritmo por otro tipo de percusiones más incisivas; como samplear cristales o campanas o marcar el ritmo con birimbao. También es clara la importancia cada vez mayor de de la voz en el funk de BH. Encontramos tracks casi &lt;em&gt;a capella&lt;/em&gt;, con bases rítmicas que prescinden de las percusiones clásicas. En su lugar hay otros sonidos que evocan la función de marcar el ritmo y que al mismo tiempo cumple la función melódica del resto del intrumentaje que igualmente se omite. Esa doble omisión y al mismo tiempo doble función es lo que le da la cualidad minimalista y hace tan interesante a esta vertiente del funk brasilero.&lt;/p&gt;
 
-&lt;p&gt;Probablemente el género no se consolidó como parecía en 2017 aunque se mantuvieron algunos motivos, sobre todo esa inclinación a cierto minimalismo (que llama la atención en un funk carioca proveniente del miami bass), el origen provinciano mucho más barrio, la escena más alejada de discográficas, producción casera, publicado en SoundCloud y YouTube, mezclado en vivo en montagems para los bailes en Inestam o en Subaco da Cobra.&lt;/p&gt;
+&lt;p&gt;Otro aspecto es la metareferencialidad entre productores. Encontramos sampleo recurrente de versos y coros entre MCs y DJs. Los versos de uno son la base rítmica de otro y así sucesivamente. Esa interacción da un sentido de comunicación en el género y se proyecta como un movimiento integrado.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -828,17 +830,11 @@
  </entry>
  
  <entry>
-   <title>Profanaciones del remix y blasfemias del mashup</title>
+   <title>Profanaciones del mashup</title>
    <link href="http://localhost:4000/2021/01/10/profanaciones-rmx"/>
    <updated>2021-01-10T00:00:00-06:00</updated>
    <id>http://localhost:4000/2021/01/10/profanaciones-rmx</id>
-   <content type="html">&lt;p&gt;MMMM, ALGÚN DÍA ESCRIBIRÉ SOBRE ESTO.&lt;/p&gt;
-
-&lt;p&gt;Mientras tanto una playlist. Ya después lo divido por cumbia, dembow, pop taquicardio +150 BPMs, Donks; mexas, latinos, brasileros, tanzanos, sudafricanos, nigerianos, etc, etc.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Místico perreo de primavera&lt;/p&gt;
+   <content type="html">&lt;p&gt;Perreo de primavera&lt;/p&gt;
 &lt;iframe style=&quot;border: 0; width: 100%; height: 120px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=1768573741/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/track=2252984623/tranysparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;https://keiska.bandcamp.com/album/edits-for-home&quot;&gt;Edits For Home by Keiska&lt;/a&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Enya New Age&lt;/p&gt;
@@ -1089,11 +1085,9 @@ Los &lt;em&gt;keys&lt;/em&gt; se ven así:&lt;/p&gt;
    <link href="http://localhost:4000/herram-digi"/>
    <updated>2021-01-02T00:00:00-06:00</updated>
    <id>http://localhost:4000/herram-etnog</id>
-   <content type="html">&lt;p&gt;Originalmente el texto se llama &lt;em&gt;Herramientas no etnográficas para hacer etnografía&lt;/em&gt; y va sobre consejos prácticos para hacer antropología con herramientas digitales. Lo he estado escribiendo en Markdown y después lo pase a un formato de Bookdown en R. Todavía no está completo, sólo lo estoy probando. Ya lo iré actualizando.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Originalmente el texto se llama &lt;em&gt;Herramientas no etnográficas para hacer etnografía&lt;/em&gt; y va sobretodo sobre herramientas digitales para hacer antropología. Como ejercicio lo he estado escribiendo en Markdown para formatearlo en Bookdown, un paquete de R para hacer libros digitales.&lt;/p&gt;
 
-&lt;p&gt;El texto se puede consultar en este &lt;a href=&quot;https://carloslucmat.github.io/herramientas-etno/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Estaba pensando mucho en el formato. Me gusta la tabla de contenidos, pero no me termina de convencer tener pies de página hasta el final, me gusta más el formato Tufte, pero no tiene lo demás. El tema &lt;a href=&quot;https://github.com/cotes2020/jekyll-theme-chirpy&quot;&gt;chirpy&lt;/a&gt; para Github parece buena opción, pero eso actualizar a cada rato la rama para que se muestre la página está horrible. Agh. Ni modo. Voy a ver que más puedo hacer.&lt;/p&gt;
+&lt;p&gt;El texto provisional se puede consultar en este &lt;a href=&quot;https://carloslucmat.github.io/herramientas-etno/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
