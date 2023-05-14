@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Despúes del desarrollo, Murray Li
+title: Después del desarrollo, Murray Li
 tags: [desarrollo, antropología, política, teoría]
 ---
 
-> Tania Murray Li. 2016. After Development: Surplus Population and the Politics of Entitlement. Development and Change Distinguished Lecture.
+>Tania Murray Li. 2016. After Development: Surplus Population and the Politics of Entitlement. Development and Change Distinguished Lecture.
 
-Tania Li es probablemente la antropóloga que más he leído desde hace varios meses. Su trabajo integra gran parte de mis preocupaciones personales acerca del quéhacer de la antropología: su importancia en el entendimiento de procesos sociales contemporáneos y el gran _potencial_ de transformación que tiene frente a problemáticas apremiantes. Los temas van desde análisis de las políticas y acciones de desarrollo, etnografía del campesinado y la indigeneidad, trabajos sobre la transformación de la tierra y el trabajo, así como historia del colonialismo. 
+Tania Li es probablemente la antropóloga que más he leído desde hace varios meses. Su trabajo integra gran parte de mis preocupaciones personales acerca del quéhacer de la antropología: su importancia en el entendimiento de procesos sociales contemporáneos y el gran _potencial_ de transformación que tiene frente a problemáticas apremiantes como la desigualdad y la crisis ambiental. Los temas que trata van desde análisis de las políticas y acciones de desarrollo, etnografía del campesinado y la indigeneidad, trabajos sobre la transformación de la tierra y el trabajo, así como historia del colonialismo. 
 
-En una conferencia magistral ofrecida como Munro Lecture de The Univ of Edinburgh Li sintetizó algunas de los problemas que enfrenta la sociedad frente al desarrollo, y particularmente, después de que éste sucede. Según ella hay tres narrativas del desarrollo acerca de la intervención para la mejora de las sociedades; la primera es lo que llama narrativa del **desarrollo inminente**, la segunda es la narrativa del **desarrollo intencional**, y la tercera es la **narrativa crítica del desarrollo**.
+En una conferencia magistral ofrecida como Munro Lecture de The Univ of Edinburgh, Li sintetizó algunas de los problemas que enfrentan las sociedades (sobretodo del sudeste asiático) frente al desarrollo, y particularmente, después de que éste sucede. Según ella hay tres narrativas del desarrollo acerca de la intervención para la mejora de las sociedades; la primera es lo que llama narrativa del **desarrollo inminente**, la segunda es la narrativa del **desarrollo intencional**, y la tercera es la **narrativa crítica del desarrollo**.
 
 1. First story: ‘Yes, things are bad now, but they are getting better — be patient — the teleology of development as progress is unfolding as it should. Modernization, peace and plenty are on the horizon. Destruction is painful but creative. (p. 1248)
 

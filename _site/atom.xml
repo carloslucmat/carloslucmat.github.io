@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-12T22:15:39-06:00</updated>
+ <updated>2023-05-14T10:35:02-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -13,7 +13,21 @@
 
  
  <entry>
-   <title>Despúes del desarrollo, Murray Li</title>
+   <title>Nahualismo y otras formas de control social</title>
+   <link href="http://localhost:4000/2023/05/03/nahualismo-y-otras-formas-de-control-social"/>
+   <updated>2023-05-03T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/05/03/nahualismo-y-otras formas de control social</id>
+   <content type="html">&lt;p&gt;Alfonso Villa Rojas es una  personalidad histórica de la antropología mexicana que nunca leí. Lo poco que supe de él es que fue uno de los primeros antropólogos mexicanos en estudiar en Estados Unidos. Ahí se codeó con gente como Radcliffe-Brown y el propio Malinowski, además de que fue alumno de quien quiénn más tarde se convertiría en su continuo colaborador, Robert Redfield. De éste último, además, recibió su perspectiva funcionalista, aunque matizada por la influencia culturalista norteamericana. Villa Rojas se dedicó al estudio sobretodo de las culturas del sur del país; los mayas de su natal Yucatán, así como poblaciones étnicas de Quintana Roo, Oaxaca y Chiapas. Además de todo su trabajo académico, Alfonso Villa Rojas, fue un importante funcionario indigenista donde dirigió el Centro Coordinador Tzeltal-Tzotzil, y se involucró a la Comisión del Papaloapan.&lt;/p&gt;
+
+&lt;p&gt;Aunque su texto más conocido es probablemente es su estudio de &lt;em&gt;Chan Kom: a Maya village&lt;/em&gt; junto con Redfield, el texto que leí fue “&lt;em&gt;El nagualismo como recurso de control social entre los grupos mayances de Chiapas, México&lt;/em&gt;” publicado originalmente en 1963. En realidad, este texto es una continuación de un artículo previo en American Anthropologist titulado “&lt;em&gt;Kinship and Nagualism in a Tzeltal Community, Southeastern Mexico&lt;/em&gt;” de 1947. Según &lt;a href=&quot;https://www.mayas.uady.mx/homenajes/alfonso.html&quot;&gt;Andrés Medina&lt;/a&gt; este es “posiblemente su ensayo teórico de mayor relevancia”.&lt;/p&gt;
+
+&lt;p&gt;Texto: &lt;a href=&quot;https://doi.org/10.19130/iifl.ecm.1963.3.689&quot;&gt;https://doi.org/10.19130/iifl.ecm.1963.3.689&lt;/a&gt;
+Texto previo: &lt;a href=&quot;https://www.jstor.org/stable/662896&quot;&gt;https://www.jstor.org/stable/662896&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Después del desarrollo, Murray Li</title>
    <link href="http://localhost:4000/2023/04/12/despues-del-desarrollo-li"/>
    <updated>2023-04-12T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/04/12/despues-del-desarrollo-li</id>
@@ -21,9 +35,9 @@
   &lt;p&gt;Tania Murray Li. 2016. After Development: Surplus Population and the Politics of Entitlement. Development and Change Distinguished Lecture.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Tania Li es probablemente la antropóloga que más he leído desde hace varios meses. Su trabajo integra gran parte de mis preocupaciones personales acerca del quéhacer de la antropología: su importancia en el entendimiento de procesos sociales contemporáneos y el gran &lt;em&gt;potencial&lt;/em&gt; de transformación que tiene frente a problemáticas apremiantes. Los temas van desde análisis de las políticas y acciones de desarrollo, etnografía del campesinado y la indigeneidad, trabajos sobre la transformación de la tierra y el trabajo, así como historia del colonialismo.&lt;/p&gt;
+&lt;p&gt;Tania Li es probablemente la antropóloga que más he leído desde hace varios meses. Su trabajo integra gran parte de mis preocupaciones personales acerca del quéhacer de la antropología: su importancia en el entendimiento de procesos sociales contemporáneos y el gran &lt;em&gt;potencial&lt;/em&gt; de transformación que tiene frente a problemáticas apremiantes como la desigualdad y la crisis ambiental. Los temas que trata van desde análisis de las políticas y acciones de desarrollo, etnografía del campesinado y la indigeneidad, trabajos sobre la transformación de la tierra y el trabajo, así como historia del colonialismo.&lt;/p&gt;
 
-&lt;p&gt;En una conferencia magistral ofrecida como Munro Lecture de The Univ of Edinburgh Li sintetizó algunas de los problemas que enfrenta la sociedad frente al desarrollo, y particularmente, después de que éste sucede. Según ella hay tres narrativas del desarrollo acerca de la intervención para la mejora de las sociedades; la primera es lo que llama narrativa del &lt;strong&gt;desarrollo inminente&lt;/strong&gt;, la segunda es la narrativa del &lt;strong&gt;desarrollo intencional&lt;/strong&gt;, y la tercera es la &lt;strong&gt;narrativa crítica del desarrollo&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En una conferencia magistral ofrecida como Munro Lecture de The Univ of Edinburgh, Li sintetizó algunas de los problemas que enfrentan las sociedades (sobretodo del sudeste asiático) frente al desarrollo, y particularmente, después de que éste sucede. Según ella hay tres narrativas del desarrollo acerca de la intervención para la mejora de las sociedades; la primera es lo que llama narrativa del &lt;strong&gt;desarrollo inminente&lt;/strong&gt;, la segunda es la narrativa del &lt;strong&gt;desarrollo intencional&lt;/strong&gt;, y la tercera es la &lt;strong&gt;narrativa crítica del desarrollo&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;
