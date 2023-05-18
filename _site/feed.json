@@ -17,6 +17,30 @@
 "items": [
     
         {
+            "id": "http://localhost:4000/2023/05/16/discos-fuera-streaming",
+            "title": "Álbumes fuera del streaming",
+            "summary": null,
+            "content_text": "Obviamente, existen montones de música fuera de las plataformas. Desde la música no grabada, pasando por grabaciones pérdidas o aquellas simplemente no publicadas, hasta aquellas grabaciones grabadas, publicadas, difundidas pero no subidas a plataformas masivas en internet. Aquí solo me refiero a la elección personal de unos pocos discos que, a pesar de su reconocimiento, no se encuentran disponibles en plataformas de streaming masivo como Spotify o Apple Music, etc., etc. Aunque, vale decir, muchos sí se pueden encontrar disponibles en YouTube o para descarga en Torrents y demás medios por el estilo.  Faust - Faust (1971)  Dj Sprinkles - Midtown 120 Blues (2008)  Taxi Girl - Seppuku (1981)  Van Dyke Parks - Song Cycle (1967)  La Monte Young - The Well-Tuned Piano ([1987]2000)  Roland Kayn - Tektra (1984)  SPK - Leichenschrei (1983)  V/A - Red Wave: 4 Underground Bands From the USSR (1986)  Acid Mothers Temple &amp; The Melting Paraiso U.F.O. - La nòvia (2000)  平沢進 [Susumu Hirasawa] - 救済の技法 (Kyuusai no gihou) (1998)  Bernard Parmegiani - De natura sonorum (1978)  Lydia Lunch - 13.13 (1982)  Farazi v Kayra - Hayalet Islığı (2013)  Joanna Newsom - Ys (2006)  Skee Mask - Compro (2018)  Osamu Sato - Transmigration (1994)",
+            "content_html": "<p>Obviamente, existen montones de música fuera de las plataformas. Desde la música no grabada, pasando por grabaciones pérdidas o aquellas simplemente no publicadas, hasta aquellas grabaciones grabadas, publicadas, difundidas pero no subidas a plataformas masivas en internet. Aquí solo me refiero a la elección personal de unos pocos discos que, a pesar de su reconocimiento, no se encuentran disponibles en plataformas de streaming masivo como Spotify o Apple Music, etc., etc. Aunque, vale decir, muchos sí se pueden encontrar disponibles en YouTube o para descarga en Torrents y demás medios por el estilo.</p><ul>  <li>Faust - <em>Faust</em> (1971)</li>  <li>Dj Sprinkles - <em>Midtown 120 Blues</em> (2008)</li>  <li>Taxi Girl - <em>Seppuku</em> (1981)</li>  <li>Van Dyke Parks - <em>Song Cycle</em> (1967)</li>  <li>La Monte Young - <em>The Well-Tuned Piano</em> ([1987]2000)</li>  <li>Roland Kayn - <em>Tektra</em> (1984)</li>  <li>SPK - <em>Leichenschrei</em> (1983)</li>  <li>V/A - <em>Red Wave: 4 Underground Bands From the USSR</em> (1986)</li>  <li>Acid Mothers Temple &amp; The Melting Paraiso U.F.O. - <em>La nòvia</em> (2000)</li>  <li>平沢進 [Susumu Hirasawa] - 救済の技法 (<em>Kyuusai no gihou</em>) (1998)</li>  <li>Bernard Parmegiani - <em>De natura sonorum</em> (1978)</li>  <li>Lydia Lunch - <em>13.13</em> (1982)</li>  <li>Farazi v Kayra - <em>Hayalet Islığı</em> (2013)</li>  <li>Joanna Newsom - <em>Ys</em> (2006)</li>  <li>Skee Mask - <em>Compro</em> (2018)</li>  <li>Osamu Sato - <em>Transmigration</em> (1994)</li></ul>",
+            "url": "http://localhost:4000/2023/05/16/discos-fuera-streaming",
+            
+            
+            
+            "tags": ["música","music","streaming","albums"],
+            
+            "date_published": "2023-05-16T00:00:00-06:00",
+            "date_modified": "2023-05-16T00:00:00-06:00",
+            
+                "author":  {
+                "name": "Carlos",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "http://localhost:4000/2023/05/03/nahualismo-y-otras-formas-de-control-social",
             "title": "Nahualismo y otras formas de control social",
             "summary": null,
@@ -26,7 +50,7 @@
             
             
             
-            "tags": ["desarrollo","antropología","política","teoría"],
+            "tags": ["ritual","antropología","política","teoría"],
             
             "date_published": "2023-05-03T00:00:00-06:00",
             "date_modified": "2023-05-03T00:00:00-06:00",
