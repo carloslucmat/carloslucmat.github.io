@@ -4,13 +4,30 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-19T00:18:53-06:00</updated>
+ <updated>2023-05-22T19:10:43-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
    <email>carloslucmat1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Catálogo de Pure Data para principiantes</title>
+   <link href="http://localhost:4000/2023/05/21/pure-data-principantes"/>
+   <updated>2023-05-21T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/05/21/pure-data-principantes</id>
+   <content type="html">&lt;p&gt;Hace tiempo que quiero aprender Pure Data. Si alguien se interesa en aprender los fundamentos de la música electrónica a través de la práctica probablemente Pure Data sea la mejor herramienta para eso. Algunos recursos que pueden servir para iniciarse que he encontrado son:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;La página y videos de Mike Moreno. Tiene tutoriales muy útiles por e incluye los &lt;em&gt;patches&lt;/em&gt; para analizarlos y probarlos en Pd: &lt;a href=&quot;https://mikemorenodsp.github.io/&quot;&gt;https://mikemorenodsp.github.io/&lt;/a&gt;:&lt;/li&gt;
+  &lt;li&gt;Pure Data Next, una versión con mínimas modificaciones a Pd Vainilla con temas personalizables: &lt;a href=&quot;https://github.com/sebshader/pdnext&quot;&gt;https://github.com/sebshader/pdnext&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Los grupos de Discord y Reddit de Pd.&lt;/li&gt;
+  &lt;li&gt;Automatonism, librería de patches de sintetizadores modulares (más de 80 módulos) para Pd: &lt;a href=&quot;https://www.automatonism.com/&quot;&gt;https://www.automatonism.com/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;MobMuPlat (Mobile Music Platform), un proyecto para abrir patches de Pd en Android y iOS, por ejemplo, los módulos de Automatonism: &lt;a href=&quot;https://danieliglesia.com/mobmuplat/&quot;&gt;https://danieliglesia.com/mobmuplat/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Álbumes fuera del streaming</title>
@@ -32,10 +49,12 @@
   &lt;li&gt;平沢進 [Susumu Hirasawa] - 救済の技法 (&lt;em&gt;Kyuusai no gihou&lt;/em&gt;) (1998)&lt;/li&gt;
   &lt;li&gt;Bernard Parmegiani - &lt;em&gt;De natura sonorum&lt;/em&gt; (1978)&lt;/li&gt;
   &lt;li&gt;Lydia Lunch - &lt;em&gt;13.13&lt;/em&gt; (1982)&lt;/li&gt;
+  &lt;li&gt;Coil - &lt;em&gt;ANS&lt;/em&gt; (2003)&lt;/li&gt;
   &lt;li&gt;Farazi v Kayra - &lt;em&gt;Hayalet Islığı&lt;/em&gt; (2013)&lt;/li&gt;
   &lt;li&gt;Joanna Newsom - &lt;em&gt;Ys&lt;/em&gt; (2006)&lt;/li&gt;
   &lt;li&gt;Skee Mask - &lt;em&gt;Compro&lt;/em&gt; (2018)&lt;/li&gt;
   &lt;li&gt;Osamu Sato - &lt;em&gt;Transmigration&lt;/em&gt; (1994)&lt;/li&gt;
+  &lt;li&gt;Oneohtrix Point Never - &lt;em&gt;Returnal&lt;/em&gt; (2010)&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
