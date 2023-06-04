@@ -4,7 +4,7 @@ title: Usos curiosos del efectos electrónicos en la voz
 tags: [música, music, vocoder]
 ---
 
-Varias cosas me hicieron pensar en las modificaciones de la voz humana a través de herramientas digitales y electrónicas: Vi una charla de Miller Puckette, uno de los creadores de Pure Data y Max/MSP, donde hablaba de la voz como un potencial controlador electroacústico de diez dimensiones. Eso me llevo a la obra "Visage", de Beri y Beberian. Y hace poco volví a escuchar las dos compilaciones _Music From Saharan Cellphones_ de Sahel Sounds. La idea detrás de los discos es muy simple e interesante. Simplemente era saber qué música escuchaban los jóvenes del Sahel en sus celulares. Mucha de esta música se grababa y compartía de persona a persona por medio de Bluetooth, por lo que no había registros de ella. El primer volumen recoge música de móviles en Kidal, Mali durante 2009-2010 y el segundo recolecta música de Niger y Marruecos. Uno de los elementos que sobresalen del cúmulo de música—aparte de su obvia producción casera—es la utilización de _vocoders_ de formas poco convencionales. 
+Varias cosas me hicieron pensar en las modificaciones de la voz humana a través de herramientas digitales y electrónicas: Vi [una charla de Miller Puckette](https://youtu.be/ZLACjtOpe0Q?t=1967), uno de los creadores de Pure Data y Max/MSP, donde hablaba de la voz como un potencial controlador electroacústico de diez dimensiones. Eso me llevo a la obra ["Visage", de Beri y Beberian](https://www.youtube.com/watch?v=JmMJV-NrQrA). Y hace poco volví a escuchar las dos compilaciones _Music From Saharan Cellphones_ de Sahel Sounds. La idea detrás de los discos es muy simple e interesante. Simplemente era saber qué música escuchaban los jóvenes del Sahel en sus celulares. Mucha de esta música se grababa y compartía de persona a persona por medio de Bluetooth, por lo que no había registros de ella. El primer volumen recoge música de móviles en Kidal, Mali durante 2009-2010 y el segundo recolecta música de Niger y Marruecos. Uno de los elementos que sobresalen del cúmulo de música—aparte de su obvia producción casera—es la utilización de _vocoders_ de formas poco convencionales. 
 
 Las canciones que hay de Mdou Moctar son interesantes. _Tahoultine_ utiliza el vocoder para dar textura a la voz principal, aumenta el tono de la segunda voz y en ocasiones aparece una tercera voz igualente filtrada para hacer armonías con las otras dos. El sonido que consigue es bastante único y contrasta con la idea estereotípica de música del norte de África. 
 
@@ -24,3 +24,10 @@ Siguiendo con la música árabe, pero esta vez en Siria. En el disco  _Dabke, So
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g21bfLYyk8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Faltan por incluir...
+
+- Obvio los experimentos de Steve Reich.
+- La obra inspirada en el síndrome de Tourette por Robert Ashley.
+- El MTG de BH también tiene ejemplos interesantes.
+- Stimmung de Karlheinz Stockhausen.
+- _Y Fall_ de Dj Mc emulando un sample de voz con sintetizadores y filtros.
+- Y ps sí el disco de Björk de puras voces.

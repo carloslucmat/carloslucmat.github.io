@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-06-04T00:44:21-06:00</updated>
+ <updated>2023-06-04T00:59:46-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -17,7 +17,7 @@
    <link href="http://localhost:4000/2023/06/04/usos-vocoder"/>
    <updated>2023-06-04T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/06/04/usos-vocoder</id>
-   <content type="html">&lt;p&gt;Varias cosas me hicieron pensar en las modificaciones de la voz humana a través de herramientas digitales y electrónicas: Vi una charla de Miller Puckette, uno de los creadores de Pure Data y Max/MSP, donde hablaba de la voz como un potencial controlador electroacústico de diez dimensiones. Eso me llevo a la obra “Visage”, de Beri y Beberian. Y hace poco volví a escuchar las dos compilaciones &lt;em&gt;Music From Saharan Cellphones&lt;/em&gt; de Sahel Sounds. La idea detrás de los discos es muy simple e interesante. Simplemente era saber qué música escuchaban los jóvenes del Sahel en sus celulares. Mucha de esta música se grababa y compartía de persona a persona por medio de Bluetooth, por lo que no había registros de ella. El primer volumen recoge música de móviles en Kidal, Mali durante 2009-2010 y el segundo recolecta música de Niger y Marruecos. Uno de los elementos que sobresalen del cúmulo de música—aparte de su obvia producción casera—es la utilización de &lt;em&gt;vocoders&lt;/em&gt; de formas poco convencionales.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Varias cosas me hicieron pensar en las modificaciones de la voz humana a través de herramientas digitales y electrónicas: Vi &lt;a href=&quot;https://youtu.be/ZLACjtOpe0Q?t=1967&quot;&gt;una charla de Miller Puckette&lt;/a&gt;, uno de los creadores de Pure Data y Max/MSP, donde hablaba de la voz como un potencial controlador electroacústico de diez dimensiones. Eso me llevo a la obra &lt;a href=&quot;https://www.youtube.com/watch?v=JmMJV-NrQrA&quot;&gt;“Visage”, de Beri y Beberian&lt;/a&gt;. Y hace poco volví a escuchar las dos compilaciones &lt;em&gt;Music From Saharan Cellphones&lt;/em&gt; de Sahel Sounds. La idea detrás de los discos es muy simple e interesante. Simplemente era saber qué música escuchaban los jóvenes del Sahel en sus celulares. Mucha de esta música se grababa y compartía de persona a persona por medio de Bluetooth, por lo que no había registros de ella. El primer volumen recoge música de móviles en Kidal, Mali durante 2009-2010 y el segundo recolecta música de Niger y Marruecos. Uno de los elementos que sobresalen del cúmulo de música—aparte de su obvia producción casera—es la utilización de &lt;em&gt;vocoders&lt;/em&gt; de formas poco convencionales.&lt;/p&gt;
 
 &lt;p&gt;Las canciones que hay de Mdou Moctar son interesantes. &lt;em&gt;Tahoultine&lt;/em&gt; utiliza el vocoder para dar textura a la voz principal, aumenta el tono de la segunda voz y en ocasiones aparece una tercera voz igualente filtrada para hacer armonías con las otras dos. El sonido que consigue es bastante único y contrasta con la idea estereotípica de música del norte de África.&lt;/p&gt;
 
@@ -36,6 +36,15 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/g21bfLYyk8c&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;Faltan por incluir…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Obvio los experimentos de Steve Reich.&lt;/li&gt;
+  &lt;li&gt;La obra inspirada en el síndrome de Tourette por Robert Ashley.&lt;/li&gt;
+  &lt;li&gt;El MTG de BH también tiene ejemplos interesantes.&lt;/li&gt;
+  &lt;li&gt;Stimmung de Karlheinz Stockhausen.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Y Fall&lt;/em&gt; de Dj Mc emulando un sample de voz con sintetizadores y filtros.&lt;/li&gt;
+  &lt;li&gt;Y ps sí el disco de Björk de puras voces.&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
