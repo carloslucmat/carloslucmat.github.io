@@ -2,6 +2,17 @@
   
     {
 
+      "title"    : "Usos curiosos del efectos electrónicos en la voz",
+      "url"      : "/2023/06/04/usos-vocoder",
+      "category" : "",
+      "tags"     : "música, music, vocoder",
+      "date"     : "2023-06-04 00:00:00 -0600",
+      "description" : ""
+
+    } ,
+  
+    {
+
       "title"    : "Catálogo de Pure Data para principiantes",
       "url"      : "/2023/05/21/pure-data-principantes",
       "category" : "",
@@ -189,7 +200,7 @@
   
     {
 
-      "title"    : "Awesome List - Herramientas digitales académicas",
+      "title"    : "Herramientas digitales académicas",
       "url"      : "/awesome-herramientas-digitales-académicas",
       "category" : "",
       "tags"     : "awesome, herramientas digitales, atom, pandoc, markdown, ciencias sociales digitales, humanidades digitales, antropología, CAQDAS, Obsidian, Trilium, Atom, escritura academica, academic writing, tips, acwri",

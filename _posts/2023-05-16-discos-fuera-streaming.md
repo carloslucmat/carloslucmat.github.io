@@ -6,6 +6,7 @@ tags: [música, music, streaming, albums]
 
 Obviamente, existen montones de música fuera de las plataformas. Desde la música no grabada, pasando por grabaciones pérdidas o aquellas simplemente no publicadas, hasta aquellas grabaciones grabadas, publicadas, difundidas pero no subidas a plataformas masivas en internet. Aquí solo me refiero a la elección personal de unos pocos discos que, a pesar de su reconocimiento, no se encuentran disponibles en plataformas de streaming masivo como Spotify o Apple Music, etc., etc. Aunque, vale decir, muchos sí se pueden encontrar disponibles en YouTube o para descarga en Torrents y demás medios por el estilo.
 
+- Luciano Berio and Cathy Berberian - _Visage_ (1961)
 - Faust - _Faust_ (1971)
 - Dj Sprinkles - _Midtown 120 Blues_ (2008)
 - Taxi Girl - _Seppuku_ (1981)
