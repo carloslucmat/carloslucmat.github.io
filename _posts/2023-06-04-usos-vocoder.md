@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Usos curiosos del efectos electrónicos en la voz
+title: Usos curiosos de efectos electrónicos en la voz
 tags: [música, music, vocoder]
 ---
 
@@ -14,7 +14,7 @@ _Anar_ sigue una idea similar, con una voz principal filtrada digitalmente que p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EsA4GkSGALc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Otra canción que se recopila en el Vol. 2 es de la artista infantil Cheba Wassila (no sé que tan adulta sea ahora) que debe ser algo famosa por haber sido sampleado por Death Grips en _Punk Weight_ como se puede ver acá: <https://www.whosampled.com/Death-Grips/Punk-Weight/>. Busqué más sobre la artista y me pareció importante ver que el uso de filtros vocoder no es algo meramente circunstancial, sino un elemento sostenido en la música por lo menos de este tipo de artistas, en este caso de Marruecos. Inicialmente creí que el pitch estaba subido y a eso se debía el tono, pero al saber que quién estaba cantando era una niña, todo cobró más sentido. También es interesante ver que los cambios bruscos de tono en notas sostenidas más que un fenómeno indeseable, en algunos estilos de música árabe son bienvenidos y potenciados a través del efecto. (Algo similar pasa con los teclados en el dabke que utilizan intensivamente el phaser).
+Otra canción que se recopila en el Vol. 2 es de la artista infantil Cheba Wassila (no sé que tan adulta sea ahora) y que debe ser algo famosa por haber sido sampleada por Death Grips en _Punk Weight_ como se puede ver acá: <https://www.whosampled.com/Death-Grips/Punk-Weight/>. Busqué más sobre la artista y me pareció importante ver que el uso de filtros vocoder no es algo meramente circunstancial, sino un elemento sostenido en la música por lo menos de este tipo de artistas, en este caso de Marruecos. Inicialmente creí que el pitch estaba subido y a eso se debía el tono, pero al saber que quién estaba cantando era una niña, todo cobró más sentido. También es interesante ver que los cambios bruscos de tono en notas sostenidas más que un fenómeno indeseable, en algunos estilos de música árabe son bienvenidos y potenciados a través del efecto. (Algo similar pasa con los teclados en el dabke donde utilizan intensivamente el phaser).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1VqFLlabDKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
@@ -30,4 +30,4 @@ Faltan por incluir...
 - El MTG de BH también tiene ejemplos interesantes.
 - Stimmung de Karlheinz Stockhausen.
 - _Y Fall_ de Dj Mc emulando un sample de voz con sintetizadores y filtros.
-- Y ps sí el disco de Björk de puras voces.
+- Y ps sí, el disco de Björk de puras voces.

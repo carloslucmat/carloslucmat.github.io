@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-06-04T00:59:46-06:00</updated>
+ <updated>2023-06-20T21:43:43-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -13,7 +13,7 @@
 
  
  <entry>
-   <title>Usos curiosos del efectos electrónicos en la voz</title>
+   <title>Usos curiosos de efectos electrónicos en la voz</title>
    <link href="http://localhost:4000/2023/06/04/usos-vocoder"/>
    <updated>2023-06-04T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/06/04/usos-vocoder</id>
@@ -27,7 +27,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/EsA4GkSGALc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Otra canción que se recopila en el Vol. 2 es de la artista infantil Cheba Wassila (no sé que tan adulta sea ahora) que debe ser algo famosa por haber sido sampleado por Death Grips en &lt;em&gt;Punk Weight&lt;/em&gt; como se puede ver acá: &lt;a href=&quot;https://www.whosampled.com/Death-Grips/Punk-Weight/&quot;&gt;https://www.whosampled.com/Death-Grips/Punk-Weight/&lt;/a&gt;. Busqué más sobre la artista y me pareció importante ver que el uso de filtros vocoder no es algo meramente circunstancial, sino un elemento sostenido en la música por lo menos de este tipo de artistas, en este caso de Marruecos. Inicialmente creí que el pitch estaba subido y a eso se debía el tono, pero al saber que quién estaba cantando era una niña, todo cobró más sentido. También es interesante ver que los cambios bruscos de tono en notas sostenidas más que un fenómeno indeseable, en algunos estilos de música árabe son bienvenidos y potenciados a través del efecto. (Algo similar pasa con los teclados en el dabke que utilizan intensivamente el phaser).&lt;/p&gt;
+&lt;p&gt;Otra canción que se recopila en el Vol. 2 es de la artista infantil Cheba Wassila (no sé que tan adulta sea ahora) y que debe ser algo famosa por haber sido sampleada por Death Grips en &lt;em&gt;Punk Weight&lt;/em&gt; como se puede ver acá: &lt;a href=&quot;https://www.whosampled.com/Death-Grips/Punk-Weight/&quot;&gt;https://www.whosampled.com/Death-Grips/Punk-Weight/&lt;/a&gt;. Busqué más sobre la artista y me pareció importante ver que el uso de filtros vocoder no es algo meramente circunstancial, sino un elemento sostenido en la música por lo menos de este tipo de artistas, en este caso de Marruecos. Inicialmente creí que el pitch estaba subido y a eso se debía el tono, pero al saber que quién estaba cantando era una niña, todo cobró más sentido. También es interesante ver que los cambios bruscos de tono en notas sostenidas más que un fenómeno indeseable, en algunos estilos de música árabe son bienvenidos y potenciados a través del efecto. (Algo similar pasa con los teclados en el dabke donde utilizan intensivamente el phaser).&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/1VqFLlabDKI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
@@ -43,7 +43,7 @@
   &lt;li&gt;El MTG de BH también tiene ejemplos interesantes.&lt;/li&gt;
   &lt;li&gt;Stimmung de Karlheinz Stockhausen.&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Y Fall&lt;/em&gt; de Dj Mc emulando un sample de voz con sintetizadores y filtros.&lt;/li&gt;
-  &lt;li&gt;Y ps sí el disco de Björk de puras voces.&lt;/li&gt;
+  &lt;li&gt;Y ps sí, el disco de Björk de puras voces.&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
