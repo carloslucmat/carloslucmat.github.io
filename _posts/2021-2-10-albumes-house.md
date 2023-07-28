@@ -2,6 +2,7 @@
 layout: post
 title: "Álbumes II: House 90s"
 tags: [música, house, albums]
+author: Carlos Lucas Mateo
 ---
 
 ## Bizarre Inc – Playing With Knives / Plutonic (1991)

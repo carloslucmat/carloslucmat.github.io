@@ -2,6 +2,7 @@
 layout: post
 title: Singeli de Tanzania
 tags: [singeli, tanzania, áfrica, electrónica, baile, rave, techno, playlist]
+author: Carlos Lucas Mateo
 ---
 
 El singeli de Tanzania recibió bastante atención después de que el sello _Nyege Nyege Tapes_ (perteneciente a unos entusiastas alemanes) grabara y produjera varios discos de artistas principalmente de Dar es Salaam. NTS le dedicó un pequeño documental titulado _Singeli Sound: High Speed_.

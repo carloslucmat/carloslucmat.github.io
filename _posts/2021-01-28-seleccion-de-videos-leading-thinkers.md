@@ -2,6 +2,7 @@
 layout: post
 title: "Entrevistas a 'líderes pensadores' de Cambridge"
 tags: [videos, entrevistas, antropología, Edmund Leach, Marilyn Strathern, Marshall Sahlins, Mary Douglas, Paul Rabinow, Jeremy Boissevain, John Barnes, Ratmond Firth, Clifford Geertz, Eric Hobsbawm, Philippe Descola, Sidney Mintz]
+author: Carlos Lucas Mateo
 ---
 
 La Universidad de Cambridge tiene una colección de entrevistas videograbadas llamada "Film Interviews with Leading Thinkers" realizadas por el Museo de Antropología y Arqueología donde se entrevistan a renombrados antropólogos (mayoritariamente ingleses) sobre su vida, formación, trabajo e investigación. Me gusta que sean acercamientos personales a personalidades icónicas y hasta mistificados. Muchas de las entrevistas no están en YouTube, solo en el servidor de la Universidad, por lo que puede ser fácil perderlas de vista.

@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-07-04T11:48:08-06:00</updated>
+ <updated>2023-07-28T00:00:35-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos</name>
@@ -138,6 +138,7 @@
   &lt;li&gt;Skee Mask - &lt;em&gt;Compro&lt;/em&gt; (2018)&lt;/li&gt;
   &lt;li&gt;Osamu Sato - &lt;em&gt;Transmigration&lt;/em&gt; (1994)&lt;/li&gt;
   &lt;li&gt;Oneohtrix Point Never - &lt;em&gt;Returnal&lt;/em&gt; (2010)&lt;/li&gt;
+  &lt;li&gt;Lee Gable - &lt;em&gt;Koch&lt;/em&gt; (2014)&lt;/li&gt;
 &lt;/ul&gt;
 </content>
  </entry>
@@ -766,9 +767,9 @@ Texto previo: &lt;a href=&quot;https://www.jstor.org/stable/662896&quot;&gt;http
  
  <entry>
    <title>Herramientas digitales académicas</title>
-   <link href="http://localhost:4000/awesome-herramientas-digitales-académicas"/>
+   <link href="http://localhost:4000/2021/01/19/awesome-herramientas-digitales-academicas"/>
    <updated>2021-01-19T00:00:00-06:00</updated>
-   <id>http://localhost:4000/awesome-herramientas-digitales-academicas</id>
+   <id>http://localhost:4000/2021/01/19/awesome-herramientas-digitales-academicas</id>
    <content type="html">&lt;h2 id=&quot;intento-de-una-awesome-list-pero-para-antropólogos-y-científicos-sociales-&quot;&gt;Intento de una awesome list, pero para antropólogos y científicos sociales &lt;a href=&quot;https://awesome.re&quot;&gt;&lt;img src=&quot;https://awesome.re/badge-flat2.svg&quot; alt=&quot;Awesome&quot; /&gt;&lt;/a&gt;&lt;/h2&gt;
 
 &lt;p&gt;Esta lista está inspirada en las listas &lt;a href=&quot;https://github.com/sindresorhus/awesome/blob/main/awesome.md&quot;&gt;Awesome&lt;/a&gt;. Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.&lt;/p&gt;
@@ -1001,9 +1002,9 @@ Texto previo: &lt;a href=&quot;https://www.jstor.org/stable/662896&quot;&gt;http
  
  <entry>
    <title>Minimalismo barulhento de Belo Horizonte</title>
-   <link href="http://localhost:4000/mtg-funk-play"/>
+   <link href="http://localhost:4000/2021/01/11/mtg-funk"/>
    <updated>2021-01-11T00:00:00-06:00</updated>
-   <id>http://localhost:4000/mtg-funk</id>
+   <id>http://localhost:4000/2021/01/11/mtg-funk</id>
    <content type="html">&lt;p&gt;Cuando entré al mundo del funk carioca en SoundCloud leía etiquetas como ‘MGTs’, ‘BH’, ‘baile de inestan’, ‘credo’, ‘malado’, ‘queredao’. No entendía de que iba. Después de leer algunas cosas supe de la exitencia de los montagems (abreviados como MTG) y la variante de Belo Horizonte del funk carioca (BH). Cierto que, aunque comparten cierto estilo con el funk más difundido de MC Bin Laden o MC Fioti, la variante de Belo Horizonte se diferencia estilísticamente.&lt;/p&gt;
 
 &lt;p&gt;Muchos rastrean el origen del &lt;em&gt;funk&lt;/em&gt; brasilero en el miami bass de los noventa, pero sus recientes ramificaciones se han alejado de ese sonido. En algunos subgéneros ya no hay cajas de ritmo noventeras, a veces ni siquiera hay kicks y mucho menos snares o su importancia es menor. Bajo ese entendido, GG Albuquerque se preguntaba si en el &lt;em&gt;Funk de BH&lt;/em&gt; &lt;a href=&quot;http://volumemorto.com.br/funk-de-bh-o-surgimento-de-um-ambient-space-funk/&quot;&gt;podiamos ver el surgimiento de un ‘funk ambiental espacial’&lt;/a&gt; con tendencia a los sonidos ambientales y al reverb, y más cercano al R&amp;amp;B que al trap.&lt;/p&gt;
@@ -1107,9 +1108,9 @@ Texto previo: &lt;a href=&quot;https://www.jstor.org/stable/662896&quot;&gt;http
  
  <entry>
    <title>Carl Lumholtz en Michoacán</title>
-   <link href="http://localhost:4000/unk-lumholtz-mich"/>
+   <link href="http://localhost:4000/2021/01/09/unk-tarascan"/>
    <updated>2021-01-09T00:00:00-06:00</updated>
-   <id>http://localhost:4000/unk-tarascan</id>
+   <id>http://localhost:4000/2021/01/09/unk-tarascan</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/lumholtz-chihuahua.png&quot; alt=&quot;Carl Lumholtz en la Sierra Madre en Chihuahua, 1892&quot; /&gt;&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -1312,16 +1313,10 @@ Los &lt;em&gt;keys&lt;/em&gt; se ven así:&lt;/p&gt;
  
  <entry>
    <title>Introducción</title>
-   <link href="http://localhost:4000/intro2021"/>
+   <link href="http://localhost:4000/2021/01/01/intro"/>
    <updated>2021-01-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/intro</id>
+   <id>http://localhost:4000/2021/01/01/intro</id>
    <content type="html">&lt;p&gt;Esta es una introducción de prueba. Este post está escrito localmente en &lt;strong&gt;Markdown&lt;/strong&gt; con ayuda de &lt;strong&gt;Atom&lt;/strong&gt; y alojado &lt;strong&gt;Github&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Próximamente más publicaciones.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Mientras tanto esta imagen genérica:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/images/galaxy.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

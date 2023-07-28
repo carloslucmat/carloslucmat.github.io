@@ -2,6 +2,7 @@
 layout: post
 title: "Extracto: Las ideologías de la competencia en un complejo industrial de Abidjan"
 tags: [bruno latour, curiosidades, traducción, Abdijan, ideología, competencia, Les idéologies de la compétence en milieu industriel à Abidjan, Costa de Marfil]
+author: Carlos Lucas Mateo
 ---
 
 Bruno Latour: Les idéologies de la compétence en milieu industriel à Abidjan (1974, p. 66) en la serie de estudios industriales No. 9.

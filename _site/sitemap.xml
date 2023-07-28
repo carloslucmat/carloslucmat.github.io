@@ -2,18 +2,18 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2023-07-04T11:48:08-06:00</lastmod>
+<lastmod>2023-07-28T00:00:35-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pinboard</loc>
-<lastmod>2023-07-04T11:48:08-06:00</lastmod>
+<lastmod>2023-07-28T00:00:35-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2023-07-04T11:48:08-06:00</lastmod>
+<lastmod>2023-07-28T00:00:35-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/intro2021</loc>
+<loc>http://localhost:4000/2021/01/01/intro</loc>
 <lastmod>2021-01-01T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -29,7 +29,7 @@
 <lastmod>2021-01-09T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/unk-lumholtz-mich</loc>
+<loc>http://localhost:4000/2021/01/09/unk-tarascan</loc>
 <lastmod>2021-01-09T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -37,7 +37,7 @@
 <lastmod>2021-01-10T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/mtg-funk-play</loc>
+<loc>http://localhost:4000/2021/01/11/mtg-funk</loc>
 <lastmod>2021-01-11T00:00:00-06:00</lastmod>
 </url>
 <url>
@@ -45,7 +45,7 @@
 <lastmod>2021-01-12T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/awesome-herramientas-digitales-acad%C3%A9micas</loc>
+<loc>http://localhost:4000/2021/01/19/awesome-herramientas-digitales-academicas</loc>
 <lastmod>2021-01-19T00:00:00-06:00</lastmod>
 </url>
 <url>

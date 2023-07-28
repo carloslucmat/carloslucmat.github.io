@@ -2,6 +2,7 @@
 layout: post
 title: "Álbumes I: Techno Clásico"
 tags: [música, techno]
+author: Carlos Lucas Mateo
 ---
 
 

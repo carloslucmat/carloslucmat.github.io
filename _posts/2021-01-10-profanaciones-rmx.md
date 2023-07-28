@@ -2,6 +2,7 @@
 layout: post
 title: Profanaciones del mashup
 tags: [música, playlist, remix, bootleg, soundcloud]
+author: Carlos Lucas Mateo
 ---
 
 Perreo de primavera
