@@ -2,6 +2,7 @@
 layout: post
 title: La capacidad metarepresentacional de leer mentes
 tags: [antropología, ritual, religión, teoría]
+author: "Carlos Lucas Mateo"
 ---
 
 >Bloch, Maurice. "Deference." _Theorizing Rituals, Volume 1: Issues, Topics, Approaches, Concepts_. Brill, 2006. 495-506.

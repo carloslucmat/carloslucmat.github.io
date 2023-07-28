@@ -2,6 +2,7 @@
 layout: post
 title: Catálogo de Pure Data para principiantes 
 tags: [pure data, software, música, music]
+author: "Carlos Lucas Mateo"
 ---
 
 Hace tiempo que quiero aprender Pure Data. Si alguien se interesa en aprender los fundamentos de la música electrónica a través de la práctica probablemente Pure Data sea la mejor herramienta para eso. Algunos recursos que pueden servir para iniciarse que he encontrado son:
