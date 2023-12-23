@@ -4,8 +4,8 @@ title: Diagramas, diagramas, diagramas
 tags: [antropología, ritual, diagramas, teoría, diagrams, social theory, anthropology]
 ---
 
-![Diagramas de The Fire of the Jaguar de Terence Turner 1](/images/diag-turner.jpg)
-![Diagramas de The Fire of the Jaguar de Terence Turner 2](/images/diag-turner1.jpg)
+![Diagramas de The Fire of the Jaguar de Terence Turner 1](/images/diag-jaguar-turner.jpg)
+![Diagramas de The Fire of the Jaguar de Terence Turner 2](/images/diag-jaguar-turner1.jpg)
 
  - Malinowski’s (1922) map of the **Kula ring** and Hage’s (1977) undirected graph of the Kula Ring.
  - **Nuer diagrams** by Evans-Pritchard in _The Nuer_ (1940), for example: calendar-table of ecological influences in social institutions, segmentary lineages forms of organization, different types of cows.
