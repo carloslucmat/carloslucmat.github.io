@@ -4,13 +4,81 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-10-26T20:03:24-06:00</updated>
+ <updated>2023-12-23T12:37:41-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
    <email>carloslucmat1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Lo mejor de este 2023</title>
+   <link href="http://localhost:4000/2023/12/22/mejor-2023"/>
+   <updated>2023-12-22T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/12/22/mejor-2023</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/mejor-2023-m.jpg&quot; alt=&quot;cover-art-2023&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;los-mejores-discos-que-escuché-este-año-2023-fueron&quot;&gt;Los mejores &lt;strong&gt;discos&lt;/strong&gt; que escuché este año 2023 fueron:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;False Lankum - Lankum (2023)&lt;/li&gt;
+  &lt;li&gt;Chuquimamani-Condori - DJ E (2023)&lt;/li&gt;
+  &lt;li&gt;Various Artists - Richard Sen presents Dream The Dream: UK Techno, House and Breakbeat 1990-1994 (2023)&lt;/li&gt;
+  &lt;li&gt;Moritz von Oswald - Silencio (2023)&lt;/li&gt;
+  &lt;li&gt;Vidrio - Titanic (2023)&lt;/li&gt;
+  &lt;li&gt;DJ ZNOBIA — Inventor VOL 1 (2023)&lt;/li&gt;
+  &lt;li&gt;DJ Danifox - Ansiedade (2023)&lt;/li&gt;
+  &lt;li&gt;Carl Stone - Electronic Music from 1972-2022 (2023)&lt;/li&gt;
+  &lt;li&gt;Elecktroids - Elektroworld (1995)&lt;/li&gt;
+  &lt;li&gt;Maxime Denuc - Nachthorn (2023)&lt;/li&gt;
+  &lt;li&gt;Arnold Dreyblatt - Resolve (2023)&lt;/li&gt;
+  &lt;li&gt;CoLD ST0RAGE - wipE’out” The Zero Gravity Soundtrack (2023)&lt;/li&gt;
+  &lt;li&gt;Lee Gamble - Models (2023)&lt;/li&gt;
+  &lt;li&gt;Various Artists - Synthetic Bird Music (2023)&lt;/li&gt;
+  &lt;li&gt;Hailu Mergia - Pioneer Works Swing (Live) (2023)&lt;/li&gt;
+  &lt;li&gt;DJ K - PANICO NO SUBMUNDO (2023)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;de-otros-años-pero-que-escuché-este-año&quot;&gt;De &lt;strong&gt;otros años&lt;/strong&gt; pero que escuché este año:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ustad Noor Bakhsh - Kalam Lolo (2022)&lt;/li&gt;
+  &lt;li&gt;Various Artists - Anthology Of Experimental Music From China (2022)&lt;/li&gt;
+  &lt;li&gt;The Beach Boys - The Smile Sessions (2011)&lt;/li&gt;
+  &lt;li&gt;Brian Wilson - SMiLE (2004)&lt;/li&gt;
+  &lt;li&gt;Autechre - Exai (2013)&lt;/li&gt;
+  &lt;li&gt;Dopplerffekt - Gesamtkunstwerk (1999)&lt;/li&gt;
+  &lt;li&gt;Franco Battiato - Pollution (1972)&lt;/li&gt;
+  &lt;li&gt;Amon Tobin - Supermodified (2000)&lt;/li&gt;
+  &lt;li&gt;Versions of Modern Performance - Horsegirl (2022)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://macuala.blogspot.com/2009/11/musica-para-muertos-antologia-cdi.html&quot;&gt;Antología Música para Muertos&lt;/a&gt; - CDI (2000)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;miscelanea-de-otros-años-que-escuché-apenas&quot;&gt;Miscelanea de otros años que escuché apenas:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Autechre - AE_LIVE_DUBLIN_191214 (2015)&lt;/li&gt;
+  &lt;li&gt;E+E - Huayno Sirinun Katjata (grabbed by mermaid huayno)&lt;/li&gt;
+  &lt;li&gt;Carlos Pickling - Selección de Huaylas [Casarte Quiero] (1984)&lt;/li&gt;
+  &lt;li&gt;Demisse Desta Begena Harp Tsadik Ethiopia HMV JOE 33 Ethiopian 78 rpm (n/d)&lt;/li&gt;
+  &lt;li&gt;Primer Son del Costumbre de Ofrenda a los Espíritus Miguel Eduardo Cruz y Domingo Diego Francisco de Pantepec, Huauchinango (2000).&lt;/li&gt;
+  &lt;li&gt;El copal (sikii) - Dueto San Gabriel (2000)&lt;/li&gt;
+  &lt;li&gt;Freeny’s Barn Dance Band - Don’t You Remember The Time (~1930)&lt;/li&gt;
+  &lt;li&gt;Elysia Crampton Chuquimia Live Set (ft. Joshua Chuquimia Crampton) Oct 2020&lt;/li&gt;
+  &lt;li&gt;Chuquimamani-Condori - Rayo Mix 2022&lt;/li&gt;
+  &lt;li&gt;Halcyon Veil - Holysoul (HVMlX025)&lt;/li&gt;
+  &lt;li&gt;CHAi-t - ☆ɢᴜᴀʀᴀᴄʜᴀ::ʙᴀꜱᴜᴄᴏᴍɪx☆2ᴋ22☆&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;listas-en-sc&quot;&gt;Listas en sc:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/c-lucmat/sets/alteraciones&quot;&gt;revisiones, reconsideraciones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/c-lucmat/sets/intenciones-intensidades&quot;&gt;intensiones/intensidades&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Comentario al Cherán de Ralph Beals a 77 años</title>

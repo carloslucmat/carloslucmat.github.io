@@ -2,15 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://localhost:4000/about</loc>
-<lastmod>2023-10-26T20:03:24-06:00</lastmod>
+<lastmod>2023-12-23T12:37:41-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/pinboard</loc>
-<lastmod>2023-10-26T20:03:24-06:00</lastmod>
+<lastmod>2023-12-23T12:37:41-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/search</loc>
-<lastmod>2023-10-26T20:03:24-06:00</lastmod>
+<lastmod>2023-12-23T12:37:41-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/2021/01/01/intro</loc>
@@ -131,6 +131,10 @@
 <url>
 <loc>http://localhost:4000/2023/09/28/beals-77-anhos</loc>
 <lastmod>2023-09-28T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2023/12/22/mejor-2023</loc>
+<lastmod>2023-12-22T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
@@ -455,5 +459,14 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/Cher%C3%A1n/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/discos/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/2023/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/top/</loc>
 </url>
 </urlset>
