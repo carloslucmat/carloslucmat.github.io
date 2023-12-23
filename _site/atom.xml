@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-12-23T12:37:41-06:00</updated>
+ <updated>2023-12-23T12:54:04-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
@@ -124,7 +124,23 @@
    <link href="http://localhost:4000/2023/07/06/diagramas-syll"/>
    <updated>2023-07-06T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/07/06/diagramas-syll</id>
-   <content type="html">
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/diag-turner.jpg&quot; alt=&quot;Diagramas de The Fire of the Jaguar de Terence Turner 1&quot; /&gt;
+&lt;img src=&quot;/images/diag-turner1.jpg&quot; alt=&quot;Diagramas de The Fire of the Jaguar de Terence Turner 2&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Malinowski’s (1922) map of the &lt;strong&gt;Kula ring&lt;/strong&gt; and Hage’s (1977) undirected graph of the Kula Ring.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nuer diagrams&lt;/strong&gt; by Evans-Pritchard in &lt;em&gt;The Nuer&lt;/em&gt; (1940), for example: calendar-table of ecological influences in social institutions, segmentary lineages forms of organization, different types of cows.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tuamotuan Conception of the Cosmos&lt;/strong&gt;, by Paiore (1829) and &lt;strong&gt;Traditional conception of the radiation of Chinese Civilization&lt;/strong&gt;, by Needham (1959).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Grid-group diagram&lt;/strong&gt; by Mary Douglas in &lt;em&gt;Natural Symbols: Explorations in Cosmology&lt;/em&gt; (1970).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Plan of a Kabyle House&lt;/strong&gt; by Pierre Bourdieu, originally appeared in &lt;em&gt;Sociologie de L’Algérie&lt;/em&gt; (1968) and then revisited in &lt;em&gt;The Logic of Practice&lt;/em&gt; (1990).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Baruya trading partners&lt;/strong&gt; by Godelier &amp;amp; Jablonko (1998).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Strathenograms&lt;/strong&gt; by Alfred Gell in &lt;em&gt;The Art of Anthropology&lt;/em&gt; (1999).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The triple analogy&lt;/strong&gt; (man/tree/society) by Alfred Gell, “The Language of the Forest” reprinted in &lt;em&gt;The Art of Anthropology&lt;/em&gt; (1999).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ontologies-sociologies correspondaces&lt;/strong&gt; by Barbosa de Almeida (2014) inspired by Marshall Sahlins’ reading of Descolá’s ontologies.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Social Theory for Generative Networks (and Vice Versa)&lt;/strong&gt;, by Michael Castelle (2018).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;The Fire of the Jaguar&lt;/strong&gt;, by Terence Turner (2017)&lt;/li&gt;
+&lt;/ul&gt;
+
 </content>
  </entry>
  
