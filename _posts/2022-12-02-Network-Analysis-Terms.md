@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Glosario de terminos de Análisis de Redes Sociales por Mustafa Emirbayer y Jeff Goodwin"
+title: "Glosario de terminos de Análisis de Redes Sociales (ARS)"
 tags: [network analysis, ARS, SNA, glosario, conceptos, teoría de redes, network theory, sociology]
 ---
 

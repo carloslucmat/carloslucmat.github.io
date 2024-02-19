@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: Profanaciones del mashup
 tags: [música, playlist, remix, bootleg, soundcloud]
 author: Carlos Lucas Mateo

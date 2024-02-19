@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: La capacidad metarepresentacional de leer mentes
 tags: [antropología, ritual, religión, teoría]
 author: "Carlos Lucas Mateo"

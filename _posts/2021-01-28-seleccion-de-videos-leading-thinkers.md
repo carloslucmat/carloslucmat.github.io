@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entrevistas a 'líderes pensadores' de Cambridge"
+title: Entrevistas a antrops de UCambridge
 tags: [videos, entrevistas, antropología, Edmund Leach, Marilyn Strathern, Marshall Sahlins, Mary Douglas, Paul Rabinow, Jeremy Boissevain, John Barnes, Ratmond Firth, Clifford Geertz, Eric Hobsbawm, Philippe Descola, Sidney Mintz]
 author: Carlos Lucas Mateo
 ---

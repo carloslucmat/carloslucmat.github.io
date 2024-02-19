@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sobre cultura del remix
+title: Sobre el remix
 tags: [bibliografía, literatura, leer]
 author: Carlos Lucas Mateo
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 title: "Álbumes II: House 90s"
 tags: [música, house, albums]
 author: Carlos Lucas Mateo
