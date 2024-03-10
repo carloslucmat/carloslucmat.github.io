@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-10T00:04:20-06:00</updated>
+ <updated>2024-03-10T00:08:20-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
@@ -37,7 +37,7 @@
   &lt;li&gt;Syrian Cassette Archives &lt;a href=&quot;https://syriancassettearchives.org/&quot;&gt;Sitio&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;C:\Users\ThinkPad\Documents\blog_clm\images\2124-ci.jpg&quot; alt=&quot;ci&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;images/2124-ci.jpg&quot; alt=&quot;ci&quot; /&gt;&lt;/p&gt;
 
 </content>
  </entry>
