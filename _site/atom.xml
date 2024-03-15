@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-15T17:27:43-06:00</updated>
+ <updated>2024-03-15T17:39:51-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
@@ -17,7 +17,9 @@
    <link href="http://localhost:4000/2024/02/29/lista-21"/>
    <updated>2024-02-29T00:00:00-06:00</updated>
    <id>http://localhost:4000/2024/02/29/lista-21</id>
-   <content type="html">&lt;p&gt;Desde mayo de veinte-veinte.2 me propuse hacer una playlist mensual con la música que encontraba interesante, bonita, descubrimientos viejos y nuevos, etc. Hasta el mes pasado hice veinte listas sin falta. Ahora que me rehúso a seguir con los servicios de streaming quiero continuar esa costumbre. Así que aquí está la lista 21 de febrero del veinte-veinte.4. Ya no estoy constreñido a playlist de música de una plataforma, entonces probaré incluir otras cosas interesantes que he encontrado en el camino.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/veinteuno-lista.jpg&quot; alt=&quot;lista21&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Desde mayo de veinte-veinte.2 me propuse hacer una playlist mensual con la música que encontraba interesante, bonita, descubrimientos viejos y nuevos, etc. Hasta el mes pasado hice veinte listas sin falta. Ahora que me rehúso a seguir con los servicios de streaming quiero continuar esa costumbre. Así que aquí está la lista 21 de febrero del veinte-veinte.4. Ya no estoy constreñido a playlist de música de una plataforma, entonces probaré incluir otras cosas interesantes que he encontrado en el camino.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Emily Rocha y Alberto Aguilar - Llámame &lt;a href=&quot;https://www.youtube.com/watch?v=4dXZh49wNYU&quot;&gt;[escuchar en YouTube]&lt;/a&gt; / para la señora nicolasa y para toda su familia, baila, baila, goza, goza / (4 / 4 + 1)&lt;/li&gt;
