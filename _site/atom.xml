@@ -4,13 +4,26 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-03-19T19:24:13-06:00</updated>
+ <updated>2024-03-26T22:33:18-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
    <email>carloslucmat1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Fotoescultura, cronofotografía y FFMPEG</title>
+   <link href="http://localhost:4000/2024/03/26/crono-foto-ffmpeg"/>
+   <updated>2024-03-26T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2024/03/26/crono-foto-ffmpeg</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/willemes-photosculpture.jpg&quot; alt=&quot;willemes photo-sculpture&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Leyendo el libro &lt;em&gt;Uncomputable&lt;/em&gt; de Peter Galloway me encontré con la fotoescultur,a una técnica popularizada por Auguste François Willème, que consistía en fotografiar a un sujeto dentro de un panóptico inverso por una serie de cámaras obturadas al mismo tiempo alrededor de él. &lt;a href=&quot;https://onthisdateinphotography.com/2017/05/27/may-27/&quot;&gt;[aquí una entrada de blog relacionada]&lt;/a&gt;. De la suma de perfiles capturados de podía reconstruir una replica sólida del sujeto a escala con arcilla, cera o madera. Pienso que se podría hacer simplemente con perfiles de sombra del sujeto, talvez como retratos siempre y cuando los detalles de la sombra definan el contraste de las facciones. También pensaba que en lugar de ocupar varias cámaras se podrían usar métodos de fotogrametría utilizando videos de 60 fps (incluso 24) y luego dividir los frames de tal forma que se mantenga una buena definición para sumar 360 grados.&lt;/p&gt;
+
+&lt;p&gt;He estado experimentando con FFMPEG para hacer transformaciones de videos e imágenes. El canal de Artificial Images tiene una serie de videos de un taller que hizo para utilizar el software para hacer videoarte. &lt;a href=&quot;https://www.youtube.com/watch?v=nobWeGycSe8&quot;&gt;[video en yt]&lt;/a&gt;  Además incluye materiales didácticos y ejemplos de uso &lt;a href=&quot;https://docs.google.com/document/d/12X_2YoCnPPN7B3OsgX39aYyRF8OF-TVStkFTkKhWrx4/edit&quot;&gt;[notas en gg docs]&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>veinti-uno del veinte-veinte-cuatro (#21)</title>
@@ -32,7 +45,7 @@
   &lt;li&gt;prestigio arrebatado &lt;a href=&quot;https://soundcloud.com/c-lucmat/sets/prestigio-arrebatado&quot;&gt;[playlist en SoundCloud]&lt;/a&gt; / funk-e fino / ¿quién se lo quitó a quién? ¿quién lo reclama de vuelta?&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Not right now: On immediacy and the ironies of life in a hypermediated world&lt;/em&gt; de Benjamin Bratton &lt;a href=&quot;https://tank.tv/magazine/issue-98/features/not-right-now&quot;&gt;[texto en TANK]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;WASKAR Y MANY EN VIVO NACIONAL MIX el retorno muy pronto &lt;a href=&quot;https://soundcloud.com/tonysolardiscos/waskar-y-many-en-vivo-nacional&quot;&gt;[grabación en SoundCloud]&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;romantico y alterado de nudo &lt;a href=&quot;https://americansouthwest.bandcamp.com/album/romantico-y-alterado&quot;&gt;[álbum en bandcamp]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;romantico y alterado de nudo &lt;a href=&quot;https://americansouthwest.bandcamp.com/album/romantico-y-alterado&quot;&gt;[álbum en bandcamp]&lt;/a&gt; / en RYM aparece en las categorías deconstructed club, vaporwave y banda sinaloense / tiene mucho en común con la propuesta de Chuquimamani-Condori&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;The Gender of Sound&lt;/em&gt; de Anne Carson &lt;a href=&quot;https://www.fleurmach.files.wordpress.com/2013/10/carson-anne-the-gender-of-sound.pdf&quot;&gt;[capítulo de libro]&lt;/a&gt; / ololyga, graham bell siendo horrible, aischrologia, diosas del sonido y el ruido (Gorgo, Echo, Srinx, Eileithyia) y &lt;em&gt;baubo&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;FUZIL DOS DRAKE - DJ Arana e Triz &lt;a href=&quot;https://www.youtube.com/watch?v=FQ78CEwB47w&quot;&gt;[escuchar en YouTube]&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Syrian Cassette Archives &lt;a href=&quot;https://syriancassettearchives.org/&quot;&gt;[ver sitio]&lt;/a&gt;&lt;/li&gt;
