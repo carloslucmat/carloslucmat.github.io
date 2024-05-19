@@ -4,13 +4,50 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-04-23T20:30:37-06:00</updated>
+ <updated>2024-05-18T18:13:15-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
    <email>carloslucmat1@gmail.com</email>
  </author>
 
+ 
+ <entry>
+   <title>Nociones del universo, el mundo y el hogar</title>
+   <link href="http://localhost:4000/2024/05/15/mundos-y-casas"/>
+   <updated>2024-05-15T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2024/05/15/mundos-y-casas</id>
+   <content type="html">&lt;h2 id=&quot;llovedores-en-las-cuatro-esquinas-cerros-y-alcancías&quot;&gt;Llovedores en las cuatro esquinas, cerros y alcancías&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/llovedores.png&quot; alt=&quot;Tlaloque llovedores en el Códice Borgia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;..lo que concuerda con las “alcancías” de los enanos celestes descritas en un conocido documento del siglo xvi, la Historia de los mexicanos por sus pinturas:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Del cual dios del agua dicen que tiene un aposento de cuatro cuartos, y en medio de un gran patio, do están cuatro barreñones grandes de agua: la una es muy buena, y de ésta llueve cuando se crían los panes y semillas y enviene en buen tiempo. La otra es mala cuando llueve, y con el agua se crían telarañas en los panes y se añublan. Otra es cuando llueve y se hielan; otra cuando llueve y no granan y se secan. Y este dios del agua para llover crio muchos ministros pequeños de cuerpo, los cuales están en los cuartos de la dicha casa, y tienen alcancías en que toman el agua de aquellos barreñones y unos palos en la otra mano, y cuando el dios de la lluvia les manda que vayan a regar algunos términos, toman sus alcancías y sus palos y riegan del agua que se les manda, y cuando atruena, es cuando quiebran las alcancías con los palos, y cuando viene un rayo es de lo que tenían dentro, o parte de la alcancía.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;De manera sorprendente, esta antigua concepción del trabajo pluvial ha perdurado a través de los siglos. Para dar una idea de su arraigo y difusión, transcribimos seis textos provenientes de muy diversos sitios: el Distrito Federal, Veracruz, Guerrero, Oaxaca, Chiapas y, fuera del territorio mexicano, El Salvador. (en López Austin y López Lujan, 2009)&lt;/p&gt;
+
+&lt;h2 id=&quot;dibujos-de-la-creación-tuamotiana&quot;&gt;Dibujos de la creación Tuamotiana&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/paoire1.png&quot; alt=&quot;A newly discovered Illustration of Tuamotuan creation by Paoire and Chillet Fig 1&quot; /&gt;
+&lt;img src=&quot;/images/paoire2.png&quot; alt=&quot;A newly discovered Illustration of Tuamotuan creation by Paoire and Chillet Fig 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The universe was like an egg which contained Te Tumu (The Foundation) and Te Papa (The Stratum-rock). [Stage 1, fig. 1.] It at last burst and produced three layers superposed, the one below propping two above. Upon the lowest layer remained Te Tumu and Te Papa, who created man, animals, and plants. [Upper half of stage 2, fig. 1.]&lt;/p&gt;
+
+&lt;p&gt;The first man was Matata i.e., matangata] produced without arms, and he died shortly after he had come into being. [Lower part, stage 2, no. 1, matato.] The second man was Aitu who came with one arm but without legs, and he died like his elder brother. [Lower
+part, stage 2, no. 2, aaitu]. Finally, the third man, Hoatea i.e., Atea] or Haotu wife of Atea, and therefore wrong, Atea being correct], and he was perfectly formed.&lt;/p&gt;
+
+&lt;h2 id=&quot;esquema-de-una-casa-en-algeria-y-análisis-de-disposicione-simbólicas&quot;&gt;Esquema de una casa en Algeria y análisis de disposicione simbólicas&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/kabyle-house.png&quot; alt=&quot;Scheme of Kabyle&apos;s house&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/bourdieu-scheme.png&quot; alt=&quot;Diagram by Bourdieu&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;concepción-radial-de-la-civilización-china&quot;&gt;Concepción radial de la civilización china&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/images/chinese-needham.png&quot; alt=&quot;Radial Chinese civilization&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Traditional conception of the radiation of Chinese civilization (Needham, 1959: 502). Proceeding outwards from the metropolitan centre, Needham writes, ‘we have, in concentric rectangles, (a) the royal domains, (b) the lands of the tributary feudal princes and lords, (c) the “zone of pacification”, i.e. the marches, where Chinese civilization was in the course of adoption, d) the zone of allied barbarians, (e) the zone of cultureless savagery.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Corridos para la guerra, polkas y sones para el corazón, etc (#22)</title>
@@ -616,7 +653,11 @@ Texto previo: &lt;a href=&quot;https://www.jstor.org/stable/662896&quot;&gt;http
 &lt;h2 id=&quot;los-ensayos-de-valerio-valeri&quot;&gt;Los ensayos de Valerio Valeri&lt;/h2&gt;
 &lt;p&gt;HAU Book editó el libro &lt;em&gt;Classic Concepts in Anthropology&lt;/em&gt; que reúne los ensayos comparativos y conceptuales del académico italiano.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/theo-bib-rit.png&quot; alt=&quot;hola&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;e-morozov-sobre-cómo-elaboró-the-syllabus-a-grandes-rasgos-y-en-qué-consiste&quot;&gt;E. Morozov sobre cómo elaboró The Syllabus a grandes rasgos y en qué consiste&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/morozov-syllabus1.png&quot; alt=&quot;emoroz&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/theo-bib-rit.png&quot; alt=&quot;diag&quot; /&gt;&lt;/p&gt;
 </content>
  </entry>
  

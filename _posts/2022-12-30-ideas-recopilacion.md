@@ -13,4 +13,11 @@ Es la segunda parte de una serie dedicada a la "teoría del ritual". El primer v
 ## Los ensayos de Valerio Valeri
 HAU Book editó el libro _Classic Concepts in Anthropology_ que reúne los ensayos comparativos y conceptuales del académico italiano.
 
-![hola](/images/theo-bib-rit.png)
+
+## E. Morozov sobre cómo elaboró The Syllabus a grandes rasgos y en qué consiste
+
+![emoroz](/images/morozov-syllabus1.png)
+
+ 
+
+![diag](/images/theo-bib-rit.png)
