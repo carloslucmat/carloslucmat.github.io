@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Factores clave en los procesos de rápido cambio social"
+tags: [antropologia, teoría, diagramas, paul stirling, cambio social]
+---
+
+![diagrama de paul stirling 1974](/images/stirling-model.png)
+
+En 1974 Paul Stirling, antropólogo de la UoKent y alumno de Evans-Pritchard, publicó un ensayo/artículo en donde incluyó un diagrama con las instancias y actores de distintos niveles que propiciaban el cambio social acelerado en una villa en Turquía. El autor comenta en una entrevista que dicho diagrama surgió de la necesidad de comprender en fenómeno de cambio social como producto de interacciones concretas y microsociales. En el contexto de la teoría social de los sesenta y setenta las explicaciones de las dinámicas sociales de cambio cultural y social se explicaban por las grandes teorías estructuralistas y marxistas que dejaban poco espacio para la acción cotidiana individual o grupal, niveles intermedios o _meso_. El diagrama de Stirling, pues, tiene la virtud de considerar no solo el papel actores específicos, sino además proponer sus _relaciones causales_ e interrelaciones entre agentes de diferentes niveles. 
+
+Por supuesto, se considera como preponderante el papel del gobierno nacional, factores demográficos como el aumento poblacional, así como el contexto económico como el incremento del ingreso _per cápita_. Pero además considera la importancia de los canales de comunicación como las escuelas o la radio para la transmisión de conocimientos, creencias y habilidades, así como a conexión de puntos geográficos a través de caminos para el transporte de personas, propiciar el movimiento humano y el comercio. Aborda las políticas agrícolas, las demanda internacional de productos, así como las demandas regionales de fuerza de trabajo, etc. Por si no fuera poco el esquema de Stirling considera aspectos como las brechas generacionales, el reemplazo de la autoridad paterna producto de la separación de los hijos, así como la adquicisión de nuevos valores y conocimientos por parte de las mujeres. 
+
+Algunos de los cambios generales que vio Stirling en la villa producto de todas estas relaciones entre factores están: la articulación de la pequeña población con la sociedad nacional, menor dependencia de los habitantes en la villa, bajo consenso cultural, incremento de las desigualdades internas y socavo del control social.
+
+El ejercicio de Stirling es un ejemplo estimulante de mapeo del cambio social y puede servir de base para exploraciones similares en otros contextos históricos y geográficos.
+
+>Whatever the weaknesses of his 'model', his lengthy discussion of the model elements at least makes explicit the assumptions derived from his experience in the field and subsequent analysis of his field materials. This is already preferable to the vocabulary of 'empty concepts' often employed in social analysis. Stirling illustrates two important points. First, even if you cannot mechanically describe a complex social situation, you should be as explicit as possible about what you do know - you can produce a specification of your knowledge. Second, it is difficult to relate this information in a holistic manner using conventional means of representation, such as a two-dimensional diagram and thirty pages of text. (Michael D. Fischer, p. 75, When History Accelerates, en C. Hann, ed., 2016)
