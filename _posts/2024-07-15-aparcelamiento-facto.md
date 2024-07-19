@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Sobre el aparcelamiento de facto en los ejidos"
+tags: [ejido, agrario, rural, propiedad, antropología]
+author: "Carlos Lucas Mateo"
+---
+
+Durante los últimos meses, después de acompañar y platicar con autoridades agrarias y ejidatarios, es de notar que en la gran mayoría de ejidos del Oriente de Michoacán, la tierra está _aparcelada_ de facto. Esto en realidad es un fenómeno más amplio, y que puede rastrearse legalmente a las reformas al 27 en 1992 y 1994. Aunque la ley tarda en aplicarse y a su vez su redacción es un retraso de lo que ya ocurría en la práctica, sigue siendo un pilar para pensar en la cronología de los procesos de la tierra y el mundo rural.
+
+Hay que recordar que en los ejidos y comunidades agrarias hay diferentes tipos de tierra según su uso: doméstico, de labor, y uso común. La primera se destina a la vivienda, la segunda es de producción agrícola y pecuaria, y la tercera son los montes o terrenos compartidos de los cuales los ejidatarios y sus familias pueden acceder por diferentes recursos (leña, morillos, plantas, etc.). Generalmente el uso común es el área de mayor extensión por tratarse de bosques o vegetaciones no aptas para el cultivo. En muchos casos los ejidatarios han parcelado el uso común _de facto_ (también se le conoce en la Ley Agraria como "parcelamiento económico"). Es decir, que las tierras ejidales comunes como montes se dividieron entre los ejidatarios para trabajarlas de forma individual o familiar. Cada quien se hace cargo de su parcela. En el caso de los terrenos forestales del Oriente michoacano tiene la particularidad de que estas parcelas no son agrícolas, sino que mantienen su cobertura arbolada de pino. Estos terrenos se aprovechan para la extracción de resina, así como para la venta de la madera en pie (solo se extrae, no se aplican procesos de aserrío). 
+
+Hasta el momento este parcelamiento "de hecho" parece tener algunas ventajas a decir de sus poseedores, dos de las más importantes son: primero, se ha mantenido la vocación forestal de las tierras, por lo que se mantienen como bosque y por tanto no ha habido cambio de uso de suelo por otros cultivos agrícolas (como aguacate, y otros frutales); y segundo, a decir de los ejidatarios tener la tierra asignada de esta forma es un incentivo para que cada ejidatario/a (y su familia) mantengan en buenas condiciones su parte, con ello se realizan continuamente actividades de limpias, chaponeos, podas y reforestaciones. 
+
+Junto con estas posibles ventajas prácticas del aparcelamiento _de hecho_ también hay una serie de problemáticas o limitantes, a decir:
+- El aparcelamiento de las tierras fomenta el individualismo entre ejidatarios, en algunos casos los ejidatarios dejan de participar en asambleas y faenas y se preocupan únicamente por su tierra. 
+- Aunado a lo anterior, y tomando como caso los ejidos de vocación forestal en Michoacán, esta fragmentación de la propiedad del ejido también impide impulsar iniciativas productivas colectivas. En el caso de la recolección de resina de pino, por ejemplo, cada ejidatario, como responsable de su parcela, se dedica a extraer, transportar y vender su propia resina al mejor postor. Y en el caso de los que se dedican al aprovechamiento de la madera, no existen aserraderos comunitarios o ejidales, por lo que el trabajo de aserrío se realiza en talleres familiares o particulares.  
+- El aparcelamiento de facto, como su nombre lo indica, no tiene validez legal, no se obtienen derechos parcelarios y se vale de un acuerdo interno a la asamblea. Esto los deja en una posición indeterminada legalmente respecto a la propiedad privada pues siguen dependiendo de la figura de la figura de propiedad colectiva del ejido.
+
+Es de notar que en la Ley Agraria se reconoce el procedimiento del parcelamiento económico o _de hecho_, siendo capacidad de la asamblea general de ejidatarios o comuneros realizar la asignación de parcelas según su uso sin necesariamente buscar la certificación de las parcelas por la autoridad agraria nacional. Sin embargo no deja de ser contradictorio que este parcelamiento no tenga efectos o no sea considerado al momento de la solicitud de apoyos de instancias de desarrollo rural o forestal.
+
+El caso del aparcelamiento _de hecho_, _de facto_ o _económico_ al interior de los ejidos es un proceso que vale la pena estudiar a la luz de los debates sobre la propiedad colectiva y los llamados bienes comunes. También es necesario comparar directamente este proceso con lo que ocurre con su contraparte, las comunidades agrarias. En inicio pienso que se vive un fenómeno similar de fragmentación de la propiedad colectiva respecto a su uso común, pero persiste la idea de que las comunidades de alguna forma mantienen una unidad territorial basada en la identidad y la memoria.  
+
+
+Ver:
++ Reglamento de la Ley Agraria en Materia de Certificación de Derechos Ejidales y Titulación De Solares
++ Formato para el Acuerdo de asamblea para la delimitación, destino y asignación de tierras
