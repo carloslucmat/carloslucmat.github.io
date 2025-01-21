@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notas: Cartografías autonómicas en Michoacán"
+title: "Notas sobre Cartografías autonómicas en Michoacán"
 tags: [autonomía, indígena, Michoacam, Mexico, antropología]
 author: "Carlos Lucas Mateo"
 ---

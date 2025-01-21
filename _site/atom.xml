@@ -4,7 +4,7 @@
  <title>CLM</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-09-16T22:40:13-06:00</updated>
+ <updated>2025-01-21T16:00:55-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Carlos Lucas Mateo</name>
@@ -13,10 +13,19 @@
 
  
  <entry>
+   <title>Notas: Cartografías autonómicas en Michoacán</title>
+   <link href="http://localhost:4000/2025/01/21/cartografias-autonomia"/>
+   <updated>2025-01-21T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2025/01/21/cartografias-autonomia</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/notas-carto-auto.png&quot; alt=&quot;Notas Cartografías autonómicas&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Obras totales aka Gesamtkunstwerk</title>
-   <link href="http://localhost:4000/2024/08/01/obras-gesam"/>
-   <updated>2024-08-01T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2024/08/01/obras-gesam</id>
+   <link href="http://localhost:4000/2024/09/16/obras-gesam"/>
+   <updated>2024-09-16T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2024/09/16/obras-gesam</id>
    <content type="html">&lt;p&gt;El concepto de obra total lo acuñó Richard Wagner después de los alzamientos revolucionarios en Alemania de 1848. En su exilio escribió el ensayo o tratado “La Obra de Arte del Futuro”. Ahí sostenía que la persona artista típica se comporta como un egoísta, alejada de la vida y la gente, buscando solamente el disfrute del arte para deleitar a un orden superior o un objeto ajeno. La persona artista del futuro debe buscar el arte y la belleza en la voluntad de lo universal, de lo verdadero y lo incondicional. La artista no brinda su amor a un objeto particular, sino busca el amor en sí mismo. “Así el artista egoísta se volverá comunista.”&lt;/p&gt;
 
 &lt;p&gt;La última realización de este artista sería a través de la disolución del individuo en lo universal a través del renunciamiento al egoísmo, un sacrificio del artista como personalidad individual. La obra total por tanto es aquella en la cual el artista o el interprete realiza un sacrificio en el escenario a fin de disolverse en la colectividad. Y es en ese momento, en ese ritual sacrificial, donde la obra total se realiza completamente: sirviendo un propósito común encarnado momentáneamente en el artista, aceptando la finitud de su interpretación y volviéndola parte del colectivo que representa.&lt;/p&gt;
